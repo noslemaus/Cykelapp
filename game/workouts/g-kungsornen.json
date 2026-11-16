@@ -1,0 +1,176 @@
+{
+ "name": "Kungsörnen",
+ "category": "sprint",
+ "description": "Huvuddel: 3 × 15 s (150 %). Hög kadens i jobbet. Korta, explosiva spurter med gott om vila.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 0.9,
+    "cadence": 90,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 45,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.0,
+    "cadence": 100,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 45,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.1,
+    "cadence": 110,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 45,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.5,
+    "cadence": 110,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 45,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "cadence": 50,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 75,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "cadence": 50,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 75,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "cadence": 50,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 75,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

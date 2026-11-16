@@ -1,0 +1,51 @@
+{
+ "model": "bom",
+ "name": "bom",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.1981,
+    0.227,
+    0.2582
+   ],
+   "m_per_uv": 1.757,
+   "res": 512
+  },
+  "betong_mork": {
+   "recipe": "puts",
+   "color": [
+    0.2307,
+    0.2232,
+    0.2016
+   ],
+   "m_per_uv": 1.414,
+   "res": 256
+  },
+  "skylt_rod": {
+   "recipe": "lack",
+   "color": [
+    0.5776,
+    0.0212,
+    0.0242
+   ],
+   "m_per_uv": 1.432,
+   "res": 512
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 1.432,
+   "res": 512
+  }
+ },
+ "parts": [
+  "bom"
+ ]
+}

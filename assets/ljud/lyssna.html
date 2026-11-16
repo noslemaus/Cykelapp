@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lyssna på låtarna</title>
+<style>
+  :root { --bg: #12161d; --panel: #1f2530; --light: #2b3341; --text: #f3f5f9; --dim: #98a2b3; --accent: #14b8a6; --gold: #ffd34d; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 600 16px/1.4 "Avenir Next", "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 32px; margin: 0 0 4px; }
+  p.lead { color: var(--dim); margin: 0 0 20px; }
+  .world { margin: 22px 0 8px; font-size: 13px; letter-spacing: .08em; color: var(--dim); text-transform: uppercase; }
+  .songs { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; }
+  .song { background: var(--panel); border-radius: 14px; padding: 14px 16px; cursor: pointer; border: 3px solid transparent; }
+  .song:hover { background: var(--light); }
+  .song.on { border-color: var(--accent); }
+  .song b { font-size: 20px; display: block; }
+  .song span { color: var(--dim); font-size: 14px; }
+  .player { position: sticky; top: 0; z-index: 2; background: var(--panel); border-radius: 16px; padding: 14px 16px; margin-bottom: 8px; }
+  .now { font-size: 20px; font-weight: 800; margin-bottom: 10px; }
+  .now small { color: var(--dim); font-weight: 600; font-size: 14px; }
+  .row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  button { font: inherit; font-weight: 700; color: var(--text); background: var(--light); border: 0; border-radius: 10px; padding: 9px 14px; cursor: pointer; }
+  button.sel { background: var(--accent); }
+  button.stop { background: #8a3a3a; }
+  .layers { display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; margin-top: 10px; }
+  .layer { background: var(--bg); border-radius: 8px; padding: 6px 8px; font-size: 13px; color: var(--dim); }
+  .bar { height: 6px; background: #000; border-radius: 3px; margin-top: 4px; overflow: hidden; }
+  .bar i { display: block; height: 100%; width: 0; background: var(--gold); transition: width .6s; }
+  label { color: var(--dim); font-size: 14px; }
+  @media (max-width: 600px) { .layers { grid-template-columns: repeat(3, 1fr); } }
+</style>
+</head>
+<body>
+<main>
+  <h1>Lyssna på låtarna</h1>
+  <p class="lead">Varje låt har sex lager som spelar i takt. Knapparna gör som spelet: vila, zon 1–5 och menyns mix. Lagren tonas in på en sekund.</p>
+
+  <div class="player">
+    <div class="now" id="now">Välj en låt nedan <small></small></div>
+    <div class="row" id="levels"></div>
+    <div class="row" style="margin-top:10px">
+      <button class="stop" id="stop">Stoppa</button>
+      <label>Volym <input type="range" id="vol" min="0" max="100" value="70"></label>
+    </div>
+    <div class="layers" id="layers"></div>
+  </div>
+
+  <div id="list"></div>
+</main>
+<script>
+// The same six layers and levels as the game (game/core/musik.gd).
+const STEMS = ["matta", "bas", "trummor", "ackord", "extra", "melodi"];
+const LEVELS = {
+  "Vila":  [-2, -80, -80, -9, -80, -80],
+  "Zon 1": [0, -3, -80, -80, -80, -80],
+  "Zon 2": [0, 0, -2, -80, -80, -80],
+  "Zon 3": [-3, 0, 0, 0, -80, -80],
+  "Zon 4": [-6, 0, 0, 0, 0, -80],
+  "Zon 5": [-8, 0, 0, 0, 0, 0],
+  "Meny":  [-2, -3, -8, -3, -80, -4],
+};
+const ABOUT = {
+  original: "Fransk elektro med 80-talets Tour de France, 120 BPM",
+  midsommarnatt: "Synthpop i E-moll, arpeggion och gated snare, 118 BPM",
+  kustvagen: "Drivande pop i A-dur, åttondelsbas och plock, 124 BPM",
+  fyrljus: "Långsam i D-moll, breda mattor och eko, 96 BPM",
+  nilen: "Hijaz-skala, maqsum-rytm och oud-plock, 108 BPM",
+  basaren: "Italodisco i D Hijaz med darbuka, 126 BPM",
+  pyramiderna: "Episk i A Hijaz, golvpukor, 92 BPM",
+  neongatan: "City pop med maj7-ackord och poppande bas, 116 BPM",
+  sakura: "Japansk In-skala, koto och flöjt, taiko, 100 BPM",
+  shinkansen: "Synthwave i A-moll, sextondelsbas, 128 BPM",
+};
+const WORLD = { skargarden: "Skärgården", egypten: "Egypten", japan: "Japan", "": "Alla världar" };
+const BASE = "../../game/audio/musik/";
+
+let ctx = null, master = null, sources = [], gains = [], current = null, level = "Zon 5";
+const cache = {};
+
+function db(v) { return v <= -79 ? 0 : Math.pow(10, v / 20); }
+
+async function loadSong(id, folder) {
+  if (cache[id]) return cache[id];
+  const path = BASE + (folder ? folder + "/" : "");
+  const buffers = await Promise.all(STEMS.map(async s => {
+    const r = await fetch(path + s + ".wav");
+    if (!r.ok) throw new Error(s + ": " + r.status);
+    return await ctx.decodeAudioData(await r.arrayBuffer());
+  }));
+  cache[id] = buffers;
+  return buffers;
+}
+
+function stop() {
+  sources.forEach(s => { try { s.stop(); } catch (e) {} });
+  sources = []; gains = [];
+}
+
+async function play(id, info) {
+  if (!ctx) {
+    ctx = new AudioContext();
+    master = ctx.createGain();
+    master.gain.value = document.getElementById("vol").value / 100;
+    master.connect(ctx.destination);
+  }
+  await ctx.resume();
+  document.getElementById("now").innerHTML = `Laddar ${info.name} … <small></small>`;
+  const buffers = await loadSong(id, info.folder);
+  stop();
+  const start = ctx.currentTime + 0.1;
+  buffers.forEach((b, i) => {
+    const src = ctx.createBufferSource();
+    src.buffer = b; src.loop = true;
+    const g = ctx.createGain();
+    g.gain.value = db(LEVELS[level][i]);
+    src.connect(g).connect(master);
+    src.start(start);
+    sources.push(src); gains.push(g);
+  });
+  current = id;
+  document.getElementById("now").innerHTML = `${info.name} <small>${WORLD[info.world] || ""} · ${ABOUT[id] || ""}</small>`;
+  document.querySelectorAll(".song").forEach(el => el.classList.toggle("on", el.dataset.id === id));
+  showLayers();
+}
+
+function setLevel(name) {
+  level = name;
+  document.querySelectorAll("#levels button").forEach(b => b.classList.toggle("sel", b.textContent === name));
+  if (ctx) gains.forEach((g, i) => g.gain.setTargetAtTime(db(LEVELS[name][i]), ctx.currentTime, 0.3));
+  showLayers();
+}
+
+function showLayers() {
+  const box = document.getElementById("layers");
+  box.innerHTML = STEMS.map((s, i) => {
+    const pct = Math.round(db(LEVELS[level][i]) * 100);
+    return `<div class="layer">${s}<div class="bar"><i style="width:${pct}%"></i></div></div>`;
+  }).join("");
+}
+
+async function init() {
+  const levels = document.getElementById("levels");
+  Object.keys(LEVELS).forEach(name => {
+    const b = document.createElement("button");
+    b.textContent = name;
+    b.onclick = () => setLevel(name);
+    levels.appendChild(b);
+  });
+  document.getElementById("stop").onclick = () => { stop(); current = null;
+    document.querySelectorAll(".song").forEach(el => el.classList.remove("on")); };
+  document.getElementById("vol").oninput = e => { if (master) master.gain.value = e.target.value / 100; };
+  setLevel(level);
+  const songs = await (await fetch(BASE + "latar.json")).json();
+  const list = document.getElementById("list");
+  for (const world of ["skargarden", "egypten", "japan", ""]) {
+    const ids = Object.keys(songs).filter(id => (songs[id].world || "") === world);
+    if (!ids.length) continue;
+    const h = document.createElement("div");
+    h.className = "world"; h.textContent = WORLD[world];
+    list.appendChild(h);
+    const grid = document.createElement("div");
+    grid.className = "songs";
+    for (const id of ids) {
+      const info = songs[id];
+      const card = document.createElement("div");
+      card.className = "song"; card.dataset.id = id;
+      card.innerHTML = `<b>${info.name}</b><span>${ABOUT[id] || ""}</span>`;
+      card.onclick = () => play(id, info).catch(e => {
+        document.getElementById("now").innerHTML = `Kunde inte spela ${info.name}: ${e.message}`; });
+      grid.appendChild(card);
+    }
+    list.appendChild(grid);
+  }
+}
+init();
+</script>
+</body>
+</html>

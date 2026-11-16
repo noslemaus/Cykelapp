@@ -1,0 +1,148 @@
+{
+ "model": "cyklist",
+ "kind": "cyclist",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "hud": {
+   "recipe": "hud",
+   "color": [
+    0.7454,
+    0.4508,
+    0.2961
+   ],
+   "m_per_uv": 1.413,
+   "res": 2048
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.546,
+   "res": 1024
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 1.776,
+   "res": 2048
+  },
+  "falg": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3564,
+    0.402
+   ],
+   "m_per_uv": 1.553,
+   "res": 2048
+  },
+  "dack": {
+   "recipe": "gummi",
+   "color": [
+    0.0144,
+    0.016,
+    0.0194
+   ],
+   "m_per_uv": 1.158,
+   "res": 2048
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 0.376,
+   "res": 512
+  },
+  "trika": {
+   "recipe": "tyg",
+   "color": [
+    0.0137,
+    0.1022,
+    0.3813
+   ],
+   "m_per_uv": 1.188,
+   "res": 2048
+  },
+  "flagga_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.8879,
+    0.5395,
+    0.0296
+   ],
+   "m_per_uv": 0.386,
+   "res": 512
+  },
+  "byxor": {
+   "recipe": "tyg",
+   "color": [
+    0.0123,
+    0.0152,
+    0.0212
+   ],
+   "m_per_uv": 1.117,
+   "res": 2048
+  },
+  "hjalm": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.683,
+   "res": 1024
+  },
+  "ram": {
+   "recipe": "lack",
+   "color": [
+    0.5776,
+    0.0296,
+    0.0252
+   ],
+   "m_per_uv": 1.051,
+   "res": 2048
+  },
+  "trika_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.277,
+   "res": 512
+  },
+  "sadel": {
+   "recipe": "gummi",
+   "color": [
+    0.0232,
+    0.0262,
+    0.0331
+   ],
+   "m_per_uv": 0.455,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "BenH",
+  "BenV",
+  "HjulBak",
+  "HjulFram",
+  "Kropp",
+  "LarH",
+  "LarV",
+  "Ram",
+  "Vev"
+ ]
+}

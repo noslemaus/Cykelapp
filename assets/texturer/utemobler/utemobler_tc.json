@@ -1,0 +1,19 @@
+{
+ "model": "utemobler",
+ "kind": "other",
+ "sets": {
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 2.881,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "utemobler"
+ ]
+}

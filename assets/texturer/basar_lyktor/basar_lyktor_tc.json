@@ -1,0 +1,50 @@
+{
+ "model": "basar_lyktor",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 5.587,
+   "res": 1024
+  },
+  "markis_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.3467
+   ],
+   "m_per_uv": 3.896,
+   "res": 1024
+  },
+  "markis_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8632,
+    0.7913,
+    0.6724
+   ],
+   "m_per_uv": 3.896,
+   "res": 1024
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 4.776,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "basar_lyktor"
+ ]
+}

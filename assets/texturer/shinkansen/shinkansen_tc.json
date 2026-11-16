@@ -1,0 +1,30 @@
+{
+ "model": "shinkansen",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "shinkansen_vit": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9216,
+    0.9387
+   ],
+   "m_per_uv": 22.429,
+   "res": 2048
+  },
+  "shinkansen_bla": {
+   "recipe": "lack",
+   "color": [
+    0.0137,
+    0.0685,
+    0.3515
+   ],
+   "m_per_uv": 19.024,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "shinkansen"
+ ]
+}

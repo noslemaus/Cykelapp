@@ -1,0 +1,40 @@
+{
+ "model": "viadukt",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 23.887,
+   "res": 2048
+  },
+  "betong_mork": {
+   "recipe": "puts",
+   "color": [
+    0.2051,
+    0.2016,
+    0.1845
+   ],
+   "m_per_uv": 20.044,
+   "res": 2048
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 20.02,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "viadukt"
+ ]
+}

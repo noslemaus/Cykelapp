@@ -1,0 +1,29 @@
+{
+ "model": "ufo",
+ "kind": "other",
+ "sets": {
+  "ufo_metall": {
+   "recipe": "metall",
+   "color": [
+    0.552,
+    0.6038,
+    0.6654
+   ],
+   "m_per_uv": 23.414,
+   "res": 2048
+  },
+  "ufo_mork": {
+   "recipe": "metall",
+   "color": [
+    0.2051,
+    0.2423,
+    0.2874
+   ],
+   "m_per_uv": 20.396,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "ufo"
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "name": "Hjortronsylten",
+ "category": "sweetspot",
+ "description": "Huvuddel: 20 min (85–91 %) och 5 × 1 min (100 %), plus fler block. Hög kadens i jobbet. Mycket träning för pengarna, strax under tröskeln.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.6,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.81,
+   "cadence": 100,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "cadence": 105,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.95,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 1200,
+   "from": 0.85,
+   "to": 0.91,
+   "cadence": 90
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.0,
+    "cadence": 100,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.5,
+   "to": 0.4,
+   "cadence": 85
+  }
+ ]
+}

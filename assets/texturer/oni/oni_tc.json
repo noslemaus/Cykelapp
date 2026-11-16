@@ -1,0 +1,64 @@
+{
+ "model": "oni",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "oni_rod": {
+   "recipe": "hud",
+   "color": [
+    0.5776,
+    0.0423,
+    0.0232
+   ],
+   "m_per_uv": 3.269,
+   "res": 1024
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 1.079,
+   "res": 256
+  },
+  "tofs_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 0.498,
+   "res": 256
+  },
+  "tiger": {
+   "recipe": "tyg",
+   "color": [
+    0.7454,
+    0.3515,
+    0.0296
+   ],
+   "m_per_uv": 1.27,
+   "res": 256
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.772,
+   "res": 256
+  }
+ },
+ "parts": [
+  "ArmH",
+  "ArmV",
+  "BenH",
+  "BenV",
+  "Kropp"
+ ]
+}

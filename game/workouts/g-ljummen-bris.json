@@ -1,0 +1,79 @@
+{
+ "name": "Ljummen bris",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP och delar upp till 70 %. Ingen stress, bara tramp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.7,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 270,
+    "power": 0.5,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.7,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 150,
+    "power": 0.5,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 0.7,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 100,
+    "power": 0.5,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.5,
+   "to": 0.4
+  }
+ ]
+}

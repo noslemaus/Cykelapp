@@ -1,0 +1,39 @@
+{
+ "model": "brevlada",
+ "kind": "other",
+ "sets": {
+  "brevlada": {
+   "recipe": "farg",
+   "color": [
+    0.5841,
+    0.552,
+    0.4793
+   ],
+   "m_per_uv": 0.881,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 1.084,
+   "res": 256
+  },
+  "fyr_rod": {
+   "recipe": "farg",
+   "color": [
+    0.5776,
+    0.0296,
+    0.0252
+   ],
+   "m_per_uv": 0.552,
+   "res": 256
+  }
+ },
+ "parts": [
+  "brevlada"
+ ]
+}

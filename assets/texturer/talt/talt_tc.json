@@ -1,0 +1,61 @@
+{
+ "model": "talt",
+ "name": "talt",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 5.229,
+   "res": 1024
+  },
+  "talt_gron": {
+   "recipe": "tyg",
+   "color": [
+    0.0782,
+    0.1946,
+    0.0423
+   ],
+   "m_per_uv": 5.73,
+   "res": 2048
+  },
+  "talt_ora": {
+   "recipe": "tyg",
+   "color": [
+    0.7454,
+    0.1946,
+    0.0232
+   ],
+   "m_per_uv": 2.706,
+   "res": 512
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 1.634,
+   "res": 512
+  },
+  "trojan_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.807,
+    0.5271,
+    0.0513
+   ],
+   "m_per_uv": 1.109,
+   "res": 256
+  }
+ },
+ "parts": [
+  "talt"
+ ]
+}

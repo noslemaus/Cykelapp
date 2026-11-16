@@ -1,0 +1,41 @@
+{
+ "model": "fyr_jp",
+ "name": "fyr_jp",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "fyr_rod": {
+   "recipe": "farg",
+   "color": [
+    0.6867,
+    0.0296,
+    0.0137
+   ],
+   "m_per_uv": 9.88,
+   "res": 2048
+  },
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 8.744,
+   "res": 2048
+  },
+  "torn_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 1.605,
+   "res": 512
+  }
+ },
+ "parts": [
+  "fyr_jp"
+ ]
+}

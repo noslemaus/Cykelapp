@@ -1,0 +1,49 @@
+{
+ "model": "kyrka",
+ "kind": "building",
+ "sets": {
+  "kyrktak": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0452,
+    0.0513,
+    0.0648
+   ],
+   "m_per_uv": 32.787,
+   "res": 2048
+  },
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 24.317,
+   "res": 2048
+  },
+  "vit": {
+   "recipe": "vitt",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 29.036,
+   "res": 2048
+  },
+  "vit_vagg": {
+   "recipe": "puts",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 32.979,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "kyrka"
+ ]
+}

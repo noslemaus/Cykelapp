@@ -1,0 +1,30 @@
+{
+ "model": "torii_stor",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "vermiljon": {
+   "recipe": "farg",
+   "color": [
+    0.7454,
+    0.0595,
+    0.0242
+   ],
+   "m_per_uv": 16.954,
+   "res": 2048
+  },
+  "tak_mork": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0343,
+    0.0395,
+    0.0497
+   ],
+   "m_per_uv": 17.231,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "torii_stor"
+ ]
+}

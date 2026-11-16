@@ -1,0 +1,59 @@
+{
+ "model": "pysare",
+ "kind": "other",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 0.331,
+   "res": 256
+  },
+  "pysare": {
+   "recipe": "hud",
+   "color": [
+    0.1095,
+    0.3231,
+    0.0467
+   ],
+   "m_per_uv": 2.539,
+   "res": 512
+  },
+  "pysare_mork": {
+   "recipe": "hud",
+   "color": [
+    0.0497,
+    0.1559,
+    0.0232
+   ],
+   "m_per_uv": 1.746,
+   "res": 512
+  },
+  "pysare_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.2232,
+    0.521,
+    0.0908
+   ],
+   "m_per_uv": 2.002,
+   "res": 512
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 0.341,
+   "res": 256
+  }
+ },
+ "parts": [
+  "pysare"
+ ]
+}

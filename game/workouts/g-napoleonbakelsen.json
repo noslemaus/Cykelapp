@@ -1,0 +1,105 @@
+{
+ "name": "Napoleonbakelsen",
+ "category": "sweetspot",
+ "description": "Huvuddel: 2 × 4 min (86–90 %) och 2 × 3 min (86–90 %), plus fler block. Låg kadens i jobbet. Söt punkt: precis lagom jobbigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "cadence": 85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.83,
+   "cadence": 80,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.86,
+   "cadence": 75,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.9,
+   "cadence": 70,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.79,
+   "cadence": 85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.83,
+   "cadence": 80,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.86,
+   "cadence": 75,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "cadence": 70,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.5
+  }
+ ]
+}

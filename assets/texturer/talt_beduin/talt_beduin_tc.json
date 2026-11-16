@@ -1,0 +1,91 @@
+{
+ "model": "talt_beduin",
+ "name": "talt_beduin",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "talt_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0437,
+    0.0343,
+    0.0296
+   ],
+   "m_per_uv": 11.012,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.362,
+   "res": 512
+  },
+  "matta_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.3278,
+    0.0232,
+    0.0232
+   ],
+   "m_per_uv": 4.026,
+   "res": 1024
+  },
+  "matta_beige": {
+   "recipe": "tyg",
+   "color": [
+    0.6867,
+    0.552,
+    0.3231
+   ],
+   "m_per_uv": 2.415,
+   "res": 512
+  },
+  "markis_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.4621,
+    0.0423
+   ],
+   "m_per_uv": 1.118,
+   "res": 256
+  },
+  "matta_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0497,
+    0.1946
+   ],
+   "m_per_uv": 1.118,
+   "res": 256
+  },
+  "markis_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0409,
+    0.0242
+   ],
+   "m_per_uv": 1.118,
+   "res": 256
+  },
+  "terrakotta": {
+   "recipe": "farg",
+   "color": [
+    0.4621,
+    0.117,
+    0.0423
+   ],
+   "m_per_uv": 1.078,
+   "res": 256
+  }
+ },
+ "parts": [
+  "talt_beduin"
+ ]
+}

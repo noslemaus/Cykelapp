@@ -1,0 +1,41 @@
+{
+ "model": "hjort",
+ "name": "hjort",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "hjort_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.7157,
+    0.5271
+   ],
+   "m_per_uv": 0.76,
+   "res": 256
+  },
+  "hjort_brun": {
+   "recipe": "hud",
+   "color": [
+    0.2542,
+    0.1022,
+    0.0343
+   ],
+   "m_per_uv": 2.482,
+   "res": 512
+  },
+  "tanuki_ljus": {
+   "recipe": "lack",
+   "color": [
+    0.6867,
+    0.5776,
+    0.3916
+   ],
+   "m_per_uv": 0.273,
+   "res": 256
+  }
+ },
+ "parts": [
+  "hjort"
+ ]
+}

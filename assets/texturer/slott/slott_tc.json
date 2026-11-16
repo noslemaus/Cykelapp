@@ -1,0 +1,51 @@
+{
+ "model": "slott",
+ "name": "slott",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 92.556,
+   "res": 2048
+  },
+  "vit_puts": {
+   "recipe": "puts",
+   "color": [
+    0.8879,
+    0.8632,
+    0.7913
+   ],
+   "m_per_uv": 89.668,
+   "res": 2048
+  },
+  "tak_mork": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0343,
+    0.0395,
+    0.0497
+   ],
+   "m_per_uv": 91.49,
+   "res": 2048
+  },
+  "tak_gron": {
+   "recipe": "tak_plat",
+   "color": [
+    0.1144,
+    0.2747,
+    0.2016
+   ],
+   "m_per_uv": 116.622,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "slott"
+ ]
+}

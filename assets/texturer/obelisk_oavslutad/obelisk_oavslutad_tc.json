@@ -1,0 +1,61 @@
+{
+ "model": "obelisk_oavslutad",
+ "name": "obelisk_oavslutad",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "granit_rosa": {
+   "recipe": "grund",
+   "color": [
+    0.4564,
+    0.2307,
+    0.1746
+   ],
+   "m_per_uv": 52.161,
+   "res": 2048
+  },
+  "granit": {
+   "recipe": "grund",
+   "color": [
+    0.2542,
+    0.1274,
+    0.1022
+   ],
+   "m_per_uv": 49.994,
+   "res": 2048
+  },
+  "granit_mork": {
+   "recipe": "grund",
+   "color": [
+    0.0931,
+    0.0612,
+    0.0497
+   ],
+   "m_per_uv": 44.092,
+   "res": 2048
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 30.038,
+   "res": 2048
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 30.038,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "obelisk_oavslutad"
+ ]
+}

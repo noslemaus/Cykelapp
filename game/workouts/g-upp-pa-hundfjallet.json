@@ -1,0 +1,83 @@
+{
+ "name": "Upp på Hundfjället",
+ "category": "climbing",
+ "description": "Huvuddel: 2 × 30 s (115 %) och två set med 3 × 2 min (90 %). Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.15,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.9,
+    "cadence": 90,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.05,
+    "cadence": 75,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.9,
+    "cadence": 90,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.05,
+    "cadence": 75,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

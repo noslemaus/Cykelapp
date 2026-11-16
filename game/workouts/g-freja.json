@@ -1,0 +1,178 @@
+{
+ "name": "Freja",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 × 30 s (105–110 %) och 12 × 1 min (109 %). Syreupptag på max. Vila ordentligt mellan blocken.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.05,
+   "to": 1.1
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.05,
+   "to": 1.1
+  },
+  {
+   "type": "ramp",
+   "duration": 90,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 120,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 120,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 120,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.65,
+   "to": 0.35
+  }
+ ]
+}

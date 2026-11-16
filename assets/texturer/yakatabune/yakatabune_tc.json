@@ -1,0 +1,40 @@
+{
+ "model": "yakatabune",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 11.024,
+   "res": 2048
+  },
+  "batskrov": {
+   "recipe": "batfarg",
+   "color": [
+    0.1022,
+    0.0423,
+    0.016
+   ],
+   "m_per_uv": 12.04,
+   "res": 2048
+  },
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 11.896,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "yakatabune"
+ ]
+}

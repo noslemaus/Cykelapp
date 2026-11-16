@@ -1,0 +1,26 @@
+{
+ "name": "Mjuka ben",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP. Benen ska må bättre efteråt än innan.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.3,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 90,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "model": "midsommarstang",
+ "name": "midsommarstang",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "stang": {
+   "recipe": "tra",
+   "color": [
+    0.2747,
+    0.2122,
+    0.1329
+   ],
+   "m_per_uv": 6.514,
+   "res": 2048
+  },
+  "flagga_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.8879,
+    0.5395,
+    0.0296
+   ],
+   "m_per_uv": 1.416,
+   "res": 256
+  },
+  "flagga_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0137,
+    0.1022,
+    0.3813
+   ],
+   "m_per_uv": 1.403,
+   "res": 256
+  }
+ },
+ "parts": [
+  "midsommarstang"
+ ]
+}

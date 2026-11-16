@@ -1,0 +1,53 @@
+{
+ "name": "Trym",
+ "category": "vo2max",
+ "description": "Huvuddel: 3 min (120 %) och 1 min (120 %). Hög kadens i jobbet. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.5,
+   "to": 0.75,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.2,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "intervals",
+   "repeat": 8,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.7,
+    "cadence": 85,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.1,
+    "cadence": 95,
+    "label": "VO2max"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  }
+ ]
+}

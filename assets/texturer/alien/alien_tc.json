@@ -1,0 +1,50 @@
+{
+ "model": "alien",
+ "kind": "other",
+ "sets": {
+  "alien_drakt": {
+   "recipe": "tyg",
+   "color": [
+    0.0931,
+    0.1384,
+    0.2623
+   ],
+   "m_per_uv": 1.209,
+   "res": 256
+  },
+  "alien_hud": {
+   "recipe": "hud",
+   "color": [
+    0.3763,
+    0.7157,
+    0.4233
+   ],
+   "m_per_uv": 1.199,
+   "res": 256
+  },
+  "ufo_mork": {
+   "recipe": "metall",
+   "color": [
+    0.2051,
+    0.2423,
+    0.2874
+   ],
+   "m_per_uv": 0.391,
+   "res": 256
+  },
+  "ufo_metall": {
+   "recipe": "metall",
+   "color": [
+    0.552,
+    0.6038,
+    0.6654
+   ],
+   "m_per_uv": 1.235,
+   "res": 256
+  }
+ },
+ "parts": [
+  "Kropp",
+  "Skiva"
+ ]
+}

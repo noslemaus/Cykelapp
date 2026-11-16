@@ -1,0 +1,50 @@
+{
+ "model": "staty_farao",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "sandsten": {
+   "recipe": "sandsten",
+   "color": [
+    0.5841,
+    0.2747,
+    0.1022
+   ],
+   "m_per_uv": 19.966,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 12.077,
+   "res": 2048
+  },
+  "nemes_bla": {
+   "recipe": "farg",
+   "color": [
+    0.0137,
+    0.0782,
+    0.3231
+   ],
+   "m_per_uv": 5.857,
+   "res": 1024
+  },
+  "kalksten_ljus": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.8228,
+    0.7157,
+    0.5271
+   ],
+   "m_per_uv": 3.978,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "staty_farao"
+ ]
+}

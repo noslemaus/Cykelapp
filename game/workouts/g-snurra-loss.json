@@ -1,0 +1,52 @@
+{
+ "name": "Snurra loss",
+ "category": "recovery",
+ "description": "Mest runt 75 % av FTP. Lugnt och mjukt, för dagen efter ett hårt pass.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.75,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.75,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.75,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

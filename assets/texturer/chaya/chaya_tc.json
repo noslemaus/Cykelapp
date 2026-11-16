@@ -1,0 +1,71 @@
+{
+ "model": "chaya",
+ "name": "chaya",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "mosen": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0212,
+    0.0137
+   ],
+   "m_per_uv": 6.804,
+   "res": 2048
+  },
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 10.023,
+   "res": 2048
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 11.282,
+   "res": 2048
+  },
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 5.305,
+   "res": 1024
+  },
+  "kimono_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.2542
+   ],
+   "m_per_uv": 2.867,
+   "res": 512
+  },
+  "halm_tak": {
+   "recipe": "halm",
+   "color": [
+    0.2051,
+    0.1441,
+    0.0685
+   ],
+   "m_per_uv": 13.432,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "chaya"
+ ]
+}

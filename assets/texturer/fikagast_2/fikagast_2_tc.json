@@ -1,0 +1,101 @@
+{
+ "model": "fikagast_2",
+ "name": "fikagast_2",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "trojan_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.807,
+    0.5271,
+    0.0513
+   ],
+   "m_per_uv": 1.329,
+   "res": 256
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 0.995,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 0.482,
+   "res": 256
+  },
+  "jeans": {
+   "recipe": "tyg",
+   "color": [
+    0.0497,
+    0.1022,
+    0.2159
+   ],
+   "m_per_uv": 1.011,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.404,
+   "res": 256
+  },
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 0.748,
+   "res": 256
+  },
+  "man_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.016,
+    0.0144
+   ],
+   "m_per_uv": 0.406,
+   "res": 256
+  },
+  "keps_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0296,
+    0.0273
+   ],
+   "m_per_uv": 0.501,
+   "res": 256
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 0.705,
+   "res": 256
+  }
+ },
+ "parts": [
+  "fikagast_2"
+ ]
+}

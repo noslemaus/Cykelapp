@@ -1,0 +1,47 @@
+{
+ "name": "Budapestbakelsen",
+ "category": "sweetspot",
+ "description": "Huvuddel: 3 × 1 min (150 %) och 15 min (93 %). Hårt men hållbart. Bygger FTP utan att du blir helt slut.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 1200,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.5,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.93,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.4,
+   "label": "Vila"
+  }
+ ]
+}

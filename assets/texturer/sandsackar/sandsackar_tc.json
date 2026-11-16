@@ -1,0 +1,29 @@
+{
+ "model": "sandsackar",
+ "kind": "other",
+ "sets": {
+  "sand_mork": {
+   "recipe": "tyg",
+   "color": [
+    0.3663,
+    0.2747,
+    0.1221
+   ],
+   "m_per_uv": 2.94,
+   "res": 1024
+  },
+  "sand": {
+   "recipe": "tyg",
+   "color": [
+    0.521,
+    0.3916,
+    0.1845
+   ],
+   "m_per_uv": 5.881,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "sandsackar"
+ ]
+}

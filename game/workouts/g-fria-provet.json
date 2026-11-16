@@ -1,0 +1,75 @@
+{
+ "name": "Fria provet",
+ "category": "ftptest",
+ "description": "Ett test helt i fritt läge: du styr watten själv hela vägen, och det långa blocket på 12 min körs så hårt du orkar.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.28,
+   "to": 0.88,
+   "cadence": 90
+  },
+  {
+   "type": "free",
+   "duration": 120,
+   "cadence": 90,
+   "label": "Fritt"
+  },
+  {
+   "type": "free",
+   "duration": 240,
+   "cadence": 90,
+   "label": "Fritt"
+  },
+  {
+   "type": "free",
+   "duration": 240,
+   "cadence": 90,
+   "label": "Fritt"
+  },
+  {
+   "type": "free",
+   "duration": 480,
+   "cadence": 90,
+   "label": "Fritt"
+  },
+  {
+   "type": "free",
+   "duration": 720,
+   "cadence": 90,
+   "label": "Allt du har"
+  },
+  {
+   "type": "free",
+   "duration": 240,
+   "cadence": 90,
+   "label": "Fritt"
+  },
+  {
+   "type": "free",
+   "duration": 15,
+   "cadence": 100,
+   "label": "Fritt"
+  },
+  {
+   "type": "free",
+   "duration": 240,
+   "cadence": 90,
+   "label": "Fritt"
+  },
+  {
+   "type": "free",
+   "duration": 15,
+   "cadence": 100,
+   "label": "Fritt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.12,
+   "cadence": 70
+  }
+ ]
+}

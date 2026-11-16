@@ -1,0 +1,61 @@
+{
+ "model": "pagod5",
+ "name": "pagod5",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 24.125,
+   "res": 2048
+  },
+  "vermiljon": {
+   "recipe": "farg",
+   "color": [
+    0.7454,
+    0.0595,
+    0.0242
+   ],
+   "m_per_uv": 41.413,
+   "res": 2048
+  },
+  "vit_puts": {
+   "recipe": "puts",
+   "color": [
+    0.8879,
+    0.8632,
+    0.7913
+   ],
+   "m_per_uv": 21.759,
+   "res": 2048
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 57.34,
+   "res": 2048
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 24.049,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "pagod5"
+ ]
+}

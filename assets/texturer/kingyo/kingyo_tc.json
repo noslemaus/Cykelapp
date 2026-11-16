@@ -1,0 +1,61 @@
+{
+ "model": "kingyo",
+ "name": "kingyo",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 2.312,
+   "res": 512
+  },
+  "markis_vit_jp": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.8879,
+    0.8228
+   ],
+   "m_per_uv": 3.265,
+   "res": 1024
+  },
+  "markis_rod_jp": {
+   "recipe": "tyg",
+   "color": [
+    0.6308,
+    0.0232,
+    0.0232
+   ],
+   "m_per_uv": 3.265,
+   "res": 1024
+  },
+  "kingyo_bla": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.1946,
+    0.6308
+   ],
+   "m_per_uv": 3.622,
+   "res": 1024
+  },
+  "glas_bla": {
+   "recipe": "fasad",
+   "color": [
+    0.0343,
+    0.0802,
+    0.1559
+   ],
+   "m_per_uv": 2.306,
+   "res": 512
+  }
+ },
+ "parts": [
+  "kingyo"
+ ]
+}

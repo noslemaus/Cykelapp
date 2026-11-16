@@ -1,0 +1,63 @@
+{
+ "name": "Genom Jämtland",
+ "category": "endurance",
+ "description": "Mest runt 75 % av FTP. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 360,
+    "power": 0.75,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 90,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 300,
+    "power": 0.75,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.55,
+   "to": 0.4
+  }
+ ]
+}

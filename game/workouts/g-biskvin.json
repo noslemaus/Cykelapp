@@ -1,0 +1,109 @@
+{
+ "name": "Biskvin",
+ "category": "sweetspot",
+ "description": "Huvuddel: 4 min (90 %) och 6 × 5 min (76–89 %), plus fler block. Låg kadens i jobbet. Hårt men hållbart. Bygger FTP utan att du blir helt slut.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89,
+   "cadence": 75
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89,
+   "cadence": 80
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89,
+   "cadence": 75
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89,
+   "cadence": 80
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89,
+   "cadence": 85
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

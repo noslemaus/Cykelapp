@@ -1,0 +1,198 @@
+{
+ "name": "Upp på Trillevallen",
+ "category": "climbing",
+ "description": "Huvuddel: 2 × 1 min (90 %). Hög kadens i jobbet. Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.25,
+   "to": 0.5,
+   "cadence": 95
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "cadence": 100,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "cadence": 105,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "cadence": 110,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.8,
+   "cadence": 115,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 120,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 10,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 0.7,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.1,
+    "cadence": 70,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 10,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.7,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.1,
+    "cadence": 70,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.7,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.1,
+    "cadence": 70,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.7,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.1,
+    "cadence": 70,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "cadence": 100,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "cadence": 105,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "cadence": 110,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.8,
+   "cadence": 115,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 120,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 330,
+   "power": 0.4,
+   "cadence": 105,
+   "label": "Vila"
+  }
+ ]
+}

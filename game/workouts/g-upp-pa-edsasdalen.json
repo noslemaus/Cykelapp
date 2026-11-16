@@ -1,0 +1,112 @@
+{
+ "name": "Upp på Edsåsdalen",
+ "category": "climbing",
+ "description": "Huvuddel: 2 × 5 min (90–104 %) och 2 × 5 min (90–104 %), plus fler block. Låg kadens i jobbet. Långa backar med låg kadens, som att klättra på riktigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.45,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.5,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.9,
+   "to": 1.04,
+   "cadence": 75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.4,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.9,
+   "to": 1.04,
+   "cadence": 80
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.3,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.9,
+   "to": 1.04,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.95,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

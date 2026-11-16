@@ -1,0 +1,30 @@
+{
+ "model": "taikobashi",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 11.238,
+   "res": 2048
+  },
+  "vermiljon": {
+   "recipe": "farg",
+   "color": [
+    0.7454,
+    0.0595,
+    0.0242
+   ],
+   "m_per_uv": 10.52,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "taikobashi"
+ ]
+}

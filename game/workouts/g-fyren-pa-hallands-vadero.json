@@ -1,0 +1,215 @@
+{
+ "name": "Fyren på Hallands Väderö",
+ "category": "threshold",
+ "description": "Huvuddel: 4 × 45 s (90 %) och 8 × 30 s (100 %), plus fler block. Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 0.88
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.0,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.7,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.78,
+   "to": 0.7
+  }
+ ]
+}

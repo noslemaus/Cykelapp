@@ -1,0 +1,51 @@
+{
+ "model": "dohyo",
+ "name": "dohyo",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "dohyo_lera": {
+   "recipe": "puts",
+   "color": [
+    0.5841,
+    0.3712,
+    0.1441
+   ],
+   "m_per_uv": 14.071,
+   "res": 2048
+  },
+  "rep": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.7157,
+    0.5271
+   ],
+   "m_per_uv": 4.244,
+   "res": 1024
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 6.038,
+   "res": 2048
+  },
+  "tak_gron": {
+   "recipe": "tak_plat",
+   "color": [
+    0.1144,
+    0.2747,
+    0.2016
+   ],
+   "m_per_uv": 18.824,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "dohyo"
+ ]
+}

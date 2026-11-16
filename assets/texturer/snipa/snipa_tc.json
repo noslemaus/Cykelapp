@@ -1,0 +1,41 @@
+{
+ "model": "snipa",
+ "name": "snipa",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 7.322,
+   "res": 2048
+  },
+  "bat_vit": {
+   "recipe": "batfarg",
+   "color": [
+    0.855,
+    0.855,
+    0.8228
+   ],
+   "m_per_uv": 5.676,
+   "res": 1024
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 1.483,
+   "res": 512
+  }
+ },
+ "parts": [
+  "snipa"
+ ]
+}

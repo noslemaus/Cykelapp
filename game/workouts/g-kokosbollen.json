@@ -1,0 +1,34 @@
+{
+ "name": "Kokosbollen",
+ "category": "sweetspot",
+ "description": "Huvuddel: 2 × 8 min (90 %). Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "duration": 480,
+    "power": 0.9,
+    "cadence": 90,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "duration": 180,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

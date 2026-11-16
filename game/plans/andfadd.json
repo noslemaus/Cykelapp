@@ -1,0 +1,568 @@
+{
+ "id": "andfadd",
+ "order": 16,
+ "name": "Andfådd",
+ "goal": "Två veckor med hårda intervaller som höjer taket för din syreupptagning.",
+ "color": "e86a26",
+ "sessions": [
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 65 % av FTP och delar upp till 125 %.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 1200,
+     "from": 0.25,
+     "to": 0.75
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 1.25,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 1500,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.65,
+     "to": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 100 % av FTP, med tio korta ryck.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 1200,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "intervals",
+     "repeat": 10,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 1800,
+     "label": "Fritt – kör som du vill"
+    }
+   ]
+  },
+  {
+   "name": "Tröskelpass",
+   "category": "threshold",
+   "description": "Huvuddel: tre set med 6 × 40 s (95 %).",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 1200,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 40,
+      "power": 0.95,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 20,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 240,
+     "label": "Fritt – kör som du vill"
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 40,
+      "power": 0.95,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 20,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 240,
+     "label": "Fritt – kör som du vill"
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 40,
+      "power": 0.95,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 20,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 840,
+     "label": "Fritt – kör som du vill"
+    }
+   ]
+  },
+  {
+   "name": "Tröskelpass",
+   "category": "threshold",
+   "description": "Huvuddel: 20 × 15 s (100 %).",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 600,
+     "label": "Fritt – kör som du vill"
+    }
+   ]
+  },
+  {
+   "name": "Tröskelpass",
+   "category": "threshold",
+   "description": "Huvuddel: fyra set med 20 × 30 s (100 %).",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.7,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.8,
+     "label": "Tempo"
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 80 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 1200,
+     "from": 0.25,
+     "to": 0.75
+    },
+    {
+     "type": "intervals",
+     "repeat": 3,
+     "on": {
+      "type": "steady",
+      "duration": 300,
+      "power": 0.8,
+      "label": "Tempo"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 180,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 960,
+     "label": "Fritt – kör som du vill"
+    }
+   ]
+  },
+  {
+   "name": "Återhämtningspass",
+   "category": "recovery",
+   "description": "Mest runt 100 % av FTP, med fem korta ryck.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "intervals",
+     "repeat": 5,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 600,
+     "label": "Fritt – kör som du vill"
+    }
+   ]
+  },
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 6 × 3 min (85 %).",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 900,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 180,
+      "power": 0.85,
+      "label": "Tempo"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 120,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "free",
+     "duration": 900,
+     "label": "Fritt – kör som du vill"
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 85 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 1200,
+     "from": 0.25,
+     "to": 0.75
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "free",
+     "duration": 600,
+     "label": "Fritt – kör som du vill"
+    }
+   ]
+  },
+  {
+   "name": "Tröskelpass",
+   "category": "threshold",
+   "description": "Huvuddel: två set med 8 × 30 s (100 %) och fyra set med 20 × 30 s (100 %).",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.7,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.8,
+     "label": "Tempo"
+    },
+    {
+     "type": "intervals",
+     "repeat": 8,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 420,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 8,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 20,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Vila"
+    }
+   ]
+  }
+ ]
+}

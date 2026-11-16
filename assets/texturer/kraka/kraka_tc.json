@@ -1,0 +1,20 @@
+{
+ "model": "kraka",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kraka": {
+   "recipe": "tyg",
+   "color": [
+    0.0116,
+    0.0116,
+    0.016
+   ],
+   "m_per_uv": 1.034,
+   "res": 256
+  }
+ },
+ "parts": [
+  "kraka"
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "name": "Upp på Tandådalen",
+ "category": "climbing",
+ "description": "Huvuddel: 7 × 3 min (115 %). Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.75,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "cadence": 80,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.15,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.13,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.13,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.13,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.13,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.13,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.13,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 540,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

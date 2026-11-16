@@ -1,0 +1,51 @@
+{
+ "model": "asna",
+ "name": "asna",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "asna_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.5841,
+    0.5333,
+    0.4564
+   ],
+   "m_per_uv": 0.565,
+   "res": 256
+  },
+  "asna": {
+   "recipe": "hud",
+   "color": [
+    0.2542,
+    0.2195,
+    0.1878
+   ],
+   "m_per_uv": 2.156,
+   "res": 512
+  },
+  "sadel_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.3916,
+    0.0423,
+    0.0232
+   ],
+   "m_per_uv": 1.168,
+   "res": 256
+  },
+  "sack": {
+   "recipe": "tyg",
+   "color": [
+    0.6724,
+    0.5711,
+    0.3515
+   ],
+   "m_per_uv": 1.012,
+   "res": 256
+  }
+ },
+ "parts": [
+  "asna"
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "name": "Fyren på Väderöbod",
+ "category": "threshold",
+ "description": "Huvuddel: 4 min (90 %) och 4 × 8 min (91–105 %), plus fler block. Vid tröskeln: jobbigt, jämnt och fokuserat.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.91,
+   "to": 1.05
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 1.05,
+   "to": 0.91
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.91,
+   "to": 1.05
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 1.05,
+   "to": 0.91
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.45
+  }
+ ]
+}

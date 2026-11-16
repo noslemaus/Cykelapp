@@ -1,0 +1,31 @@
+{
+ "model": "klockstapel",
+ "name": "klockstapel",
+ "kind": "building",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "kyrktak": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0452,
+    0.0513,
+    0.0648
+   ],
+   "m_per_uv": 7.583,
+   "res": 2048
+  },
+  "falu": {
+   "recipe": "vagg",
+   "color": [
+    0.2747,
+    0.0232,
+    0.0137
+   ],
+   "m_per_uv": 12.684,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "klockstapel"
+ ]
+}

@@ -1,0 +1,180 @@
+{
+ "name": "Runt Runn",
+ "category": "endurance",
+ "description": "Mest runt 80 % av FTP. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.95,
+   "to": 1.01
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.75,
+   "to": 0.8
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.79,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 480,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 120,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.79,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 480,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

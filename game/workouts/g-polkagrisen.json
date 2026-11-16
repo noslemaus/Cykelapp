@@ -1,0 +1,90 @@
+{
+ "name": "Polkagrisen",
+ "category": "sweetspot",
+ "description": "Huvuddel: 5 × 10 min (88–93 %). Mycket träning för pengarna, strax under tröskeln.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.8,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.88,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.93,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.88,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

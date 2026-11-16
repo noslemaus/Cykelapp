@@ -1,0 +1,139 @@
+{
+ "name": "Procentrampen",
+ "category": "ftptest",
+ "description": "Rampen i procent av din FTP: 6 % mer varje minut tills du inte orkar mer.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.56,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.62,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.68,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.74,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.8,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.86,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.92,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.98,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.04,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.1,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.16,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.22,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.28,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.34,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.46,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.52,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.58,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.64,
+   "label": "Rampen"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

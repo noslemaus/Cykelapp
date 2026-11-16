@@ -1,0 +1,207 @@
+{
+ "name": "Upp på Funäsdalsberget",
+ "category": "climbing",
+ "description": "Huvuddel: 7 × 1 min (95 %) och 2 × 30 s (95–120 %). Låg kadens i jobbet. Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.6,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "cadence": 100,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.95,
+   "to": 1.2
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

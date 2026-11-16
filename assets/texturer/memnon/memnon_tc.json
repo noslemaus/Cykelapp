@@ -1,0 +1,41 @@
+{
+ "model": "memnon",
+ "name": "memnon",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "kvartsit": {
+   "recipe": "sandsten",
+   "color": [
+    0.4793,
+    0.2874,
+    0.1441
+   ],
+   "m_per_uv": 29.466,
+   "res": 2048
+  },
+  "kvartsit_mork": {
+   "recipe": "sandsten",
+   "color": [
+    0.2961,
+    0.162,
+    0.0723
+   ],
+   "m_per_uv": 21.072,
+   "res": 2048
+  },
+  "hieroglyf": {
+   "recipe": "hieroglyf",
+   "color": [
+    0.6445,
+    0.3515,
+    0.1441
+   ],
+   "m_per_uv": 8.699,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "memnon"
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "name": "Dubbel åtta",
+ "category": "ftptest",
+ "description": "Två test på 8 min i fritt läge med vila emellan. FTP blir 90 % av snittet av de två.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Väck benen"
+   },
+   "off": {
+    "duration": 60,
+    "power": 0.55,
+    "label": "Lugnt"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "free",
+   "duration": 480,
+   "label": "Allt du har"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 480,
+   "label": "Allt du har"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

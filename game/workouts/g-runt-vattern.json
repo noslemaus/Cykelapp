@@ -1,0 +1,41 @@
+{
+ "name": "Runt Vättern",
+ "category": "endurance",
+ "description": "Mest runt 75 % av FTP. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 8,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.75,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.55,
+   "to": 0.4
+  }
+ ]
+}

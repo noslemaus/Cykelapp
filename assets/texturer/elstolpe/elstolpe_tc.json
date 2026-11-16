@@ -1,0 +1,41 @@
+{
+ "model": "elstolpe",
+ "name": "elstolpe",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 9.515,
+   "res": 2048
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 2.507,
+   "res": 512
+  },
+  "torn_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 0.693,
+   "res": 256
+  }
+ },
+ "parts": [
+  "elstolpe"
+ ]
+}

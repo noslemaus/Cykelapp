@@ -1,0 +1,86 @@
+{
+ "name": "Havsörnen",
+ "category": "sprint",
+ "description": "Huvuddel: 6 × 15 s (300 %) och 6 × 25 s (250 %). Snabbt och explosivt, inte segt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.75,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "cadence": 80,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.81,
+   "cadence": 85,
+   "label": "Tempo"
+  },
+  {
+   "type": "intervals",
+   "repeat": 6,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 3.0,
+    "cadence": 85,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.75,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "intervals",
+   "repeat": 6,
+   "on": {
+    "type": "steady",
+    "duration": 25,
+    "power": 2.5,
+    "cadence": 85,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.5,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

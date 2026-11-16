@@ -1,0 +1,91 @@
+{
+ "model": "traktor",
+ "name": "traktor",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "jacka": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0513,
+    0.0284
+   ],
+   "m_per_uv": 1.421,
+   "res": 256
+  },
+  "traktor_gra": {
+   "recipe": "lack",
+   "color": [
+    0.2542,
+    0.2747,
+    0.2961
+   ],
+   "m_per_uv": 4.234,
+   "res": 1024
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 1.872,
+   "res": 512
+  },
+  "dack": {
+   "recipe": "gummi",
+   "color": [
+    0.0144,
+    0.016,
+    0.0194
+   ],
+   "m_per_uv": 3.547,
+   "res": 1024
+  },
+  "traktor_rod": {
+   "recipe": "lack",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 2.03,
+   "res": 512
+  },
+  "jeans": {
+   "recipe": "tyg",
+   "color": [
+    0.0497,
+    0.1022,
+    0.2159
+   ],
+   "m_per_uv": 0.995,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.404,
+   "res": 256
+  },
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 0.76,
+   "res": 256
+  }
+ },
+ "parts": [
+  "traktor"
+ ]
+}

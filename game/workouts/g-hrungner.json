@@ -1,0 +1,63 @@
+{
+ "name": "Hrungner",
+ "category": "vo2max",
+ "description": "Huvuddel: två set med 7 × 30 s (120 %). Hög kadens i jobbet. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.25,
+   "to": 0.75,
+   "cadence": 85
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.2,
+    "cadence": 110,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.2,
+    "cadence": 110,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.5,
+   "to": 0.25
+  }
+ ]
+}

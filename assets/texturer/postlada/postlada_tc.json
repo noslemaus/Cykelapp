@@ -1,0 +1,40 @@
+{
+ "model": "postlada",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "post_rod": {
+   "recipe": "lack",
+   "color": [
+    0.6308,
+    0.0212,
+    0.0137
+   ],
+   "m_per_uv": 2.167,
+   "res": 512
+  },
+  "torn_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 0.253,
+   "res": 256
+  },
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 0.805,
+   "res": 256
+  }
+ },
+ "parts": [
+  "postlada"
+ ]
+}

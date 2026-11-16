@@ -1,0 +1,112 @@
+{
+ "name": "Kladdkakan",
+ "category": "sweetspot",
+ "description": "Huvuddel: 4 × 5 min (85 %) och 4 × 15 s (100 %). Låg kadens i jobbet. Hårt men hållbart. Bygger FTP utan att du blir helt slut.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "cadence": 65,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "cadence": 65,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "cadence": 65,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 330,
+   "power": 0.55,
+   "label": "Vila"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "model": "faros",
+ "name": "faros",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "marmor": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.8388,
+    0.7913,
+    0.7011
+   ],
+   "m_per_uv": 63.254,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 64.657,
+   "res": 2048
+  },
+  "marmor_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.6445,
+    0.5776,
+    0.4678
+   ],
+   "m_per_uv": 52.351,
+   "res": 2048
+  },
+  "brons_gron": {
+   "recipe": "metall",
+   "color": [
+    0.0782,
+    0.2542,
+    0.1878
+   ],
+   "m_per_uv": 13.866,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "faros"
+ ]
+}

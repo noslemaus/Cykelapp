@@ -1,0 +1,109 @@
+{
+ "name": "Upp på Lofsdalen",
+ "category": "climbing",
+ "description": "Huvuddel: 3 × 5 min (65–90 %) och 2 × 3 min (92 %), plus fler block. Låg kadens i jobbet. Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.9,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.92,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.15,
+   "cadence": 65,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.9,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.92,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.15,
+   "cadence": 65,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.9,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.15,
+   "cadence": 65,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.55,
+   "to": 0.25
+  }
+ ]
+}

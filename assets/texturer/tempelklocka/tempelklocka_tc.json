@@ -1,0 +1,62 @@
+{
+ "model": "tempelklocka",
+ "name": "tempelklocka",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "brons": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.1441,
+    0.0423
+   ],
+   "m_per_uv": 3.91,
+   "res": 1024
+  },
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 9.251,
+   "res": 2048
+  },
+  "vermiljon": {
+   "recipe": "farg",
+   "color": [
+    0.7454,
+    0.0595,
+    0.0242
+   ],
+   "m_per_uv": 6.9,
+   "res": 2048
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 10.865,
+   "res": 2048
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 1.405,
+   "res": 256
+  }
+ },
+ "parts": [
+  "Paviljong",
+  "Stock"
+ ]
+}

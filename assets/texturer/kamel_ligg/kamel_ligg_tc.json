@@ -1,0 +1,41 @@
+{
+ "model": "kamel_ligg",
+ "name": "kamel_ligg",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "kamel_mork": {
+   "recipe": "hud",
+   "color": [
+    0.3325,
+    0.1746,
+    0.0578
+   ],
+   "m_per_uv": 1.339,
+   "res": 256
+  },
+  "kamel": {
+   "recipe": "hud",
+   "color": [
+    0.552,
+    0.3231,
+    0.1221
+   ],
+   "m_per_uv": 6.527,
+   "res": 2048
+  },
+  "sadel_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.3916,
+    0.0423,
+    0.0232
+   ],
+   "m_per_uv": 2.09,
+   "res": 512
+  }
+ },
+ "parts": [
+  "kamel_ligg"
+ ]
+}

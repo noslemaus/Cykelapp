@@ -1,0 +1,157 @@
+{
+ "name": "Munin",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 × 2 min (107 %) och 2 × 1,5 min (107 %), plus fler block. Hög kadens i jobbet. Syreupptag på max. Vila ordentligt mellan blocken.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.9,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.7,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.07,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

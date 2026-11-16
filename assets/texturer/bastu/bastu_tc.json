@@ -1,0 +1,81 @@
+{
+ "model": "bastu",
+ "name": "bastu",
+ "kind": "building",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 6.275,
+   "res": 2048
+  },
+  "tra_gra": {
+   "recipe": "tra",
+   "color": [
+    0.2664,
+    0.2346,
+    0.1912
+   ],
+   "m_per_uv": 7.823,
+   "res": 2048
+  },
+  "takgra": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0685,
+    0.0762,
+    0.0953
+   ],
+   "m_per_uv": 7.129,
+   "res": 2048
+  },
+  "vit": {
+   "recipe": "vitt",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 3.486,
+   "res": 1024
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.32,
+   "res": 512
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 1.37,
+   "res": 256
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 1.766,
+   "res": 512
+  }
+ },
+ "parts": [
+  "bastu"
+ ]
+}

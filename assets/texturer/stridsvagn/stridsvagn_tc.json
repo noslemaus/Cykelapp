@@ -1,0 +1,7 @@
+{
+ "model": "stridsvagn",
+ "kind": "other",
+ "note": "Painted by hand-written layers in bygg_textur.py (the first TextureCraft test), not by textur_mala.py; textur_bygg.py builds the game model from its export.",
+ "sets": {"pansar": {"recipe": "farg"}, "larvband": {"recipe": "metall"}},
+ "parts": ["Skrov", "Torn", "Kanon"]
+}

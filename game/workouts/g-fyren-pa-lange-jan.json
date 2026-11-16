@@ -1,0 +1,125 @@
+{
+ "name": "Fyren på Långe Jan",
+ "category": "threshold",
+ "description": "Huvuddel: 3 × 30 s (110 %) och tre set med 4 × 1 min (92 %). Lyser stadigt i mörkret, precis som du ska.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.65,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.89,
+    "label": "Sweet spot"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "intervals",
+   "repeat": 4,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.92,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.97,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "intervals",
+   "repeat": 4,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.92,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.97,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "intervals",
+   "repeat": 4,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.92,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.97,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.75,
+   "to": 0.45
+  }
+ ]
+}

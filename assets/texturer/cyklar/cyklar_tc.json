@@ -1,0 +1,51 @@
+{
+ "model": "cyklar",
+ "name": "cyklar",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 3.184,
+   "res": 1024
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 2.169,
+   "res": 512
+  },
+  "kimono_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 0.649,
+   "res": 256
+  },
+  "bil_bla_jp": {
+   "recipe": "lack",
+   "color": [
+    0.159,
+    0.3231,
+    0.624
+   ],
+   "m_per_uv": 0.649,
+   "res": 256
+  }
+ },
+ "parts": [
+  "cyklar"
+ ]
+}

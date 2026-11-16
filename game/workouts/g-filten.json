@@ -1,0 +1,111 @@
+{
+ "name": "Filten",
+ "category": "recovery",
+ "description": "Mest runt 60 % av FTP, med fem korta ryck. Ingen stress, bara tramp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.35,
+   "to": 0.55,
+   "cadence": 90
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.6,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.7,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "cadence": 100,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "cadence": 105,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.1,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 90,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 6,
+    "power": 1.5,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 6,
+    "power": 1.75,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 6,
+    "power": 2.0,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 102,
+   "from": 0.55,
+   "to": 0.35,
+   "cadence": 90
+  }
+ ]
+}

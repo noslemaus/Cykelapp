@@ -1,0 +1,112 @@
+{
+ "name": "Upp på Branäs",
+ "category": "climbing",
+ "description": "Huvuddel: 3 × 30 s (125 %). Hög kadens i jobbet. Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 10,
+    "power": 1.5,
+    "cadence": 110,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 50,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.25,
+    "cadence": 105,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 390,
+    "power": 0.9,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.25,
+    "cadence": 105,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 390,
+    "power": 0.9,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.25,
+    "cadence": 105,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 390,
+    "power": 0.9,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.4
+  }
+ ]
+}

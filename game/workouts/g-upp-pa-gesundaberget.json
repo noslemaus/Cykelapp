@@ -1,0 +1,119 @@
+{
+ "name": "Upp på Gesundaberget",
+ "category": "climbing",
+ "description": "Huvuddel: 3 × 4 min (100 %) och 3 × 5 min (98 %), plus fler block. Låg kadens i jobbet. Långa backar med låg kadens, som att klättra på riktigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "cadence": 50,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 1.0,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "cadence": 50,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 1.0,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "cadence": 50,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 1.0,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.98,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.98,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.98,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.5
+  }
+ ]
+}

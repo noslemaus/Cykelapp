@@ -1,0 +1,61 @@
+{
+ "model": "nobori",
+ "name": "nobori",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "nobori_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.6308,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 2.405,
+   "res": 512
+  },
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 0.765,
+   "res": 256
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 3.503,
+   "res": 1024
+  },
+  "nobori_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.8879,
+    0.8228
+   ],
+   "m_per_uv": 0.708,
+   "res": 256
+  },
+  "nobori_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.807,
+    0.5271,
+    0.0513
+   ],
+   "m_per_uv": 0.602,
+   "res": 256
+  }
+ },
+ "parts": [
+  "nobori"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "model": "eka_gron",
+ "kind": "other",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 3.54,
+   "res": 1024
+  },
+  "eka_gron": {
+   "recipe": "batfarg",
+   "color": [
+    0.0742,
+    0.1946,
+    0.1221
+   ],
+   "m_per_uv": 3.855,
+   "res": 1024
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 3.29,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "eka_gron"
+ ]
+}

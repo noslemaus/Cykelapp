@@ -1,0 +1,71 @@
+{
+ "model": "promenerare",
+ "name": "promenerare",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "trojan_gron": {
+   "recipe": "tyg",
+   "color": [
+    0.0782,
+    0.2542,
+    0.1022
+   ],
+   "m_per_uv": 1.368,
+   "res": 256
+  },
+  "shorts_kaki": {
+   "recipe": "tyg",
+   "color": [
+    0.4793,
+    0.3712,
+    0.1946
+   ],
+   "m_per_uv": 0.889,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.437,
+   "res": 256
+  },
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 0.743,
+   "res": 256
+  },
+  "man_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.016,
+    0.0144
+   ],
+   "m_per_uv": 0.393,
+   "res": 256
+  },
+  "halm": {
+   "recipe": "tra",
+   "color": [
+    0.5841,
+    0.3813,
+    0.1022
+   ],
+   "m_per_uv": 0.798,
+   "res": 256
+  }
+ },
+ "parts": [
+  "promenerare"
+ ]
+}

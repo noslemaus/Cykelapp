@@ -1,0 +1,70 @@
+{
+ "model": "geisha",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kimono_lila": {
+   "recipe": "tyg",
+   "color": [
+    0.1946,
+    0.0423,
+    0.2542
+   ],
+   "m_per_uv": 2.165,
+   "res": 512
+  },
+  "obi_guld": {
+   "recipe": "tyg",
+   "color": [
+    0.7454,
+    0.4342,
+    0.0561
+   ],
+   "m_per_uv": 1.36,
+   "res": 256
+  },
+  "vit_smink": {
+   "recipe": "hud",
+   "color": [
+    0.9216,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 0.476,
+   "res": 256
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.584,
+   "res": 256
+  },
+  "kimono_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 2.111,
+   "res": 512
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 0.952,
+   "res": 256
+  }
+ },
+ "parts": [
+  "geisha"
+ ]
+}

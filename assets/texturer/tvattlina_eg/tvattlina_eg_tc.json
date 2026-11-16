@@ -1,0 +1,91 @@
+{
+ "model": "tvattlina_eg",
+ "name": "tvattlina_eg",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "galabeya_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0782,
+    0.159,
+    0.3231
+   ],
+   "m_per_uv": 1.178,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.605,
+   "res": 512
+  },
+  "markis_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0409,
+    0.0242
+   ],
+   "m_per_uv": 1.108,
+   "res": 256
+  },
+  "galabeya_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7835,
+    0.6584
+   ],
+   "m_per_uv": 1.108,
+   "res": 256
+  },
+  "markis_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.4621,
+    0.0423
+   ],
+   "m_per_uv": 1.178,
+   "res": 256
+  },
+  "galabeya_gra": {
+   "recipe": "tyg",
+   "color": [
+    0.3231,
+    0.3005,
+    0.2542
+   ],
+   "m_per_uv": 1.108,
+   "res": 256
+  },
+  "matta_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.3278,
+    0.0232,
+    0.0232
+   ],
+   "m_per_uv": 1.178,
+   "res": 256
+  },
+  "markis_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8632,
+    0.7913,
+    0.6724
+   ],
+   "m_per_uv": 1.108,
+   "res": 256
+  }
+ },
+ "parts": [
+  "tvattlina_eg"
+ ]
+}

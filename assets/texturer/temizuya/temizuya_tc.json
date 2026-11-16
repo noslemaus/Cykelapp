@@ -1,0 +1,41 @@
+{
+ "model": "temizuya",
+ "name": "temizuya",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 3.447,
+   "res": 1024
+  },
+  "vermiljon": {
+   "recipe": "farg",
+   "color": [
+    0.7454,
+    0.0595,
+    0.0242
+   ],
+   "m_per_uv": 2.847,
+   "res": 512
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 5.293,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "temizuya"
+ ]
+}

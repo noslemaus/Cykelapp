@@ -1,0 +1,199 @@
+{
+ "name": "Vidar",
+ "category": "vo2max",
+ "description": "Huvuddel: 10 × 30 s (125 %). Syreupptag på max. Vila ordentligt mellan blocken.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.35,
+   "to": 0.55
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 150,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

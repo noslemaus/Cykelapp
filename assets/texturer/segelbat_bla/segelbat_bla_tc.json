@@ -1,0 +1,59 @@
+{
+ "model": "segelbat_bla",
+ "kind": "other",
+ "sets": {
+  "bat_bla": {
+   "recipe": "batfarg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.2747
+   ],
+   "m_per_uv": 7.312,
+   "res": 2048
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 5.745,
+   "res": 2048
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 5.603,
+   "res": 1024
+  },
+  "bat_vit": {
+   "recipe": "batfarg",
+   "color": [
+    0.855,
+    0.855,
+    0.8228
+   ],
+   "m_per_uv": 2.801,
+   "res": 512
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 9.546,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "segelbat_bla"
+ ]
+}

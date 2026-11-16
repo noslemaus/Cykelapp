@@ -1,0 +1,101 @@
+{
+ "model": "fiskare_brygga",
+ "name": "fiskare_brygga",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "jacka": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0513,
+    0.0284
+   ],
+   "m_per_uv": 1.366,
+   "res": 256
+  },
+  "jeans": {
+   "recipe": "tyg",
+   "color": [
+    0.0497,
+    0.1022,
+    0.2159
+   ],
+   "m_per_uv": 1.009,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.404,
+   "res": 256
+  },
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 0.753,
+   "res": 256
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 2.531,
+   "res": 512
+  },
+  "man_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.016,
+    0.0144
+   ],
+   "m_per_uv": 0.413,
+   "res": 256
+  },
+  "trojan_gron": {
+   "recipe": "tyg",
+   "color": [
+    0.0782,
+    0.2542,
+    0.1022
+   ],
+   "m_per_uv": 0.501,
+   "res": 256
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 0.734,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 0.604,
+   "res": 256
+  }
+ },
+ "parts": [
+  "fiskare_brygga"
+ ]
+}

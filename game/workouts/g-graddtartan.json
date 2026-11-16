@@ -1,0 +1,115 @@
+{
+ "name": "Gräddtårtan",
+ "category": "sweetspot",
+ "description": "Huvuddel: 5 min (81–92 %) och 2 × 3 min (88 %), plus fler block. Söt punkt: precis lagom jobbigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 485,
+   "from": 0.34,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.81,
+   "to": 0.92
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.92,
+   "to": 1.05
+  },
+  {
+   "type": "free",
+   "duration": 240,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.76,
+   "cadence": 105,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 80,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.76,
+   "cadence": 105,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 180,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.07,
+   "cadence": 90,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.67,
+   "cadence": 105,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "cadence": 85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.75,
+   "to": 0.51
+  }
+ ]
+}

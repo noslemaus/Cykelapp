@@ -1,0 +1,131 @@
+{
+ "model": "tehus",
+ "name": "tehus",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "galabeya_gra": {
+   "recipe": "tyg",
+   "color": [
+    0.3231,
+    0.3005,
+    0.2542
+   ],
+   "m_per_uv": 1.813,
+   "res": 512
+  },
+  "puts_sand": {
+   "recipe": "puts",
+   "color": [
+    0.6867,
+    0.4851,
+    0.2542
+   ],
+   "m_per_uv": 8.322,
+   "res": 2048
+  },
+  "trä_ljus": {
+   "recipe": "tra",
+   "color": [
+    0.4342,
+    0.1946,
+    0.0685
+   ],
+   "m_per_uv": 3.982,
+   "res": 1024
+  },
+  "guld": {
+   "recipe": "lack",
+   "color": [
+    0.7454,
+    0.4342,
+    0.0561
+   ],
+   "m_per_uv": 0.875,
+   "res": 256
+  },
+  "markis_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0409,
+    0.0242
+   ],
+   "m_per_uv": 4.683,
+   "res": 1024
+  },
+  "markis_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8632,
+    0.7913,
+    0.6724
+   ],
+   "m_per_uv": 3.64,
+   "res": 1024
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.795,
+   "res": 512
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.861,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 2.416,
+   "res": 512
+  },
+  "galabeya_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7835,
+    0.6584
+   ],
+   "m_per_uv": 2.095,
+   "res": 512
+  },
+  "galabeya_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0782,
+    0.159,
+    0.3231
+   ],
+   "m_per_uv": 1.787,
+   "res": 512
+  },
+  "galabeya_brun": {
+   "recipe": "tyg",
+   "color": [
+    0.2542,
+    0.1441,
+    0.0685
+   ],
+   "m_per_uv": 1.797,
+   "res": 512
+  }
+ },
+ "parts": [
+  "tehus"
+ ]
+}

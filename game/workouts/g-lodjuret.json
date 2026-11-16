@@ -1,0 +1,129 @@
+{
+ "name": "Lodjuret",
+ "category": "sprint",
+ "description": "Huvuddel: 3 × 10 s (120 %). Snabbhet och kraft. Gå all in i varje spurt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.3,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 1.05
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 1.05
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 1.05
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 1.05
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.55,
+   "to": 0.25
+  }
+ ]
+}

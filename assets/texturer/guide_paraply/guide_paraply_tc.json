@@ -1,0 +1,71 @@
+{
+ "model": "guide_paraply",
+ "name": "guide_paraply",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 1.45,
+   "res": 512
+  },
+  "byxor": {
+   "recipe": "tyg",
+   "color": [
+    0.0685,
+    0.0685,
+    0.0844
+   ],
+   "m_per_uv": 0.905,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.444,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 0.756,
+   "res": 256
+  },
+  "metall_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 0.752,
+   "res": 256
+  },
+  "markis_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0409,
+    0.0242
+   ],
+   "m_per_uv": 0.544,
+   "res": 256
+  }
+ },
+ "parts": [
+  "guide_paraply"
+ ]
+}

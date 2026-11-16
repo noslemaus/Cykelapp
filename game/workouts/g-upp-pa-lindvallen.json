@@ -1,0 +1,171 @@
+{
+ "name": "Upp på Lindvallen",
+ "category": "climbing",
+ "description": "Huvuddel: 8 × 30 s (106–120 %) och 8 × 3,5 min (76–90 %). Hög kadens i jobbet. Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 4,
+   "on": {
+    "type": "steady",
+    "duration": 10,
+    "power": 1.5,
+    "cadence": 100,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 50,
+    "power": 0.5,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.6,
+   "to": 0.75,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.06,
+   "to": 1.2,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 210,
+   "from": 0.76,
+   "to": 0.9,
+   "cadence": 90
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 0.45
+  }
+ ]
+}

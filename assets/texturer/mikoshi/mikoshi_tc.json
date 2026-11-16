@@ -1,0 +1,101 @@
+{
+ "model": "mikoshi",
+ "name": "mikoshi",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "happi_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.3231
+   ],
+   "m_per_uv": 3.79,
+   "res": 1024
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 5.216,
+   "res": 1024
+  },
+  "rustning_svart": {
+   "recipe": "lack",
+   "color": [
+    0.0232,
+    0.0232,
+    0.0273
+   ],
+   "m_per_uv": 3.479,
+   "res": 1024
+  },
+  "guld": {
+   "recipe": "lack",
+   "color": [
+    0.7454,
+    0.4342,
+    0.0561
+   ],
+   "m_per_uv": 3.549,
+   "res": 1024
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 4.281,
+   "res": 1024
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 4.952,
+   "res": 1024
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 3.046,
+   "res": 1024
+  },
+  "tofs_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 1.216,
+   "res": 256
+  },
+  "happi_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0423,
+    0.0232
+   ],
+   "m_per_uv": 3.806,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "mikoshi"
+ ]
+}

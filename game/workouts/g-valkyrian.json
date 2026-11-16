@@ -1,0 +1,82 @@
+{
+ "name": "Valkyrian",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 × 30 s (105–110 %) och 4 × 3 min (108 %). Korta, mycket hårda block som höjer taket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.05,
+   "to": 1.1
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.05,
+   "to": 1.1
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 180,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 180,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 180,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

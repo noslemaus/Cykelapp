@@ -1,0 +1,81 @@
+{
+ "model": "moped",
+ "name": "moped",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kimono_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.2542
+   ],
+   "m_per_uv": 1.263,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 1.549,
+   "res": 512
+  },
+  "kimono_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 1.935,
+   "res": 512
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 0.789,
+   "res": 256
+  },
+  "tofs_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 0.957,
+   "res": 256
+  },
+  "kostym": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0273,
+    0.0423
+   ],
+   "m_per_uv": 0.805,
+   "res": 256
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 0.634,
+   "res": 256
+  }
+ },
+ "parts": [
+  "moped"
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "name": "Profiltestet",
+ "category": "ftptest",
+ "description": "Ett pass som mäter hela din profil: två spurter på 5 s, 5 min, 20 min och 1 min så hårt du orkar.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 720,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Väck benen"
+   },
+   "off": {
+    "duration": 60,
+    "power": 0.55,
+    "label": "Lugnt"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "free",
+   "duration": 5,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 175,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 5,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Allt du har"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 1200,
+   "label": "Allt du har"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Allt du har"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

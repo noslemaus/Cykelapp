@@ -1,0 +1,63 @@
+{
+ "model": "zombie",
+ "kind": "other",
+ "sets": {
+  "zombie_skjorta": {
+   "recipe": "tyg",
+   "color": [
+    0.2016,
+    0.1529,
+    0.2623
+   ],
+   "m_per_uv": 1.472,
+   "res": 512
+  },
+  "zombie_hud": {
+   "recipe": "hud",
+   "color": [
+    0.2918,
+    0.4342,
+    0.1946
+   ],
+   "m_per_uv": 0.91,
+   "res": 256
+  },
+  "zombie_byxor": {
+   "recipe": "tyg",
+   "color": [
+    0.0497,
+    0.0762,
+    0.1248
+   ],
+   "m_per_uv": 1.102,
+   "res": 256
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 0.542,
+   "res": 256
+  },
+  "zombie_har": {
+   "recipe": "tyg",
+   "color": [
+    0.0437,
+    0.0343,
+    0.0273
+   ],
+   "m_per_uv": 0.507,
+   "res": 256
+  }
+ },
+ "parts": [
+  "ArmH",
+  "ArmV",
+  "BenH",
+  "BenV",
+  "Kropp"
+ ]
+}

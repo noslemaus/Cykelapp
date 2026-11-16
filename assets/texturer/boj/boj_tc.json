@@ -1,0 +1,31 @@
+{
+ "model": "boj",
+ "name": "boj",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "fyr_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 0.602,
+   "res": 256
+  },
+  "bat_rod": {
+   "recipe": "batfarg",
+   "color": [
+    0.4621,
+    0.0356,
+    0.0262
+   ],
+   "m_per_uv": 1.346,
+   "res": 256
+  }
+ },
+ "parts": [
+  "boj"
+ ]
+}

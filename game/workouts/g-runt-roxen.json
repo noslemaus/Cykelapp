@@ -1,0 +1,41 @@
+{
+ "name": "Runt Roxen",
+ "category": "endurance",
+ "description": "Mest runt 80 % av FTP. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 2700,
+    "power": 0.78,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.4
+  }
+ ]
+}

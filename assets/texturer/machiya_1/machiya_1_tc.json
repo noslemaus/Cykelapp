@@ -1,0 +1,71 @@
+{
+ "model": "machiya_1",
+ "name": "machiya_1",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 21.376,
+   "res": 2048
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 10.847,
+   "res": 2048
+  },
+  "sten_mork": {
+   "recipe": "grund",
+   "color": [
+    0.159,
+    0.159,
+    0.15
+   ],
+   "m_per_uv": 6.11,
+   "res": 2048
+  },
+  "kimono_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.2542
+   ],
+   "m_per_uv": 2.543,
+   "res": 512
+  },
+  "tak_mork": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0343,
+    0.0395,
+    0.0497
+   ],
+   "m_per_uv": 6.414,
+   "res": 2048
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 17.328,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "machiya_1"
+ ]
+}

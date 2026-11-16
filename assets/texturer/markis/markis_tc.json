@@ -1,0 +1,70 @@
+{
+ "model": "markis",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 6.467,
+   "res": 2048
+  },
+  "markis_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0409,
+    0.0242
+   ],
+   "m_per_uv": 10.023,
+   "res": 2048
+  },
+  "markis_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.4621,
+    0.0423
+   ],
+   "m_per_uv": 10.011,
+   "res": 2048
+  },
+  "markis_gron": {
+   "recipe": "tyg",
+   "color": [
+    0.0284,
+    0.2051,
+    0.1022
+   ],
+   "m_per_uv": 10.013,
+   "res": 2048
+  },
+  "markis_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.3467
+   ],
+   "m_per_uv": 10.011,
+   "res": 2048
+  },
+  "markis_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8632,
+    0.7913,
+    0.6724
+   ],
+   "m_per_uv": 10.013,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "markis"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "model": "drivmedel",
+ "kind": "other",
+ "sets": {
+  "betong_mork": {
+   "recipe": "puts",
+   "color": [
+    0.2307,
+    0.2232,
+    0.2016
+   ],
+   "m_per_uv": 5.773,
+   "res": 2048
+  },
+  "militar_gron": {
+   "recipe": "farg",
+   "color": [
+    0.1022,
+    0.147,
+    0.0648
+   ],
+   "m_per_uv": 12.107,
+   "res": 2048
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.1981,
+    0.227,
+    0.2582
+   ],
+   "m_per_uv": 2.768,
+   "res": 512
+  }
+ },
+ "parts": [
+  "drivmedel"
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "name": "Fyren på Agö",
+ "category": "threshold",
+ "description": "Huvuddel: 10 × 1 min 45 s (93 %). Lyfter din FTP. Håll watten jämn hela blocket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.35,
+   "to": 0.55
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.48,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.48,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.48,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.48,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.48,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.4,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.4,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.4,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.4,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 105,
+    "power": 0.93,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.4,
+    "label": "Hårt"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

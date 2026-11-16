@@ -1,0 +1,61 @@
+{
+ "model": "philae",
+ "name": "philae",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "relief_gron": {
+   "recipe": "farg",
+   "color": [
+    0.0782,
+    0.2542,
+    0.1022
+   ],
+   "m_per_uv": 38.496,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 106.09,
+   "res": 2048
+  },
+  "hieroglyf": {
+   "recipe": "hieroglyf",
+   "color": [
+    0.6445,
+    0.3515,
+    0.1441
+   ],
+   "m_per_uv": 69.538,
+   "res": 2048
+  },
+  "kalksten": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.6867,
+    0.4969,
+    0.2542
+   ],
+   "m_per_uv": 68.497,
+   "res": 2048
+  },
+  "kalksten_ljus": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.8228,
+    0.7157,
+    0.5271
+   ],
+   "m_per_uv": 59.855,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "philae"
+ ]
+}

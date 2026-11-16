@@ -1,0 +1,50 @@
+{
+ "model": "lerhus",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "lera": {
+   "recipe": "lertegel",
+   "color": [
+    0.4793,
+    0.2542,
+    0.1022
+   ],
+   "m_per_uv": 15.331,
+   "res": 2048
+  },
+  "halm": {
+   "recipe": "tra",
+   "color": [
+    0.5841,
+    0.3813,
+    0.1022
+   ],
+   "m_per_uv": 13.168,
+   "res": 2048
+  },
+  "palmstam_mork": {
+   "recipe": "tra",
+   "color": [
+    0.147,
+    0.0782,
+    0.0331
+   ],
+   "m_per_uv": 2.482,
+   "res": 512
+  },
+  "skrov_bla": {
+   "recipe": "farg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.2747
+   ],
+   "m_per_uv": 2.269,
+   "res": 512
+  }
+ },
+ "parts": [
+  "lerhus"
+ ]
+}

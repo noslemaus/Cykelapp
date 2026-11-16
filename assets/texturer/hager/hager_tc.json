@@ -1,0 +1,40 @@
+{
+ "model": "hager",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "hager_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8879,
+    0.8879,
+    0.8388
+   ],
+   "m_per_uv": 0.78,
+   "res": 256
+  },
+  "hager_gul": {
+   "recipe": "lack",
+   "color": [
+    0.7454,
+    0.4342,
+    0.0296
+   ],
+   "m_per_uv": 0.144,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.652,
+   "res": 256
+  }
+ },
+ "parts": [
+  "hager"
+ ]
+}

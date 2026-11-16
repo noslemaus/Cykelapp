@@ -1,0 +1,146 @@
+{
+ "name": "Runt Unden",
+ "category": "endurance",
+ "description": "Mest runt 70 % av FTP. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.55,
+   "to": 0.8
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.55,
+   "to": 0.8
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 90,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 90,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 90,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 390,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

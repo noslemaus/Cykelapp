@@ -1,0 +1,89 @@
+{
+ "name": "Genom Dalsland",
+ "category": "endurance",
+ "description": "Mest runt 75 % av FTP, med sju korta ryck. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.95,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 540,
+   "from": 0.75,
+   "to": 0.5
+  }
+ ]
+}

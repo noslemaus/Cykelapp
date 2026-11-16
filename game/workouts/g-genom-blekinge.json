@@ -1,0 +1,75 @@
+{
+ "name": "Genom Blekinge",
+ "category": "endurance",
+ "description": "Mest runt 60 % av FTP och delar upp till 75 %. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.4,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.6,
+    "cadence": 55,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.7,
+    "cadence": 95,
+    "label": "Distans"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 6,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.75,
+    "cadence": 75,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.6,
+    "cadence": 105,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.6,
+   "to": 0.4
+  }
+ ]
+}

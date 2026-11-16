@@ -1,0 +1,59 @@
+{
+ "model": "uthus",
+ "kind": "building",
+ "sets": {
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 4.839,
+   "res": 1024
+  },
+  "falu": {
+   "recipe": "vagg",
+   "color": [
+    0.2747,
+    0.0232,
+    0.0137
+   ],
+   "m_per_uv": 6.601,
+   "res": 2048
+  },
+  "takgra": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0685,
+    0.0762,
+    0.0953
+   ],
+   "m_per_uv": 5.833,
+   "res": 1024
+  },
+  "vit": {
+   "recipe": "vitt",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 6.114,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 1.567,
+   "res": 512
+  }
+ },
+ "parts": [
+  "uthus"
+ ]
+}

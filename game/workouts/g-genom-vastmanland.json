@@ -1,0 +1,37 @@
+{
+ "name": "Genom Västmanland",
+ "category": "endurance",
+ "description": "Mest runt 80 % av FTP. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 20,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.8,
+    "cadence": 110,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "cadence": 80,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "model": "vattenhjul",
+ "name": "vattenhjul",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 7.247,
+   "res": 2048
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 10.343,
+   "res": 2048
+  },
+  "kruka": {
+   "recipe": "farg",
+   "color": [
+    0.3916,
+    0.0953,
+    0.0423
+   ],
+   "m_per_uv": 4.816,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "vattenhjul"
+ ]
+}

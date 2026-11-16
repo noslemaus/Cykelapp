@@ -1,0 +1,41 @@
+{
+ "model": "koi",
+ "name": "koi",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "koi_ora": {
+   "recipe": "hud",
+   "color": [
+    0.8714,
+    0.1946,
+    0.0232
+   ],
+   "m_per_uv": 1.042,
+   "res": 256
+  },
+  "koi_vit": {
+   "recipe": "hud",
+   "color": [
+    0.9047,
+    0.8714,
+    0.807
+   ],
+   "m_per_uv": 0.411,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.085,
+   "res": 256
+  }
+ },
+ "parts": [
+  "koi"
+ ]
+}

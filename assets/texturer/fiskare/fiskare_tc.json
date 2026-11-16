@@ -1,0 +1,82 @@
+{
+ "model": "fiskare",
+ "name": "fiskare",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "gronsak": {
+   "recipe": "farg",
+   "color": [
+    0.1022,
+    0.3231,
+    0.0423
+   ],
+   "m_per_uv": 1.444,
+   "res": 512
+  },
+  "tofs_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 1.081,
+   "res": 256
+  },
+  "kimono_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.2542
+   ],
+   "m_per_uv": 0.947,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 3.385,
+   "res": 1024
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 0.625,
+   "res": 256
+  },
+  "halm_jp": {
+   "recipe": "tra",
+   "color": [
+    0.5776,
+    0.3916,
+    0.117
+   ],
+   "m_per_uv": 0.757,
+   "res": 256
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 0.222,
+   "res": 256
+  }
+ },
+ "parts": [
+  "Kropp",
+  "Spo"
+ ]
+}

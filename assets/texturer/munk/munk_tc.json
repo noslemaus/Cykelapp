@@ -1,0 +1,41 @@
+{
+ "model": "munk",
+ "name": "munk",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "munk_ora": {
+   "recipe": "tyg",
+   "color": [
+    0.6308,
+    0.1878,
+    0.0232
+   ],
+   "m_per_uv": 2.037,
+   "res": 512
+  },
+  "tak_gra": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 0.903,
+   "res": 256
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 0.757,
+   "res": 256
+  }
+ },
+ "parts": [
+  "munk"
+ ]
+}

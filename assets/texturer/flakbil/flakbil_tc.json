@@ -1,0 +1,103 @@
+{
+ "model": "flakbil",
+ "name": "flakbil",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "bil_vit": {
+   "recipe": "lack",
+   "color": [
+    0.807,
+    0.7758,
+    0.7011
+   ],
+   "m_per_uv": 8.452,
+   "res": 2048
+  },
+  "bil_smuts": {
+   "recipe": "lack",
+   "color": [
+    0.5395,
+    0.4397,
+    0.2789
+   ],
+   "m_per_uv": 5.015,
+   "res": 1024
+  },
+  "metall_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 2.397,
+   "res": 512
+  },
+  "dack": {
+   "recipe": "gummi",
+   "color": [
+    0.0144,
+    0.016,
+    0.0194
+   ],
+   "m_per_uv": 3.669,
+   "res": 1024
+  },
+  "falg": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3564,
+    0.402
+   ],
+   "m_per_uv": 1.914,
+   "res": 512
+  },
+  "markis_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.4621,
+    0.0423
+   ],
+   "m_per_uv": 1.212,
+   "res": 256
+  },
+  "vapen": {
+   "recipe": "metall",
+   "color": [
+    0.0423,
+    0.0467,
+    0.0513
+   ],
+   "m_per_uv": 1.307,
+   "res": 256
+  },
+  "trika": {
+   "recipe": "tyg",
+   "color": [
+    0.0137,
+    0.1022,
+    0.3813
+   ],
+   "m_per_uv": 1.349,
+   "res": 256
+  },
+  "byxor": {
+   "recipe": "tyg",
+   "color": [
+    0.0685,
+    0.0685,
+    0.0844
+   ],
+   "m_per_uv": 0.955,
+   "res": 256
+  }
+ },
+ "parts": [
+  "Kaross",
+  "Pipa",
+  "Torn"
+ ]
+}

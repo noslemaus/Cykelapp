@@ -1,0 +1,65 @@
+{
+ "name": "Runt Immeln",
+ "category": "endurance",
+ "description": "Mest runt 150 % av FTP, med 33 korta ryck. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.95
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.35,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.45,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 30,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.5,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.35,
+    "label": "Vila"
+   }
+  }
+ ]
+}

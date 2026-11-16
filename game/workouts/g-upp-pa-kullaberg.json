@@ -1,0 +1,165 @@
+{
+ "name": "Upp på Kullaberg",
+ "category": "climbing",
+ "description": "Huvuddel: 4 min (90 %) och 2 min (125 %), plus fler block. Låg kadens i jobbet. Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.81,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.9,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.6,
+   "to": 0.75,
+   "cadence": 75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "cadence": 75,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.75,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.6,
+   "to": 0.75,
+   "cadence": 80
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.25,
+   "cadence": 80,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.75,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.6,
+   "to": 0.75,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.25,
+   "cadence": 85,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.75,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.6,
+   "to": 0.75,
+   "cadence": 75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "cadence": 75,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.75,
+   "to": 0.6
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.7,
+   "to": 0.45
+  }
+ ]
+}

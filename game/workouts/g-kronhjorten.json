@@ -1,0 +1,244 @@
+{
+ "name": "Kronhjorten",
+ "category": "sprint",
+ "description": "Jämnt, mest runt 40 % av FTP. Korta, explosiva spurter med gott om vila.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.3,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "cadence": 60,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.85,
+   "cadence": 95,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "cadence": 100,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.08,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.85,
+   "cadence": 95,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "cadence": 100,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.08,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 15,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 15,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 15,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.08,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 15,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

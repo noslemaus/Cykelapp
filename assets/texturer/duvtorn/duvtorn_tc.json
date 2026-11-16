@@ -1,0 +1,41 @@
+{
+ "model": "duvtorn",
+ "name": "duvtorn",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "lera": {
+   "recipe": "lertegel",
+   "color": [
+    0.4793,
+    0.2542,
+    0.1022
+   ],
+   "m_per_uv": 14.152,
+   "res": 2048
+  },
+  "kruka": {
+   "recipe": "farg",
+   "color": [
+    0.3916,
+    0.0953,
+    0.0423
+   ],
+   "m_per_uv": 10.119,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 4.083,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "duvtorn"
+ ]
+}

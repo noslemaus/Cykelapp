@@ -1,0 +1,71 @@
+{
+ "model": "arkeolog_1",
+ "name": "arkeolog_1",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "khaki": {
+   "recipe": "tyg",
+   "color": [
+    0.4793,
+    0.3712,
+    0.1946
+   ],
+   "m_per_uv": 2.094,
+   "res": 512
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 0.96,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.404,
+   "res": 256
+  },
+  "hud_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.7605,
+    0.4342,
+    0.2623
+   ],
+   "m_per_uv": 0.749,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 1.009,
+   "res": 256
+  },
+  "markis_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.4621,
+    0.0423
+   ],
+   "m_per_uv": 0.997,
+   "res": 256
+  }
+ },
+ "parts": [
+  "arkeolog_1"
+ ]
+}

@@ -1,0 +1,873 @@
+keys,en,sv
+Skärgården,Archipelago,Skärgården
+6 km per varv  ·  89 höjdmeter  ·  backe upp till fyren (max 7 %),6 km per lap  ·  89 m climbing  ·  a climb to the lighthouse (max 7 %),6 km per varv  ·  89 höjdmeter  ·  backe upp till fyren (max 7 %)
+"Granithällar, tallar och röda sjöbodar. Upp till fyren och över två träbroar till Lillön.","Granite slabs, pines and red boathouses. Up to the lighthouse and over two wooden bridges to the little island.","Granithällar, tallar och röda sjöbodar. Upp till fyren och över två träbroar till Lillön."
+Egypten,Egypt,Egypten
+"6,6 km per varv  ·  91 höjdmeter  ·  över Nilen två gånger",6.6 km per lap  ·  91 m climbing  ·  across the Nile twice,"6,6 km per varv  ·  91 höjdmeter  ·  över Nilen två gånger"
+"Pyramiderna och Sfinxen, basaren i Kairo, palmdjungel längs Nilen, öknen med oasen och ett tempel med obelisker.","The pyramids and the Sphinx, the Cairo bazaar, palm jungle along the Nile, the desert with its oasis and a temple with obelisks.","Pyramiderna och Sfinxen, basaren i Kairo, palmdjungel längs Nilen, öknen med oasen och ett tempel med obelisker."
+Japan,Japan,Japan
+"5,8 km per varv  ·  52 höjdmeter  ·  kväll med neon och Fuji i horisonten",5.8 km per lap  ·  52 m climbing  ·  neon evening with Fuji on the horizon,"5,8 km per varv  ·  52 höjdmeter  ·  kväll med neon och Fuji i horisonten"
+"Neongatan och Tokyotornet, gamla stan med geishor, pagoden, slottet, bambuskogen, sumo och shinkansen.","The neon street and Tokyo Tower, the old town with geishas, the pagoda, the castle, the bamboo forest, sumo and the shinkansen.","Neongatan och Tokyotornet, gamla stan med geishor, pagoden, slottet, bambuskogen, sumo och shinkansen."
+Teleporterar till %s …,Teleporting to %s …,Teleporterar till %s …
+Avsluta turen?,End the ride?,Avsluta turen?
+"Du är mitt i en tur. Spara den, så kan du välja att ladda upp den till Strava.","You are in the middle of a ride. Save it, and you can choose to upload it to Strava.","Du är mitt i en tur. Spara den, så kan du välja att ladda upp den till Strava."
+Spara turen,Save the ride,Spara turen
+Släng turen och stäng,Discard the ride and quit,Släng turen och stäng
+Fortsätt cykla,Keep riding,Fortsätt cykla
+Pass,Workouts,Pass
+längd,length,längd
+ansträngning,effort,ansträngning
+Starta passet,Start workout,Starta passet
+gymskärmen,the gym screen,gymskärmen
+Passet körs i %s. Byt värld på startsidan.,The workout runs in %s. Change world on the start screen.,Passet körs i %s. Byt värld på startsidan.
+"ERG: trainern håller målwatten åt dig, oavsett växel och kadens.","ERG: the trainer holds the target watts for you, whatever your gear and cadence.","ERG: trainern håller målwatten åt dig, oavsett växel och kadens."
+SIM: du håller målwatten själv med växel och kadens. Trainern känns som vägen.,SIM: you hold the target watts yourself with gears and cadence. The trainer feels like the road.,SIM: du håller målwatten själv med växel och kadens. Trainern känns som vägen.
+Cyklar,Bikes,Cyklar
+Tröjor,Jerseys,Tröjor
+Stridsvagnen,Tank,Stridsvagnen
+Rekord,Records,Rekord
+Garaget,Garage,Garaget
+Meny,Menu,Meny
+Nivå %d,Level %d,Nivå %d
+%d XP totalt,%d XP in total,%d XP totalt
+%d / %d XP till nivå %d,%d / %d XP to level %d,%d / %d XP till nivå %d
+"Cykeln ändrar farten i världen: vikten i backarna, aerodynamiken på flacken och däcken på grus och i terrängen. Trainern känns likadan.","The bike changes your speed in the world: weight on the climbs, aero on the flat and tyres on gravel and off-road. The trainer feels the same.","Cykeln ändrar farten i världen: vikten i backarna, aerodynamiken på flacken och däcken på grus och i terrängen. Trainern känns likadan."
+Backar,Climbs,Backar
+Flack,Flat,Flack
+Terräng,Off-road,Terräng
+LÅST  ·  ,LOCKED  ·  ,LÅST  ·  
+DU CYKLAR MED DEN HÄR,YOU RIDE THIS ONE,DU CYKLAR MED DEN HÄR
+"Tröjor låses upp med nivåer och med det du gör: klättringar, spurter, ett helt varv i en värld och att slå ditt eget spöke.","Jerseys unlock with levels and with what you do: climbs, sprints, a full lap in a world and beating your own ghost.","Tröjor låses upp med nivåer och med det du gör: klättringar, spurter, ett helt varv i en värld och att slå ditt eget spöke."
+På dig nu,Wearing it,På dig nu
+Upplåst,Unlocked,Upplåst
+"Poängen från striderna (i alla världar) samlas här: %d stridspoäng hittills. Uppgraderingarna gäller stridsvagnen, pickupen och samurajen.","Points from the battles (in every world) add up here: %d battle points so far. The upgrades work for the tank, the pickup and the samurai.","Poängen från striderna (i alla världar) samlas här: %d stridspoäng hittills. Uppgraderingarna gäller stridsvagnen, pickupen och samurajen."
+PÅ,ON,PÅ
+PERSONBÄSTA,PERSONAL BESTS,PERSONBÄSTA
+Gult: genom tiderna. Turkos: senaste 90 dagarna.,Yellow: all time. Teal: the last 90 days.,Gult: genom tiderna. Turkos: senaste 90 dagarna.
+Höj FTP av sig själv,Raise FTP automatically,Höj FTP av sig själv
+95 % av din bästa 20-minuterswatt. Den sänks aldrig av sig själv.,95 % of your best 20-minute power. It never goes down by itself.,95 % av din bästa 20-minuterswatt. Den sänks aldrig av sig själv.
+Bästa varv %s  ·  %d varv,Best lap %s  ·  %d laps,Bästa varv %s  ·  %d varv
+Inget helt varv än,No full lap yet,Inget helt varv än
+klättring,climb,klättring
+spurt,sprint,spurt
+%d gånger,%d times,%d gånger
+Upp till 30 minuter,Up to 30 minutes,Upp till 30 minuter
+30–60 minuter,30–60 minutes,30–60 minuter
+60–90 minuter,60–90 minutes,60–90 minuter
+Över 90 minuter,Over 90 minutes,Över 90 minuter
+Träningspass,Workouts,Träningspass
+Samlingar,Collections,Samlingar
+Alla pass,All workouts,Alla pass
+"Egna pass och planer
+kommer senare.","Your own workouts and plans
+are coming later.","Egna pass och planer
+kommer senare."
+Efter tid,By duration,Efter tid
+Efter typ,By type,Efter typ
+%d pass,%d workouts,%d pass
+1 pass,1 workout,1 pass
+‹  Samlingar,‹  Collections,‹  Samlingar
+Inga pass här ännu.,No workouts here yet.,Inga pass här ännu.
+Historik,History,Historik
+Blanda,Shuffle,Blanda
+"Varje värld har egna låtar med 80-talskänsla. Fler instrument kommer in ju hårdare du trampar, zon för zon.","Every world has songs of its own with an 80s feel. More instruments join the harder you pedal, zone by zone.","Varje värld har egna låtar med 80-talskänsla. Fler instrument kommer in ju hårdare du trampar, zon för zon."
+Musik i %s,Music in %s,Musik i %s
+"Tre egna låtar med 80-talskänsla, eller blanda dem.","Three songs of its own with an 80s feel, or shuffle them.","Tre egna låtar med 80-talskänsla, eller blanda dem."
+Klassikern,The Classic,Klassikern
+Midsommarnatt,Midsummer Night,Midsommarnatt
+Fyrljus,Beacon,Fyrljus
+Låtsastrainern är på: turerna syns i historiken men ger ingen XP. Välj din trainer i Inställningar → Hårdvara.,The pretend trainer is on: rides show in the history but give no XP. Choose your trainer in Settings → Hardware.,Låtsastrainern är på: turerna syns i historiken men ger ingen XP. Välj din trainer i Inställningar → Hårdvara.
+DEN HÄR VECKAN,THIS WEEK,DEN HÄR VECKAN
+FÖRRA VECKAN,LAST WEEK,FÖRRA VECKAN
+SVIT,STREAK,SVIT
+%d veckor i rad,%d weeks in a row,%d veckor i rad
+1 vecka,1 week,1 vecka
+med minst en tur i veckan,with at least one ride a week,med minst en tur i veckan
+TOTALT,ALL TIME,TOTALT
+%d turer,%d rides,%d turer
+%d tur,%d ride,%d tur
+%s  ·  %s km  ·  %d TSS,%s  ·  %s km  ·  %d TSS,%s  ·  %s km  ·  %d TSS
+"Inga turer än. När du har cyklat syns de här, med tid, watt, XP och rekord.","No rides yet. Once you have ridden they show up here, with time, watts, XP and records.","Inga turer än. När du har cyklat syns de här, med tid, watt, XP och rekord."
+✓ Genomfört,✓ Completed,✓ Genomfört
+Låtsas,Pretend,Låtsas
+Kondition,Fitness,Kondition
+Trötthet,Fatigue,Trötthet
+Form,Form,Form
+Kondition %d  ·  Form %+d,Fitness %d  ·  Form %+d,Kondition %d  ·  Form %+d
+✓ Hela passet genomfört,✓ Whole workout completed,✓ Hela passet genomfört
+körd i Cykelapp,ridden in Cykelapp,körd i Cykelapp
+Den här veckan: %s  ·  %s,This week: %s  ·  %s,Den här veckan: %s  ·  %s
+Fortsätt %s (%d/%d),Continue %s (%d/%d),Fortsätt %s (%d/%d)
+Kört,Ridden,Kört
+mån,Mon,mån
+tis,Tue,tis
+ons,Wed,ons
+tors,Thu,tors
+fre,Fri,fre
+lör,Sat,lör
+sön,Sun,sön
+jan,Jan,jan
+feb,Feb,feb
+mar,Mar,mar
+apr,Apr,apr
+maj,May,maj
+jun,Jun,jun
+jul,Jul,jul
+aug,Aug,aug
+sep,Sep,sep
+okt,Oct,okt
+nov,Nov,nov
+dec,Dec,dec
+Egna pass,Custom,Egna pass
+Planer,Plans,Planer
+"Serier av pass i en bestämd ordning, mot ett mål. Kör ett pass i taget; planen kommer ihåg var du är.","Series of sessions in a set order, towards a goal. Ride one session at a time; the plan remembers where you are.","Serier av pass i en bestämd ordning, mot ett mål. Kör ett pass i taget; planen kommer ihåg var du är."
+%d pass  ·  %s totalt,%d sessions  ·  %s in total,%d pass  ·  %s totalt
+%d av %d pass klara,%d of %d sessions done,%d av %d pass klara
+Kör nästa pass,Ride the next session,Kör nästa pass
+Planen är klar!,Plan complete!,Planen är klar!
+Pass %d av %d i planen %s.,Session %d of %d in the plan %s.,Pass %d av %d i planen %s.
+★ %s: pass %d av %d klart,★ %s: session %d of %d done,★ %s: pass %d av %d klart
+Planer kommer senare.,Plans are coming later.,Planer kommer senare.
+Längd,Length,Längd
+Ansträngning,Effort,Ansträngning
+Cykelapp,Cykelapp,Cykelapp
+Arbetsnamn,Working title,Arbetsnamn
+Fri cykling,Free ride,Fri cykling
+Cykla fritt i din värld. Håll en watt eller känn backarna.,Ride freely in your world. Hold a wattage or feel the hills.,Cykla fritt i din värld. Håll en watt eller känn backarna.
+"Välj ett pass. Det körs i din värld, i ERG eller SIM.","Pick a workout. It runs in your world, in ERG or SIM.","Välj ett pass. Det körs i din värld, i ERG eller SIM."
+"Nivå %d. Cyklar, tröjor, stridsvagnen och dina rekord.","Level %d. Bikes, jerseys, the tank and your records.","Nivå %d. Cyklar, tröjor, stridsvagnen och dina rekord."
+Inställningar,Settings,Inställningar
+"FTP, vikt, trainer, backkänsla, skärmen och Strava.","FTP, weight, trainer, trainer difficulty, screen and Strava.","FTP, vikt, trainer, backkänsla, skärmen och Strava."
+VÄRLDAR,WORLDS,VÄRLDAR
+DIN VÄRLD,YOUR WORLD,DIN VÄRLD
+Byt värld,Change world,Byt värld
+"Ingen värld vald.
+Du cyklar på gymskärmen.","No world chosen.
+You ride on the gym screen.","Ingen värld vald.
+Du cyklar på gymskärmen."
+Gymskärm,Gym screen,Gymskärm
+✓ vald,✓ chosen,✓ vald
+"Ingen värld, bara siffror och grafer","No world, just numbers and graphs","Ingen värld, bara siffror och grafer"
+Trainer: %s     FTP %d W     Vikt %s kg,Trainer: %s     FTP %d W     Weight %s kg,Trainer: %s     FTP %d W     Vikt %s kg
+Senaste %d min,Last %d min,Senaste %d min
+höjdmeter,m climbed,höjdmeter
+Håll watt (ERG),Hold watts (ERG),Håll watt (ERG)
+Lutning (SIM),Grade (SIM),Lutning (SIM)
+Pausa passet,Pause workout,Pausa passet
+Hoppa över steg,Skip step,Hoppa över steg
+⚙ Inställningar,⚙ Settings,⚙ Inställningar
+Avsluta,Finish,Avsluta
+Mellanslag paus · → hoppa · ↑↓ intensitet · M läge,Space pause · → skip · ↑↓ intensity · M mode,Mellanslag paus · → hoppa · ↑↓ intensitet · M läge
+↑↓ ändrar watt eller lutning · M byter läge,↑↓ change watts or grade · M switches mode,↑↓ ändrar watt eller lutning · M byter läge
+"
+Låtsastrainer: W/S gör låtsascyklisten starkare/svagare (%+d W)","
+Pretend trainer: W/S makes the pretend rider stronger/weaker (%+d W)","
+Låtsastrainer: W/S gör låtsascyklisten starkare/svagare (%+d W)"
+rpm kadens,rpm cadence,rpm kadens
+W snitt,W avg,W snitt
+bpm puls,bpm heart rate,bpm puls
+W max,W max,W max
+W NP,W NP,W NP
+PASSET ÄR KLART,WORKOUT COMPLETE,PASSET ÄR KLART
+Bra jobbat!,Well done!,Bra jobbat!
+Rulla vidare så länge du vill och tryck Avsluta.,Roll on as long as you like and press Finish.,Rulla vidare så länge du vill och tryck Avsluta.
+Fritt,Free,Fritt
+i %s,for %s,i %s
+Sedan: %s %s i %s,Next: %s %s for %s,Sedan: %s %s i %s
+Sedan: klart!,Next: done!,Sedan: klart!
+ERG – trainern håller watten,ERG – the trainer holds the watts,ERG – trainern håller watten
+SIM – du håller watten med växel och kadens,SIM – you hold the watts with gears and cadence,SIM – du håller watten med växel och kadens
+passet är pausat (mellanslag fortsätter),the workout is paused (space resumes),passet är pausat (mellanslag fortsätter)
+kadensskydd: målet är sänkt tills du trampar runt 70 rpm igen,cadence guard: the target is lowered until you pedal around 70 rpm again,kadensskydd: målet är sänkt tills du trampar runt 70 rpm igen
+Fortsätt passet,Resume workout,Fortsätt passet
+Byt till SIM,Switch to SIM,Byt till SIM
+Byt till ERG,Switch to ERG,Byt till ERG
+Klar om %s,Done in %s,Klar om %s
+Trainern håller %d W oavsett växel och kadens. ↑↓ ändrar 10 W.,The trainer holds %d W whatever your gear and cadence. ↑↓ changes 10 W.,Trainern håller %d W oavsett växel och kadens. ↑↓ ändrar 10 W.
+Trainern känns som vägen. Välj watt själv med växlarna.,The trainer feels like the road. Choose your watts with the gears.,Trainern känns som vägen. Välj watt själv med växlarna.
+Trainern känns som en väg med %s %% lutning. Välj watt själv med växlarna.,The trainer feels like a road at %s %% grade. Choose your watts with the gears.,Trainern känns som en väg med %s %% lutning. Välj watt själv med växlarna.
+Rulla på!,Keep rolling!,Rulla på!
+Börja trampa så startar klockan.,Start pedalling and the clock starts.,Börja trampa så startar klockan.
+Varv %d  ·  %s km kvar  ·  %s %%,Lap %d  ·  %s km to go  ·  %s %%,Varv %d  ·  %s km kvar  ·  %s %%
+%d–%d m ö.h.,%d–%d m above sea level,%d–%d m ö.h.
+Tillbaka till turen,Back to the ride,Tillbaka till turen
+Turen fortsätter medan du är här. Esc stänger.,The ride goes on while you are here. Esc closes.,Turen fortsätter medan du är här. Esc stänger.
+Profil,Profile,Profil
+Hårdvara,Hardware,Hårdvara
+Skärmen,Screen,Skärmen
+Knappar,Buttons,Knappar
+Ljud,Sound,Ljud
+Strava,Strava,Strava
+Språk,Language,Språk
+Spelets språk. English är standard.,The game's language. English is the default.,Spelets språk. English är standard.
+"Din funktionella tröskeleffekt. Alla pass räknas i procent av den. Vet du inte din, börja på 200 W.","Your functional threshold power. Every workout is a percentage of it. If you don't know yours, start at 200 W.","Din funktionella tröskeleffekt. Alla pass räknas i procent av den. Vet du inte din, börja på 200 W."
+Vikt,Weight,Vikt
+Trainer,Trainer,Trainer
+Låtsastrainern hittar på watt och puls så att allt kan testas utan cykel. ,The pretend trainer makes up watts and heart rate so everything can be tested without a bike. ,Låtsastrainern hittar på watt och puls så att allt kan testas utan cykel. 
+Trainer via Bluetooth startar Cykelbrygga och styr din riktiga trainer. Stäng Zwift först.,Trainer over Bluetooth starts Cykelbrygga and controls your real trainer. Close Zwift first.,Trainer via Bluetooth startar Cykelbrygga och styr din riktiga trainer. Stäng Zwift först.
+Wattvisning,Power display,Wattvisning
+Det stora wattalet som snitt över 3 sekunder (lugnare) eller momentant.,The big watts number as a 3-second average (calmer) or instantaneous.,Det stora wattalet som snitt över 3 sekunder (lugnare) eller momentant.
+3 sekunders snitt,3-second average,3 sekunders snitt
+Momentant,Instantaneous,Momentant
+På,On,På
+Av,Off,Av
+Kadensskydd i ERG,Cadence guard in ERG,Kadensskydd i ERG
+"Sänker målet till hälften om kadensen faller under 55 rpm i 3 s, ","Halves the target if your cadence drops below 55 rpm for 3 s, ","Sänker målet till hälften om kadensen faller under 55 rpm i 3 s, "
+så att du inte fastnar i ett för tungt motstånd. Släpper när du trampar runt 70 rpm igen.,so you don't get stuck in resistance that is too heavy. Releases when you pedal around 70 rpm again.,så att du inte fastnar i ett för tungt motstånd. Släpper när du trampar runt 70 rpm igen.
+Backkänsla,Trainer difficulty,Backkänsla
+Hur mycket av vägens lutning trainern känns som i SIM. ,How much of the road's grade you feel on the trainer in SIM. ,Hur mycket av vägens lutning trainern känns som i SIM. 
+50 % gör en 8 %-backe till 4 % i benen. Farten i världen följer alltid den riktiga lutningen.,50 % turns an 8 % hill into 4 % in your legs. Your speed in the world always follows the real grade.,50 % gör en 8 %-backe till 4 % i benen. Farten i världen följer alltid den riktiga lutningen.
+0 % (platt),0 % (flat),0 % (platt)
+50 % (standard),50 % (default),50 % (standard)
+100 % (verklig),100 % (real),100 % (verklig)
+Zwift Click,Zwift Click,Zwift Click
+"Dina Click ansluts via Cykelbrygga, även med låtsastrainern. En Click v2 skickar ","Your Clicks connect through Cykelbrygga, also with the pretend trainer. A Click v2 sends ","Dina Click ansluts via Cykelbrygga, även med låtsastrainern. En Click v2 skickar "
+knappar först när den har varit ansluten i Zwift-appen en stund; det gäller sedan ett dygn. ,buttons only after it has been connected to the Zwift app for a while; that then lasts a day. ,knappar först när den har varit ansluten i Zwift-appen en stund; det gäller sedan ett dygn. 
+Tryck på en knapp så lyser den upp här.,Press a button and it lights up here.,Tryck på en knapp så lyser den upp här.
+Tangentbordet: A/D sväng · ↑/↓ tyngre/lättare · ←/→ titta · Enter nästa steg · ,Keyboard: A/D steer · ↑/↓ harder/easier · ←/→ look · Enter next step · ,Tangentbordet: A/D sväng · ↑/↓ tyngre/lättare · ←/→ titta · Enter nästa steg · 
+mellanslag paus · M byt ERG/SIM,space pause · M switch ERG/SIM,mellanslag paus · M byt ERG/SIM
+Återställ knapparna,Reset the buttons,Återställ knapparna
+Låtsastrainer,Pretend trainer,Låtsastrainer
+Trainer via Bluetooth,Trainer over Bluetooth,Trainer via Bluetooth
+Byt trainer när turen är slut.,Change trainer when the ride is over.,Byt trainer när turen är slut.
+Stängs av helt med Av.,Off mutes everything.,Stängs av helt med Av.
+Volym,Volume,Volym
+"Hur högt kanonen, smällarna, kulsprutan, kaststjärnorna, gongen och de andra ljuden låter.","How loud the cannon, the blasts, the machine gun, the throwing stars, the gong and the other sounds are.","Hur högt kanonen, smällarna, kulsprutan, kaststjärnorna, gongen och de andra ljuden låter."
+Musik,Music,Musik
+"Fransk elektro med 80-talskänsla. Fler instrument kommer in ju hårdare du trampar, zon för zon.","French electro with an 80s feel. More instruments join the harder you pedal, zone by zone.","Fransk elektro med 80-talskänsla. Fler instrument kommer in ju hårdare du trampar, zon för zon."
+Fartljud,Ride sounds,Fartljud
+"Vinden, däcken på asfalt och grus, kedjan och frihjulet i världen.","The wind, the tyres on asphalt and gravel, the chain and the freewheel in the world.","Vinden, däcken på asfalt och grus, kedjan och frihjulet i världen."
+Fält %d,Field %d,Fält %d
+Visas under det stora wattalet i cykelvyn.,Shown under the big watts number in the ride view.,Visas under det stora wattalet i cykelvyn.
+"Använd din egen API-app från strava.com/settings/api, där Authorization Callback Domain ","Use your own API app from strava.com/settings/api, where Authorization Callback Domain ","Använd din egen API-app från strava.com/settings/api, där Authorization Callback Domain "
+ska vara localhost. Uppgifterna sparas bara på den här datorn.,must be localhost. The details are stored only on this computer.,ska vara localhost. Uppgifterna sparas bara på den här datorn.
+t.ex. 123456,e.g. 123456,t.ex. 123456
+Client ID,Client ID,Client ID
+Siffrorna under My API Application.,The digits under My API Application.,Siffrorna under My API Application.
+sparad – klistra in för att byta,saved – paste to replace,sparad – klistra in för att byta
+klistra in,paste,klistra in
+Client Secret,Client Secret,Client Secret
+Visas aldrig igen här. Dela den inte med någon.,Never shown here again. Don't share it with anyone.,Visas aldrig igen här. Dela den inte med någon.
+Spara uppgifterna,Save the details,Spara uppgifterna
+Koppla Strava,Connect Strava,Koppla Strava
+Koppla från,Disconnect,Koppla från
+Koppla om Strava,Reconnect Strava,Koppla om Strava
+Kopplad%s.,Connected%s.,Kopplad%s.
+ som , as , som 
+Inte kopplad än.,Not connected yet.,Inte kopplad än.
+Fyll i Client ID och Client Secret och tryck Spara.,Fill in Client ID and Client Secret and press Save.,Fyll i Client ID och Client Secret och tryck Spara.
+Status: ,Status: ,Status: 
+Click är avstängda.,Clicks are turned off.,Click är avstängda.
+Status: Cykelbrygga startas inte i utvecklarläge.,Status: Cykelbrygga is not started in developer mode.,Status: Cykelbrygga startas inte i utvecklarläge.
+%d h %d min,%d h %d min,%d h %d min
+  ·  ★ %d av %d nyckelblock klarade,  ·  ★ %d of %d key blocks done,  ·  ★ %d av %d nyckelblock klarade
+  ·  hela passet genomfört,  ·  the whole workout completed,  ·  hela passet genomfört
+tid,time,tid
+bpm snitt,bpm avg,bpm snitt
+bpm max,bpm max,bpm max
+rpm snitt,rpm avg,rpm snitt
+Tid i zon (faktisk watt),Time in zone (actual watts),Tid i zon (faktisk watt)
+FIT-fil sparad: %s,FIT file saved: %s,FIT-fil sparad: %s
+Ingen data att spara.,No data to save.,Ingen data att spara.
+Visa i Finder,Show in Finder,Visa i Finder
+Till menyn,To the menu,Till menyn
+Öppna i Strava,Open in Strava,Öppna i Strava
+Ladda upp till Strava,Upload to Strava,Ladda upp till Strava
+Turen är för kort för att sparas.,The ride is too short to save.,Turen är för kort för att sparas.
+"Koppla Strava i inställningarna, så kan du ladda upp härifrån.","Connect Strava in the settings, then you can upload from here.","Koppla Strava i inställningarna, så kan du ladda upp härifrån."
+Laddar upp…,Uploading…,Laddar upp…
+Du väljer själv: passet laddas bara upp om du trycker.,Your choice: the ride is only uploaded if you press.,Du väljer själv: passet laddas bara upp om du trycker.
+%s · NP %d W · IF %s · TSS %d · körd i Cykelapp,%s · NP %d W · IF %s · TSS %d · ridden in Cykelapp,%s · NP %d W · IF %s · TSS %d · körd i Cykelapp
+Cykelpass,Bike ride,Cykelpass
+Ny nivå: %d!,New level: %d!,Ny nivå: %d!
+Upplåst i garaget: ,Unlocked in the garage: ,Upplåst i garaget: 
+Ingen XP,No XP,Ingen XP
+"Låtsastrainer: XP, rekord och FTP räknas bara med en riktig trainer.","Pretend trainer: XP, records and FTP only count with a real trainer.","Låtsastrainer: XP, rekord och FTP räknas bara med en riktig trainer."
+REKORD OCH SEGMENT,RECORDS AND SEGMENTS,REKORD OCH SEGMENT
+★ FTP höjd: %d → %d W (95 %% av bästa 20 min),★ FTP raised: %d → %d W (95 %% of the best 20 min),★ FTP höjd: %d → %d W (95 %% av bästa 20 min)
+ (förut %d W), (was %d W), (förut %d W)
+★ Personbästa %s: %d W%s,★ Personal best %s: %d W%s,★ Personbästa %s: %d W%s
+Varv i %s: %s,Lap in %s: %s,Varv i %s: %s
+ (slog spöket med %s s), (beat the ghost by %s s), (slog spöket med %s s)
+"★ %s: %s (rekord, %s s snabbare)","★ %s: %s (record, %s s faster)","★ %s: %s (rekord, %s s snabbare)"
+%s: %s (första tiden),%s: %s (first time),%s: %s (första tiden)
+%s: %s (rekord %s),%s: %s (record %s),%s: %s (rekord %s)
+Inga segment eller rekord den här gången.,No segments or records this time.,Inga segment eller rekord den här gången.
+… och %d till i garaget.,… and %d more in the garage.,… och %d till i garaget.
+FRI CYKLING,FREE RIDING,FRI CYKLING
+PANSAR,ARMOUR,PANSAR
+0 poäng,0 points,0 poäng
+Pausa,Pause,Pausa
+Hoppa över,Skip,Hoppa över
+Tryck ej här,Do not press,Tryck ej här
+Passet (ERG),Workout (ERG),Passet (ERG)
+Håll watt,Hold watts,Håll watt
+Känn vägen,Feel the road,Känn vägen
+Eget motstånd,Own resistance,Eget motstånd
+"Nu får du åka vart du vill!
+Sväng med A/D eller Clickens pilar. På vägarna följer cykeln vägen själv.","Now you can ride wherever you like!
+Steer with A/D or the Click arrows. On roads the bike follows the road by itself.","Nu får du åka vart du vill!
+Sväng med A/D eller Clickens pilar. På vägarna följer cykeln vägen själv."
+Tillbaka till vägen,Back to the road,Tillbaka till vägen
+Fordonet är tillbaka. Du cyklar på %s igen.,The vehicle is back. You are riding %s again.,Fordonet är tillbaka. Du cyklar på %s igen.
+Tillbaka på %s.,Back on %s.,Tillbaka på %s.
+  ·  W/S trampa (%+d W)  ·  ←→ titta  ·  Skift snabbspola,  ·  W/S pedal (%+d W)  ·  ←→ look  ·  Shift fast-forward,  ·  W/S trampa (%+d W)  ·  ←→ titta  ·  Skift snabbspola
+Stopp! Sväng runt hindret.,Stop! Steer round the obstacle.,Stopp! Sväng runt hindret.
+Terrängen,Off-road,Terrängen
+Ute i terrängen. Lutning %s %%.,Out off-road. Grade %s %%.,Ute i terrängen. Lutning %s %%.
+Sväng med A/D eller Clickens pilar.,Steer with A/D or the Click arrows.,Sväng med A/D eller Clickens pilar.
+Stridsvagnen är utslagen …,The tank is knocked out …,Stridsvagnen är utslagen …
+Skjut: ,Fire: ,Skjut: 
+%d poäng,%d points,%d poäng
+KM/H,KM/H,KM/H
+Rulla vidare och tryck Avsluta.,Roll on and press Finish.,Rulla vidare och tryck Avsluta.
+Sedan: %s %s · %s,Next: %s %s · %s,Sedan: %s %s · %s
+Fortsätt,Resume,Fortsätt
+ERG – passet styr motståndet,ERG – the workout sets the resistance,ERG – passet styr motståndet
+"SIM – backarna känns, håll watten med växlarna","SIM – you feel the hills, hold the watts with your gears","SIM – backarna känns, håll watten med växlarna"
+Eget motstånd %d – passet visar bara watten,Own resistance %d – the workout only shows the watts,Eget motstånd %d – passet visar bara watten
+"Passet styr trainern, var du än cyklar.","The workout controls the trainer, wherever you ride.","Passet styr trainern, var du än cyklar."
+Trainern håller watten i backarna.,The trainer holds the watts on the hills.,Trainern håller watten i backarna.
+", växel %+d",", gear %+d",", växel %+d"
+Känns som %s %% (backkänsla %d %%%s),Feels like %s %% (difficulty %d %%%s),Känns som %s %% (backkänsla %d %%%s)
+Motstånd %d,Resistance %d,Motstånd %d
+Samma motstånd i backarna. Välj med − och + (eller Tyngre/Lättare).,The same resistance on the hills. Choose with − and + (or Harder/Easier).,Samma motstånd i backarna. Välj med − och + (eller Tyngre/Lättare).
+KLÄTTRING,CLIMB,KLÄTTRING
+SPURT,SPRINT,SPURT
+%s   ·   %d m kvar,%s   ·   %d m to go,%s   ·   %d m kvar
+   ·   rekord %s,   ·   record %s,   ·   rekord %s
+   ·   första gången,   ·   first time,   ·   första gången
+"SPÖKET  ±0,0 s",GHOST  ±0.0 s,"SPÖKET  ±0,0 s"
+SPÖKET  +%s s  efter,GHOST  +%s s  behind,SPÖKET  +%s s  efter
+SPÖKET  %s s  före,GHOST  %s s  ahead,SPÖKET  %s s  före
+"%s: %s
+Första tiden. Nu har du ett rekord att slå.","%s: %s
+Your first time. Now you have a record to beat.","%s: %s
+Första tiden. Nu har du ett rekord att slå."
+"%s: %s
+Nytt rekord! %s s snabbare.","%s: %s
+New record! %s s faster.","%s: %s
+Nytt rekord! %s s snabbare."
+"%s: %s
+%s s efter rekordet (%s).","%s: %s
+%s s off the record (%s).","%s: %s
+%s s efter rekordet (%s)."
+"Varvet klart: %s
+Nästa varv cyklar ditt spöke med dig.","Lap done: %s
+On the next lap your ghost rides with you.","Varvet klart: %s
+Nästa varv cyklar ditt spöke med dig."
+"Varvet klart: %s
+Du slog spöket med %s s!","Lap done: %s
+You beat the ghost by %s s!","Varvet klart: %s
+Du slog spöket med %s s!"
+"Varvet klart: %s
+%s s efter spöket.","Lap done: %s
+%s s behind the ghost.","Varvet klart: %s
+%s s efter spöket."
+Öknen har inga årstider.,The desert has no seasons.,Öknen har inga årstider.
+Välj värld,Choose world,Välj värld
+"Du cyklar i den värld du väljer, både fri cykling och träningspass. ","You ride in the world you choose, both free rides and workouts. ","Du cyklar i den värld du väljer, både fri cykling och träningspass. "
+I ERG styr passet motståndet; i SIM känns backarna.,In ERG the workout sets the resistance; in SIM you feel the hills.,I ERG styr passet motståndet; i SIM känns backarna.
+"Ingen värld, bara siffror och grafer. Lättast för datorn.","No world, just numbers and graphs. Easiest on the computer.","Ingen värld, bara siffror och grafer. Lättast för datorn."
+TID PÅ DYGNET,TIME OF DAY,TID PÅ DYGNET
+Regn/snö,Rain/snow,Regn/snö
+VÄDER,WEATHER,VÄDER
+ÅRSTID,SEASON,ÅRSTID
+Port %d är upptagen. Kör ett annat program bryggan?,Port %d is busy. Is another program running the bridge?,Port %d är upptagen. Kör ett annat program bryggan?
+Hittar inte Cykelbrygga.app. Kör bridge/build.sh först.,Can't find Cykelbrygga.app. Run bridge/build.sh first.,Hittar inte Cykelbrygga.app. Kör bridge/build.sh först.
+"Cykelbrygga saknas i appen, så trainern kan inte nås. Installera spelet på nytt.","Cykelbrygga is missing from the app, so the trainer can't be reached. Reinstall the game.","Cykelbrygga saknas i appen, så trainern kan inte nås. Installera spelet på nytt."
+Startar Cykelbrygga…,Starting Cykelbrygga…,Startar Cykelbrygga…
+Söker Zwift Click (tryck på en knapp för att väcka dem),Looking for Zwift Click (press a button to wake them),Söker Zwift Click (tryck på en knapp för att väcka dem)
+%d Click anslutna men låsta: anslut dem i Zwift-appen en stund (gäller ett dygn),%d Clicks connected but locked: connect them to the Zwift app for a while (lasts a day),%d Click anslutna men låsta: anslut dem i Zwift-appen en stund (gäller ett dygn)
+%d Click anslutna,%d Clicks connected,%d Click anslutna
+Söker trainer (%s),Looking for the trainer (%s),Söker trainer (%s)
+puls: %s,heart rate: %s,puls: %s
+inget band,no strap,inget band
+kontroll: %s,control: %s,kontroll: %s
+Landsvägscykeln,Road bike,Landsvägscykeln
+"Allround. Snabb på asfalt, skakig i terrängen.","All-rounder. Fast on asphalt, shaky off-road.","Allround. Snabb på asfalt, skakig i terrängen."
+Klätterraketen,Climbing rocket,Klätterraketen
+Fjäderlätt. Bäst när det lutar uppåt.,Feather-light. Best when the road tilts up.,Fjäderlätt. Bäst när det lutar uppåt.
+Grusracern,Gravel racer,Grusracern
+Breda däck. Grusvägar går nästan som asfalt.,Wide tyres. Gravel roads ride almost like asphalt.,Breda däck. Grusvägar går nästan som asfalt.
+Aerocykeln,Aero bike,Aerocykeln
+Skär genom luften. Snabbast på flacken.,Cuts through the air. Fastest on the flat.,Skär genom luften. Snabbast på flacken.
+Mountainbiken,Mountain bike,Mountainbiken
+"Seg på asfalt, kung i terrängen när du åker fritt.","Sluggish on asphalt, king off-road when you ride free.","Seg på asfalt, kung i terrängen när du åker fritt."
+Stålramen -86,Steel frame '86,Stålramen -86
+"Tour de France på 80-talet. Tung, vacker och rolig.","The Tour de France in the 80s. Heavy, beautiful and fun.","Tour de France på 80-talet. Tung, vacker och rolig."
+Tempocykeln,Time-trial bike,Tempocykeln
+Ligg lågt och flyg. Tung i backarna.,Get low and fly. Heavy on the climbs.,Ligg lågt och flyg. Tung i backarna.
+Sverige,Sweden,Sverige
+Midnatt,Midnight,Midnatt
+Gula tröjan,Yellow jersey,Gula tröjan
+Neon -86,Neon '86,Neon -86
+Svart och guld,Black and gold,Svart och guld
+Mästartröjan,Champion's jersey,Mästartröjan
+Klättertröjan,Climber's jersey,Klättertröjan
+Gröna tröjan,Green jersey,Gröna tröjan
+Falurött,Falu red,Falurött
+Sand och turkos,Sand and turquoise,Sand och turkos
+Soluppgång,Sunrise,Soluppgång
+Spökjägaren,Ghost hunter,Spökjägaren
+Tjockare pansar,Thicker armour,Tjockare pansar
+150 i pansar i stället för 100.,150 armour instead of 100.,150 i pansar i stället för 100.
+Snabbladdning,Quick reload,Snabbladdning
+Laddar om 30 % snabbare.,Reloads 30 % faster.,Laddar om 30 % snabbare.
+Bättre sikte,Better aim,Bättre sikte
+Låser på mål i en bredare kon.,Locks on to targets in a wider cone.,Låser på mål i en bredare kon.
+Kraftigare laddning,Bigger charge,Kraftigare laddning
+Större sprängradie och 30 % mer skada.,A bigger blast radius and 30 % more damage.,Större sprängradie och 30 % mer skada.
+%d stridspoäng (du har %d),%d battle points (you have %d),%d stridspoäng (du har %d)
+Kör %d klättersegment (%d av %d),Ride %d climb segments (%d of %d),Kör %d klättersegment (%d av %d)
+Kör %d spurter (%d av %d),Ride %d sprints (%d of %d),Kör %d spurter (%d av %d)
+Ett helt varv i %s,A full lap in %s,Ett helt varv i %s
+Slå ditt eget spöke,Beat your own ghost,Slå ditt eget spöke
+Cykel: ,Bike: ,Cykel: 
+Tröja: ,Jersey: ,Tröja: 
+Stridsvagnen: ,Tank: ,Stridsvagnen: 
+%d kJ arbete,%d kJ of work,%d kJ arbete
+Hela passet genomfört,The whole workout completed,Hela passet genomfört
+Personbästa %s: %d W,Personal best %s: %d W,Personbästa %s: %d W
+%d segment,%d segments,%d segment
+%d segmentrekord,%d segment records,%d segmentrekord
+Varv i %s,Lap in %s,Varv i %s
+Du slog ditt spöke,You beat your ghost,Du slog ditt spöke
+Ny FTP: %d W,New FTP: %d W,Ny FTP: %d W
+%d stridspoäng,%d battle points,%d stridspoäng
+Ingenting,Nothing,Ingenting
+Sväng vänster,Steer left,Sväng vänster
+Sväng höger,Steer right,Sväng höger
+"Tyngre (växel, watt eller intensitet)","Harder (gear, watts or intensity)","Tyngre (växel, watt eller intensitet)"
+"Lättare (växel, watt eller intensitet)","Easier (gear, watts or intensity)","Lättare (växel, watt eller intensitet)"
+Titta vänster,Look left,Titta vänster
+Titta höger,Look right,Titta höger
+Nästa steg i passet,Next workout step,Nästa steg i passet
+Paus,Pause,Paus
+Byt ERG/SIM,Switch ERG/SIM,Byt ERG/SIM
+Skjut (stridsvagnen i fri cykling),Fire (the tank in free riding),Skjut (stridsvagnen i fri cykling)
+Inställningar under turen,Settings during the ride,Inställningar under turen
+Vänster Click: vänster,Left Click: left,Vänster Click: vänster
+Vänster Click: höger,Left Click: right,Vänster Click: höger
+Vänster Click: upp,Left Click: up,Vänster Click: upp
+Vänster Click: ner,Left Click: down,Vänster Click: ner
+Vänster Click: −,Left Click: −,Vänster Click: −
+Höger Click: A,Right Click: A,Höger Click: A
+Höger Click: B,Right Click: B,Höger Click: B
+Höger Click: Y,Right Click: Y,Höger Click: Y
+Höger Click: Z,Right Click: Z,Höger Click: Z
+Höger Click: +,Right Click: +,Höger Click: +
+eget motstånd,own resistance,eget motstånd
+Låtsastrainer (byt under Inställningar → Hårdvara),Pretend trainer (change it under Settings → Hardware),Låtsastrainer (byt under Inställningar → Hårdvara)
+Kadens,Cadence,Kadens
+Snittwatt,Average watts,Snittwatt
+Puls,Heart rate,Puls
+Kilojoule,Kilojoules,Kilojoule
+Maxwatt,Max watts,Maxwatt
+NP (normaliserad watt),NP (normalised watts),NP (normaliserad watt)
+Watt per kilo,Watts per kilo,Watt per kilo
+Fart,Speed,Fart
+Uppgifterna är sparade. Tryck Koppla Strava.,The details are saved. Press Connect Strava.,Uppgifterna är sparade. Tryck Koppla Strava.
+Strava är bortkopplat.,Strava is disconnected.,Strava är bortkopplat.
+Fyll i Client ID och Client Secret först.,Fill in Client ID and Client Secret first.,Fyll i Client ID och Client Secret först.
+"Port %d är upptagen, kan inte ta emot svaret från Strava.","Port %d is busy, can't receive Strava's reply.","Port %d är upptagen, kan inte ta emot svaret från Strava."
+Godkänn i webbläsaren som öppnades…,Approve in the browser that opened…,Godkänn i webbläsaren som öppnades…
+Svaret från Strava hörde inte till den här inloggningen. Försök igen.,Strava's reply did not belong to this login. Try again.,Svaret från Strava hörde inte till den här inloggningen. Försök igen.
+Strava-inloggningen avbröts (%s).,The Strava login was cancelled (%s).,Strava-inloggningen avbröts (%s).
+Du behöver godkänna att appen får ladda upp aktiviteter. Försök igen och kryssa i den rutan.,You need to allow the app to upload activities. Try again and tick that box.,Du behöver godkänna att appen får ladda upp aktiviteter. Försök igen och kryssa i den rutan.
+Klart! Du kan stänga den här fliken och gå tillbaka till Cykelapp.,Done! You can close this tab and go back to Cykelapp.,Klart! Du kan stänga den här fliken och gå tillbaka till Cykelapp.
+Hämtar nycklar från Strava…,Getting keys from Strava…,Hämtar nycklar från Strava…
+Kopplad till Strava%s.,Connected to Strava%s.,Kopplad till Strava%s.
+Strava svarade med fel %d. Stämmer Client ID och Client Secret?,Strava answered with error %d. Are the Client ID and Client Secret right?,Strava svarade med fel %d. Stämmer Client ID och Client Secret?
+Koppla Strava i inställningarna först.,Connect Strava in the settings first.,Koppla Strava i inställningarna först.
+Laddar upp till Strava…,Uploading to Strava…,Laddar upp till Strava…
+Hittar inte FIT-filen.,Can't find the FIT file.,Hittar inte FIT-filen.
+Uppladdningen misslyckades (fel %d).,The upload failed (error %d).,Uppladdningen misslyckades (fel %d).
+Uppladdat till Strava!,Uploaded to Strava!,Uppladdat till Strava!
+Strava bearbetar fortfarande passet. Titta i Strava om en stund.,Strava is still processing the ride. Look in Strava in a while.,Strava bearbetar fortfarande passet. Titta i Strava om en stund.
+Strava har redan det här passet (dubblett). Kanske kom det via Garmin?,Strava already has this ride (duplicate). Maybe it came via Garmin?,Strava har redan det här passet (dubblett). Kanske kom det via Garmin?
+Strava kunde inte ta emot passet: %s,Strava could not take the ride: %s,Strava kunde inte ta emot passet: %s
+Återhämtning,Recovery,Återhämtning
+Distans,Endurance,Distans
+Tempo och sweet spot,Tempo and sweet spot,Tempo och sweet spot
+Tröskel,Threshold,Tröskel
+VO2max,VO2max,VO2max
+Sprint,Sprint,Sprint
+Namnlöst pass,Untitled workout,Namnlöst pass
+Uppvärmning,Warm-up,Uppvärmning
+Stegring,Ramp,Stegring
+Nedvarvning,Cool-down,Nedvarvning
+Avtrappning,Taper,Avtrappning
+Fritt – kör som du vill,Free – ride as you like,Fritt – kör som du vill
+Tempo,Tempo,Tempo
+Snabbt tramp,Fast spin,Snabbt tramp
+Lugnt,Easy,Lugnt
+Sweet spot,Sweet spot,Sweet spot
+Vila,Rest,Vila
+Väck benen,Wake the legs,Väck benen
+Spurt,Sprint,Spurt
+Sötpunkten,The Sweet Spot,Sötpunkten
+"Tre block på fem minuter i sweet spot, strax under tröskeln. Bygger uthållighet utan att du blir helt slut.","Three five-minute blocks in sweet spot, just under threshold. Builds endurance without wearing you out.","Tre block på fem minuter i sweet spot, strax under tröskeln. Bygger uthållighet utan att du blir helt slut."
+Långa landsvägen,The Long Road,Långa landsvägen
+"En timme distans i lugnt men stadigt tempo, med en fri del i mitten där du kör som du vill.","An hour of endurance at an easy but steady pace, with a free part in the middle where you ride as you like.","En timme distans i lugnt men stadigt tempo, med en fri del i mitten där du kör som du vill."
+Lugn rull,Easy Spin,Lugn rull
+"Lätt återhämtning med några korta, snabba tramptag för att hålla benen pigga.","Light recovery with a few short, fast spins to keep the legs fresh.","Lätt återhämtning med några korta, snabba tramptag för att hålla benen pigga."
+Spurtstegen,The Sprint Ladder,Spurtstegen
+"Åtta korta spurter med gott om vila emellan. Snabbt och explosivt, inte segt.","Eight short sprints with plenty of rest between. Fast and explosive, not grinding.","Åtta korta spurter med gott om vila emellan. Snabbt och explosivt, inte segt."
+Tröskeltrappan,The Threshold Stairs,Tröskeltrappan
+Fyra trappsteg upp mot tröskeln och sedan två block på tröskeln. Lär dig hålla ett jämnt hårt tempo.,Four steps up towards threshold and then two blocks at threshold. Learn to hold a steady hard pace.,Fyra trappsteg upp mot tröskeln och sedan två block på tröskeln. Lär dig hålla ett jämnt hårt tempo.
+Morgon,Morning,Morgon
+Dag,Day,Dag
+Kväll,Evening,Kväll
+Natt,Night,Natt
+Följ klockan,Follow the clock,Följ klockan
+Klart,Clear,Klart
+Mulet,Overcast,Mulet
+Regn,Rain,Regn
+Dimma,Fog,Dimma
+Sommar,Summer,Sommar
+Höst,Autumn,Höst
+Vinter,Winter,Vinter
+Sandstorm,Sandstorm,Sandstorm
+Snöfall,Snowfall,Snöfall
+STRIDSVAGN,TANK,STRIDSVAGN
+F eller %s på %s Clicken,F or %s on the %s Click,F eller %s på %s Clicken
+vänstra,left,vänstra
+högra,right,högra
+Vänster,Left,Vänster
+Överkörd! +%d,Run over! +%d,Överkörd! +%d
+Kanon,Cannon,Kanon
+Zombier,Zombies,Zombier
+Pysare,Fizzers,Pysare
+Aliens,Aliens,Aliens
+UFO,UFO,UFO
+Du hittade den hemliga basen! Cykeln är nu en stridsvagn.,You found the secret base! The bike is now a tank.,Du hittade den hemliga basen! Cykeln är nu en stridsvagn.
+Larm! Monstren har vaknat. Skjut med %s.,Alarm! The monsters are awake. Fire with %s.,Larm! Monstren har vaknat. Skjut med %s.
+Ett UFO! Det släpper ner aliens. Åtta träffar fäller det.,A UFO! It drops aliens. Eight hits bring it down.,Ett UFO! Det släpper ner aliens. Åtta träffar fäller det.
+UFO:t är nere! +500,The UFO is down! +500,UFO:t är nere! +500
+Stridsvagnen är utslagen! Basen skickar en ny …,The tank is knocked out! The base is sending a new one …,Stridsvagnen är utslagen! Basen skickar en ny …
+Basen skickade en ny stridsvagn. Kör vidare!,The base sent a new tank. Drive on!,Basen skickade en ny stridsvagn. Kör vidare!
+FLAKBIL,PICKUP,FLAKBIL
+Pipa,Barrel,Pipa
+Mumier,Mummies,Mumier
+Skarabéer,Scarabs,Skarabéer
+Farao,Pharaoh,Farao
+Du hittade utgrävningslägret! Cykeln är nu en flakbil med kulspruta.,You found the dig camp! The bike is now a pickup with a machine gun.,Du hittade utgrävningslägret! Cykeln är nu en flakbil med kulspruta.
+Mumierna vaknar! Skjut med %s.,The mummies wake! Fire with %s.,Mumierna vaknar! Skjut med %s.
+Faraon stiger upp vid den stora pyramiden! Sextio träffar fäller honom.,The pharaoh rises by the great pyramid! Sixty hits bring him down.,Faraon stiger upp vid den stora pyramiden! Sextio träffar fäller honom.
+Faraon är besegrad! +500,The pharaoh is defeated! +500,Faraon är besegrad! +500
+Flakbilen är utslagen! Lägret skickar en ny …,The pickup is knocked out! The camp is sending a new one …,Flakbilen är utslagen! Lägret skickar en ny …
+Lägret skickade en ny flakbil. Kör vidare!,The camp sent a new pickup. Drive on!,Lägret skickade en ny flakbil. Kör vidare!
+SAMURAJ,SAMURAI,SAMURAJ
+Oni,Oni,Oni
+Ninjor,Ninjas,Ninjor
+Kitsune,Kitsune,Kitsune
+Draken,The dragon,Draken
+Du hittade den hemliga dojon bakom vattenfallet! Nu är du en samuraj med kaststjärnor.,You found the secret dojo behind the waterfall! Now you are a samurai with throwing stars.,Du hittade den hemliga dojon bakom vattenfallet! Nu är du en samuraj med kaststjärnor.
+Yokai vaknar i skymningen! Kasta stjärnor med %s.,Yokai wake in the dusk! Throw stars with %s.,Yokai vaknar i skymningen! Kasta stjärnor med %s.
+En drake slingrar sig över staden! Tjugofem träffar fäller den.,A dragon winds over the city! Twenty-five hits bring it down.,En drake slingrar sig över staden! Tjugofem träffar fäller den.
+Draken är besegrad! +500,The dragon is defeated! +500,Draken är besegrad! +500
+Samurajen har fallit! Dojon skickar en ny …,The samurai has fallen! The dojo is sending a new one …,Samurajen har fallit! Dojon skickar en ny …
+En ny samuraj från dojon. Vidare!,A new samurai from the dojo. Onwards!,En ny samuraj från dojon. Vidare!
+Kustvägen,Coast Road,Kustvägen
+Nilvägen,Nile Road,Nilvägen
+Sakuravägen,Sakura Road,Sakuravägen
+Militärbasen,Military Base,Militärbasen
+Kyrkvägen,Church Road,Kyrkvägen
+Kyrkbyn,Church Village,Kyrkbyn
+Hamnen,Harbour,Hamnen
+Kyrkan,Church,Kyrkan
+Gästhamn,Guest harbour,Gästhamn
+Teleportbron,Teleport bridge,Teleportbron
+Till Egypten,To Egypt,Till Egypten
+Till Japan,To Japan,Till Japan
+Till Skärgården,To the Archipelago,Till Skärgården
+Förbjudna vägen,The forbidden road,Förbjudna vägen
+Vattenfallsstigen,Waterfall Path,Vattenfallsstigen
+Portgatan,Gate Street,Portgatan
+Portalen,The Portal,Portalen
+Klipporna,The Cliffs,Klipporna
+Kyrkbacken,Church Hill,Kyrkbacken
+Kyrkbyspurten,Village Sprint,Kyrkbyspurten
+Fyrberget,Lighthouse Hill,Fyrberget
+Upp till Giza,Up to Giza,Upp till Giza
+Platåspurten,Plateau Sprint,Platåspurten
+Dynbacken,Dune Climb,Dynbacken
+Oasbacken,Oasis Climb,Oasbacken
+Basarspurten,Bazaar Sprint,Basarspurten
+Tokyospurten,Tokyo Sprint,Tokyospurten
+Tempelbacken,Temple Climb,Tempelbacken
+Bambubacken,Bamboo Climb,Bambubacken
+Neonspurten,Neon Sprint,Neonspurten
+Citadellet,The Citadel,Citadellet
+Kusten,The Coast,Kusten
+Abu Simbel,Abu Simbel,Abu Simbel
+Klipptemplet,The Rock Temple,Klipptemplet
+Utgrävningen,The Dig,Utgrävningen
+Utgrävning,Dig site,Utgrävning
+Sfinxen,The Sphinx,Sfinxen
+Pyramiderna,The Pyramids,Pyramiderna
+Basaren,The Bazaar,Basaren
+Templet,The Temple,Templet
+Oasen,The Oasis,Oasen
+Nilen,The Nile,Nilen
+Kairo,Cairo,Kairo
+Djungeln,The Jungle,Djungeln
+Fälten,The Fields,Fälten
+Öknen,The Desert,Öknen
+Dojon,The Dojo,Dojon
+Vattenfallet,The Waterfall,Vattenfallet
+Neongatan,Neon Street,Neongatan
+Tokyotornet,Tokyo Tower,Tokyotornet
+Toriitunneln,Torii Tunnel,Toriitunneln
+Slottet,The Castle,Slottet
+Gamla stan,Old Town,Gamla stan
+Bambuskogen,Bamboo Forest,Bambuskogen
+Sumoringen,Sumo Ring,Sumoringen
+Floden,The River,Floden
+Risfälten,Rice Fields,Risfälten
+Tokyo,Tokyo,Tokyo
+Landsbygden,Countryside,Landsbygden
+Odaiba,Odaiba,Odaiba
+Onsenbyn,Onsen Village,Onsenbyn
+Fujisjön,Lake Fuji,Fujisjön
+Passet,The Pass,Passet
+Irohabackarna,Iroha Hairpins,Irohabackarna
+Teodlingarna,Tea Fields,Teodlingarna
+Gasshobyn,Gassho Village,Gasshobyn
+Fiskehamnen,Fishing Port,Fiskehamnen
+Tvärvägen,Cross Road,Tvärvägen
+Slottsvägen,Castle Road,Slottsvägen
+Risvägen,Rice Road,Risvägen
+Fältvägen,Field Road,Fältvägen
+Odaibaspurten,Odaiba Sprint,Odaibaspurten
+Sjöspurten,Lake Sprint,Sjöspurten
+Irohabacken,Iroha Climb,Irohabacken
+Slottsspurten,Castle Sprint,Slottsspurten
+Gasshobacken,Gassho Climb,Gasshobacken
+Kustspurten,Coast Sprint,Kustspurten
+"12,3 km per varv",12.3 km per lap,"12,3 km per varv"
+103 höjdmeter,103 m climbing,103 höjdmeter
+"12,3 km per varv  ·  103 höjdmeter  ·  kväll med neon och Fuji, Irohabackarna (max 7 %)","12.3 km per lap  ·  103 m climbing  ·  neon evening with Fuji, the Iroha hairpins (max 7 %)","12,3 km per varv  ·  103 höjdmeter  ·  kväll med neon och Fuji, Irohabackarna (max 7 %)"
+"Neon och pariserhjulet i Tokyo, gamla stan med geishor, sjön med toriin i vattnet under Fuji, Irohabackarna, teodlingar, gasshobyn och fiskehamnen.","Neon and the Ferris wheel in Tokyo, the old town with geishas, the lake with its torii in the water below Fuji, the Iroha hairpins, tea fields, the gassho village and the fishing port.","Neon och pariserhjulet i Tokyo, gamla stan med geishor, sjön med toriin i vattnet under Fuji, Irohabackarna, teodlingar, gasshobyn och fiskehamnen."
+Storövägen,Big Island Road,Storövägen
+Långövägen,Long Island Road,Långövägen
+Herrgården,The Manor,Herrgården
+Storberget,Big Hill,Storberget
+Sydudden,South Point,Sydudden
+Långöbron,Long Island Bridge,Långöbron
+Lanthandel,Village Shop,Lanthandel
+Kiosk,Kiosk,Kiosk
+Fiskelägesbacken,Fishing Village Climb,Fiskelägesbacken
+Storöspurten,Big Island Sprint,Storöspurten
+Strandspurten,Beach Sprint,Strandspurten
+"12,2 km per varv",12.2 km per lap,"12,2 km per varv"
+174 höjdmeter,174 m climbing,174 höjdmeter
+"12,3 km per varv  ·  154 höjdmeter  ·  över Nilen två gånger",12.3 km per lap  ·  154 m climbing  ·  across the Nile twice,"12,3 km per varv  ·  154 höjdmeter  ·  över Nilen två gånger"
+"Pyramiderna och Sfinxen, basaren i Kairo, fyren på Faros i Alexandria, Vita öknen, Kungadalen, katarakten vid Aswan med Philae och en nubisk by, och palmdjungel längs Nilen.","The pyramids and the Sphinx, the Cairo bazaar, the lighthouse of Pharos in Alexandria, the White Desert, the Valley of the Kings, the cataract at Aswan with Philae and a Nubian village, and palm jungle along the Nile.","Pyramiderna och Sfinxen, basaren i Kairo, fyren på Faros i Alexandria, Vita öknen, Kungadalen, katarakten vid Aswan med Philae och en nubisk by, och palmdjungel längs Nilen."
+Faros,Pharos,Faros
+Alexandria,Alexandria,Alexandria
+Vita öknen,The White Desert,Vita öknen
+Memnonkolosserna,The Colossi of Memnon,Memnonkolosserna
+Kungadalen,Valley of the Kings,Kungadalen
+Philae,Philae,Philae
+Katarakten,The Cataract,Katarakten
+Stenbrottet,The Quarry,Stenbrottet
+Nubiska byn,The Nubian Village,Nubiska byn
+Kom Ombo,Kom Ombo,Kom Ombo
+Beduinlägret,Bedouin Camp,Beduinlägret
+Pompejus pelare,Pompey's Pillar,Pompejus pelare
+Ökenspåret,Desert Track,Ökenspåret
+Pelargatan,Pillar Street,Pelargatan
+Nilstigen,Nile Path,Nilstigen
+Promenadspurten,Promenade Sprint,Promenadspurten
+Kritspurten,Chalk Sprint,Kritspurten
+Kataraktbron,Cataract Bridge,Kataraktbron
+178 höjdmeter,178 m climbing,178 höjdmeter
+"12,2 km per varv  ·  178 höjdmeter  ·  backar upp till fyren och Storberget (max 7 %)",12.2 km per lap  ·  178 m climbing  ·  climbs to the lighthouse and Big Hill (max 7 %),"12,2 km per varv  ·  178 höjdmeter  ·  backar upp till fyren och Storberget (max 7 %)"
+"Granithällar, tallar och röda sjöbodar. Upp till fyren och Storberget, över broarna till Lillön, Norrholmen, Storön och Långön.","Granite slabs, pines and red boathouses. Up to the lighthouse and Big Hill, over the bridges to the little island, Norrholmen, Big Island and Long Island.","Granithällar, tallar och röda sjöbodar. Upp till fyren och Storberget, över broarna till Lillön, Norrholmen, Storön och Långön."
+W SNITT,W AVG,W SNITT
+RPM,RPM,RPM
+BPM,BPM,BPM
+KJ,KJ,KJ
+W MAX,W MAX,W MAX
+W/KG,W/KG,W/KG
+6 km per varv,6 km per lap,6 km per varv
+89 höjdmeter,89 m climbing,89 höjdmeter
+"6,6 km per varv",6.6 km per lap,"6,6 km per varv"
+91 höjdmeter,91 m climbing,91 höjdmeter
+"5,8 km per varv",5.8 km per lap,"5,8 km per varv"
+52 höjdmeter,52 m climbing,52 höjdmeter
+Anaerob,Anaerobic,Anaerob
+Z%d %s  ·  %d %%  ·  %s,Z%d %s  ·  %d %%  ·  %s,Z%d %s  ·  %d %%  ·  %s
+Turen,The ride,Turen
+distans,distance,distans
+snitt,average,snitt
+snittpuls,avg heart rate,snittpuls
+max %d W,max %d W,max %d W
+✓ GENOMFÖRT,✓ COMPLETED,✓ GENOMFÖRT
+Tid i zon,Time in zone,Tid i zon
+Segment,Segments,Segment
+Alla %d segment längs vägen är nya rekord.,All %d segments along the way are new records.,Alla %d segment längs vägen är nya rekord.
+★ = nytt rekord,★ = new record,★ = nytt rekord
+★ %d PR,★ %d PR,★ %d PR
+Personbästa,Personal bests,Personbästa
+Wattkurvan,Power curve,Wattkurvan
+maxpuls %d,max heart rate %d,maxpuls %d
+pass %d av %d i %s,session %d of %d in %s,pass %d av %d i %s
+låtsastrainer,pretend trainer,låtsastrainer
+Gör bilder från turen …,Making pictures of the ride …,Gör bilder från turen …
+Spara bilder,Save pictures,Spara bilder
+Tre bilder med turens siffror.,Three pictures with the ride's numbers.,Tre bilder med turens siffror.
+Sparade i %s,Saved in %s,Sparade i %s
+★ Personbästa %s: %d W,★ Personal best %s: %d W,★ Personbästa %s: %d W
+Importerade: %s,Imported: %s,Importerade: %s
+Ändra eget pass,Edit your workout,Ändra eget pass
+Nytt eget pass,New workout,Nytt eget pass
+Mitt pass,My workout,Mitt pass
+Namn,Name,Namn
+Beskrivning (valfri),Description (optional),Beskrivning (valfri)
+Lägg till:,Add:,Lägg till:
+Spara passet,Save workout,Spara passet
+Ta bort passet,Delete workout,Ta bort passet
+Säker? Tryck igen,Sure? Press again,Säker? Tryck igen
+min,min,min
+% FTP,% FTP,% FTP
+från %,from %,från %
+till %,to %,till %
+gånger,times,gånger
+"på, min","on, min","på, min"
+"på, %","on, %","på, %"
+"vila, min","rest, min","vila, min"
+"vila, %","rest, %","vila, %"
+ingen målwatt: du styr själv,no target: you set the effort,ingen målwatt: du styr själv
+%s  ·  %d block  ·  TSS %d  ·  IF %s,%s  ·  %d blocks  ·  TSS %d  ·  IF %s,%s  ·  %d block  ·  TSS %d  ·  IF %s
+Lägg till minst ett block.,Add at least one block.,Lägg till minst ett block.
+Ge passet ett namn.,Give the workout a name.,Ge passet ett namn.
+Ändra passet,Edit workout,Ändra passet
+Kopiera och ändra,Copy and edit,Kopiera och ändra
+%s (kopia),%s (copy),%s (kopia)
+Kalibrera,Calibrate,Kalibrera
+Kalibrera trainern,Calibrate the trainer,Kalibrera trainern
+"Trampa upp till en fart, sluta och låt svänghjulet rulla ut. ","Pedal up to a speed, stop and let the flywheel roll out. ","Trampa upp till en fart, sluta och låt svänghjulet rulla ut. "
+"Trainern mäter då sitt eget motstånd, så watten blir rätt. Gör det när trainern är varm, efter tio minuters cykling.","The trainer then measures its own resistance so the watts are right. Do it when the trainer is warm, after ten minutes of riding.","Trainern mäter då sitt eget motstånd, så watten blir rätt. Gör det när trainern är varm, efter tio minuters cykling."
+Helskärm,Full screen,Helskärm
+Fönster,Window,Fönster
+Spelet fyller hela skärmen. F11 växlar var du än är i spelet.,The game fills the whole screen. F11 switches wherever you are in the game.,Spelet fyller hela skärmen. F11 växlar var du än är i spelet.
+Välj Trainer via Bluetooth för att kalibrera.,Choose Trainer over Bluetooth to calibrate.,Välj Trainer via Bluetooth för att kalibrera.
+"Kalibrera mellan turerna, inte mitt i en.","Calibrate between rides, not in the middle of one.","Kalibrera mellan turerna, inte mitt i en."
+Välj rutt i %s,Choose a route in %s,Välj rutt i %s
+"Rutterna går på världens väg med olika start, längd och backar. ","The routes run on the world's road with their own start, length and climbs. ","Rutterna går på världens väg med olika start, längd och backar. "
+Både fri cykling och träningspass börjar där rutten börjar. Kör den till slut för XP och en tid att slå.,Free rides and workouts alike start where the route starts. Ride it to the end for XP and a time to beat.,Både fri cykling och träningspass börjar där rutten börjar. Kör den till slut för XP och en tid att slå.
+"klarad %d×, bästa %s","done %d×, best %s","klarad %d×, bästa %s"
+Segment: %s,Segments: %s,Segment: %s
+I DRAFTEN  −%d %% LUFT,IN THE DRAFT  −%d %% AIR,I DRAFTEN  −%d %% LUFT
+%d s före,%d s ahead,%d s före
+%d s efter,%d s behind,%d s efter
+bredvid,alongside,bredvid
+Rutten %s är avbruten: du lämnade vägen.,The route %s is broken off: you left the road.,Rutten %s är avbruten: du lämnade vägen.
+Rutten %s är klar på %s!,Route %s done in %s!,Rutten %s är klar på %s!
+%s  ·  %s km kvar,%s  ·  %s km to go,%s  ·  %s km kvar
+PASSET  ·  KLART OM %s,WORKOUT  ·  DONE IN %s,PASSET  ·  KLART OM %s
+… och %d steg till,… and %d more steps,… och %d steg till
+fritt,free,fritt
+Klicka (eller K) för hela kartan,Click (or K) for the whole map,Klicka (eller K) för hela kartan
+I NÄRHETEN,NEARBY,I NÄRHETEN
+", växel %d av %d",", gear %d of %d",", växel %d av %d"
++ Nytt pass,+ New workout,+ Nytt pass
+Importera .zwo,Import .zwo,Importera .zwo
+Zwift-pass (.zwo) går också att dra in i fönstret.,Zwift workouts (.zwo) can also be dropped on the window.,Zwift-pass (.zwo) går också att dra in i fönstret.
+RUTT,ROUTE,RUTT
+Byt rutt,Change route,Byt rutt
+Teleport till %s,Teleport to %s,Teleport till %s
+vid %s: Tryck ej här och cykla dit,at the %s: press Do not press and ride there,vid %s: Tryck ej här och cykla dit
+K stänger kartan  ·  ★ hemligheten  ·  ◯ teleport  ·  gult streck = start,K closes the map  ·  ★ the secret  ·  ◯ teleport  ·  yellow line = start,K stänger kartan  ·  ★ hemligheten  ·  ◯ teleport  ·  gult streck = start
+Rutten %s,Route %s,Rutten %s
+Ber trainern om kalibrering …,Asking the trainer to calibrate …,Ber trainern om kalibrering …
+Trampa upp till %d km/h (nu %d km/h). Sluta när trainern säger till.,Pedal up to %d km/h (now %d km/h). Stop when the trainer says so.,Trampa upp till %d km/h (nu %d km/h). Sluta när trainern säger till.
+Trampa upp i fart (nu %d km/h). Sluta när trainern säger till.,Pedal up to speed (now %d km/h). Stop when the trainer says so.,Trampa upp i fart (nu %d km/h). Sluta när trainern säger till.
+Sluta trampa nu och låt svänghjulet rulla ut …,Stop pedalling now and let the flywheel roll out …,Sluta trampa nu och låt svänghjulet rulla ut …
+Kalibrerad! ✓,Calibrated! ✓,Kalibrerad! ✓
+"Kalibreringen gick inte: %s. Prova igen, eller kalibrera i Wahoo-appen.","The calibration failed: %s. Try again, or calibrate in the Wahoo app.","Kalibreringen gick inte: %s. Prova igen, eller kalibrera i Wahoo-appen."
+Hela varvet,The Whole Lap,Hela varvet
+"Hela skärgården: Klipporna, kyrkbyn, fyren, Storberget och broarna.","All of the archipelago: the cliffs, the church village, the lighthouse, Storberget and the bridges.","Hela skärgården: Klipporna, kyrkbyn, fyren, Storberget och broarna."
+Kustvägen till fyren,Coast Road to the Lighthouse,Kustvägen till fyren
+"Från starten längs kusten, genom kyrkbyn och upp till fyren.","From the start along the coast, through the church village and up to the lighthouse.","Från starten längs kusten, genom kyrkbyn och upp till fyren."
+Tre berg,Three Hills,Tre berg
+"Kyrkbacken, Fyrberget och Storberget i ett svep. Kort och brant.","Kyrkbacken, Fyrberget and Storberget in one go. Short and steep.","Kyrkbacken, Fyrberget och Storberget i ett svep. Kort och brant."
+Sprintarnas runda,The Sprinters' Loop,Sprintarnas runda
+"Platt och snabbt över broarna: Storöspurten, Långöbron och Strandspurten.","Flat and fast over the bridges: Storöspurten, Långöbron and Strandspurten.","Platt och snabbt över broarna: Storöspurten, Långöbron och Strandspurten."
+Dubbelvarvet,Double Lap,Dubbelvarvet
+Två hela varv. Andra varvet cyklar spöket med dig.,"Two whole laps. On the second, the ghost rides with you.",Två hela varv. Andra varvet cyklar spöket med dig.
+Stora skärgårdsturen,The Grand Archipelago Tour,Stora skärgårdsturen
+Tre varv runt hela skärgården för den långa dagen.,Three laps of the whole archipelago for the long day.,Tre varv runt hela skärgården för den långa dagen.
+"Alexandria, pyramiderna, öknen, Kungadalen, Aswan och Kairo.","Alexandria, the pyramids, the desert, the Valley of the Kings, Aswan and Cairo.","Alexandria, pyramiderna, öknen, Kungadalen, Aswan och Kairo."
+Till pyramiderna,To the Pyramids,Till pyramiderna
+"Längs promenaden och upp till Giza, med spurt på platån.","Along the promenade and up to Giza, with a sprint on the plateau.","Längs promenaden och upp till Giza, med spurt på platån."
+Genom öknen,Through the Desert,Genom öknen
+"Dynbacken, Vita öknens kritspurt och klättringen in i Kungadalen.","The dune climb, the White Desert's chalk sprint and the climb into the Valley of the Kings.","Dynbacken, Vita öknens kritspurt och klättringen in i Kungadalen."
+Längs Nilen,Along the Nile,Längs Nilen
+"Katarakten vid Aswan, palmdjungeln och basaren i Kairo.","The cataract at Aswan, the palm jungle and the bazaar in Cairo.","Katarakten vid Aswan, palmdjungeln och basaren i Kairo."
+Två hela varv genom Egypten.,Two whole laps through Egypt.,Två hela varv genom Egypten.
+"Tokyo, gamla stan, sjön under Fuji, Irohabackarna, landsbygden och hamnen.","Tokyo, the old town, the lake below Fuji, the Iroha hills, the countryside and the harbour.","Tokyo, gamla stan, sjön under Fuji, Irohabackarna, landsbygden och hamnen."
+"Tempelbacken, sjöspurten och de slingrande Irohabackarna.","The temple climb, the lake sprint and the winding Iroha hills.","Tempelbacken, sjöspurten och de slingrande Irohabackarna."
+Från slottet ut bland teodlingarna och upp till gasshobyn.,From the castle out among the tea fields and up to the gassho village.,Från slottet ut bland teodlingarna och upp till gasshobyn.
+Neonstaden,Neon City,Neonstaden
+"Kustspurten, neonet i Tokyo och Odaibaspurten. Snabbt och platt.","The coast sprint, the neon of Tokyo and the Odaiba sprint. Fast and flat.","Kustspurten, neonet i Tokyo och Odaibaspurten. Snabbt och platt."
+Två hela varv genom Japan.,Two whole laps through Japan.,Två hela varv genom Japan.
+hemliga militärbasen,secret military base,hemliga militärbasen
+Flakbilen,The Pickup,Flakbilen
+utgrävningslägret,excavation camp,utgrävningslägret
+Samurajen,The Samurai,Samurajen
+dojon bakom vattenfallet,dojo behind the waterfall,dojon bakom vattenfallet
+Jämnt,Steady,Jämnt
+Ramp,Ramp,Ramp
+Intervaller,Intervals,Intervaller
+Stora kartan (visa/dölj),The big map (show/hide),Stora kartan (visa/dölj)
+stöds inte,not supported,stöds inte
+ingen trainer,no trainer,ingen trainer
+trainern kopplades från,the trainer disconnected,trainern kopplades från
+trainern rapporterade fel,the trainer reported an error,trainern rapporterade fel
+Filen går inte att läsa som XML.,The file cannot be read as XML.,Filen går inte att läsa som XML.
+Hittade inga block i passet.,Found no blocks in the workout.,Hittade inga block i passet.
+Pacer-cyklister,Pacer riders,Pacer-cyklister
+"Lugna Lisa, Jämna Jonas och Snabba Stina cyklar varvet i jämn fart. ","Lugna Lisa, Jämna Jonas and Snabba Stina ride the lap at a steady pace. ","Lugna Lisa, Jämna Jonas och Snabba Stina cyklar varvet i jämn fart. "
+Ligg tätt bakom en så får du draft: mindre luftmotstånd och lite lättare på trainern.,Sit close behind one to get the draft: less air to push and a little easier on the trainer.,Ligg tätt bakom en så får du draft: mindre luftmotstånd och lite lättare på trainern.
+Bygger %s …,Building %s …,Bygger %s …
+En tur blev avbruten,A ride was cut short,En tur blev avbruten
+"Startad %s. Appen stängdes mitt i turen, men den sparades varje minut. Spara den som den var, så kan du ladda upp den till Strava.","Started %s. The app closed in the middle of the ride, but it was saved every minute. Save it as it was, and you can upload it to Strava.","Startad %s. Appen stängdes mitt i turen, men den sparades varje minut. Spara den som den var, så kan du ladda upp den till Strava."
+Släng den,Throw it away,Släng den
+MÅL,TARGET,MÅL
+KVAR,LEFT,KVAR
+INTENSITET,INTENSITY,INTENSITET
+Kadens %d rpm,Cadence %d rpm,Kadens %d rpm
+Intro vid start,Intro at start-up,Intro vid start
+Den korta animationen med cyklisten när spelet startar. En knapptryckning hoppar över den.,The short animation with the cyclist when the game starts. Any key skips it.,Den korta animationen med cyklisten när spelet startar. En knapptryckning hoppar över den.
+i %d min,for %d min,i %d min
+Används för farten i världen och för watt per kilo.,Used for your speed in the world and for watts per kilo.,Används för farten i världen och för watt per kilo.
+Din trainer,Your trainer,Din trainer
+"Cykelbrygga söker hela tiden efter smarta trainers (KICKR, Tacx, Elite, Saris och andra med FTMS) och wattmätare. ","Cykelbrygga keeps looking for smart trainers (KICKR, Tacx, Elite, Saris and others with FTMS) and power meters. ","Cykelbrygga söker hela tiden efter smarta trainers (KICKR, Tacx, Elite, Saris och andra med FTMS) och wattmätare. "
+"Välj din här, särskilt om det finns flera i rummet. Annars tas den första smarta trainern.","Pick yours here, especially if there are several in the room. Otherwise the first smart trainer is used.","Välj din här, särskilt om det finns flera i rummet. Annars tas den första smarta trainern."
+Första smarta trainern,First smart trainer found,Första smarta trainern
+Välj Trainer via Bluetooth först,Choose Trainer over Bluetooth first,Välj Trainer via Bluetooth först
+bara watt,power only,bara watt
+ansluten,connected,ansluten
+%s (inte hittad än),%s (not found yet),%s (inte hittad än)
+Cykelbrygga svarar inte. Tillåt Cykelapp under Systeminställningar → Integritet och säkerhet → Bluetooth och starta om spelet.,Cykelbrygga isn't answering. Allow Cykelapp under System Settings → Privacy & Security → Bluetooth and restart the game.,Cykelbrygga svarar inte. Tillåt Cykelapp under Systeminställningar → Integritet och säkerhet → Bluetooth och starta om spelet.
+Cykelapp får inte använda Bluetooth. Tillåt den under Systeminställningar → Integritet och säkerhet → Bluetooth.,Cykelapp isn't allowed to use Bluetooth. Allow it under System Settings → Privacy & Security → Bluetooth.,Cykelapp får inte använda Bluetooth. Tillåt den under Systeminställningar → Integritet och säkerhet → Bluetooth.
+Bluetooth är avstängt på datorn.,Bluetooth is turned off on this computer.,Bluetooth är avstängt på datorn.
+Söker %s …,Looking for %s …,Söker %s …
+Söker trainer …,Looking for a trainer …,Söker trainer …
+söker,looking,söker
+ansluter,connecting,ansluter
+klar,ready,klar
+trainer,trainer,trainer
+macOS frågar om Cykelapp får använda Bluetooth. Välj Tillåt i rutan.,macOS is asking whether Cykelapp may use Bluetooth. Choose Allow in the dialog.,macOS frågar om Cykelapp får använda Bluetooth. Välj Tillåt i rutan.
+"%s kalibreras inte härifrån, bara i tillverkarens app (Wahoo-appen för KICKR).","%s can't be calibrated from here, only in its maker's app (the Wahoo app for KICKR).","%s kalibreras inte härifrån, bara i tillverkarens app (Wahoo-appen för KICKR)."
+Trainern,The trainer,Trainern
+✓ %s ansluten,✓ %s connected,✓ %s ansluten
+Ansluter till %s …,Connecting to %s …,Ansluter till %s …
+Cykelbrygga svarar inte. Kontrollera att Bluetooth är på och starta om spelet.,Cykelbrygga isn't answering. Check that Bluetooth is on and restart the game.,Cykelbrygga svarar inte. Kontrollera att Bluetooth är på och starta om spelet.
+Datorn har ingen Bluetooth. En USB-dongel med Bluetooth 4.0 eller senare fungerar.,This computer has no Bluetooth. A USB dongle with Bluetooth 4.0 or later works.,Datorn har ingen Bluetooth. En USB-dongel med Bluetooth 4.0 eller senare fungerar.
+Visa i Utforskaren,Show in Explorer,Visa i Utforskaren
+ingen Bluetooth,no Bluetooth,ingen Bluetooth

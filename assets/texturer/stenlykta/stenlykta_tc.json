@@ -1,0 +1,30 @@
+{
+ "model": "stenlykta",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_mork": {
+   "recipe": "grund",
+   "color": [
+    0.159,
+    0.159,
+    0.15
+   ],
+   "m_per_uv": 2.25,
+   "res": 512
+  },
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 2.591,
+   "res": 512
+  }
+ },
+ "parts": [
+  "stenlykta"
+ ]
+}

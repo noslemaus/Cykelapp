@@ -1,0 +1,39 @@
+{
+ "model": "roddbat",
+ "kind": "other",
+ "sets": {
+  "bat_bla": {
+   "recipe": "batfarg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.2747
+   ],
+   "m_per_uv": 2.787,
+   "res": 512
+  },
+  "bat_vit": {
+   "recipe": "batfarg",
+   "color": [
+    0.855,
+    0.855,
+    0.8228
+   ],
+   "m_per_uv": 3.278,
+   "res": 1024
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 2.94,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "roddbat"
+ ]
+}

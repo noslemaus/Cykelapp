@@ -1,0 +1,211 @@
+{
+ "name": "Duvhöken",
+ "category": "sprint",
+ "description": "Jämnt, mest runt 105 % av FTP. Snabbhet och kraft. Gå all in i varje spurt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 540,
+   "from": 0.4,
+   "to": 0.8
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "name": "Hallongrottan",
+ "category": "sweetspot",
+ "description": "Huvuddel: 4 min (90 %) och 6 × 4 min (84 %), plus fler block. Hög kadens i jobbet. Hårt men hållbart. Bygger FTP utan att du blir helt slut.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.81,
+   "cadence": 95,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "cadence": 95,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.9,
+   "cadence": 95,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.84,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.75,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.84,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.7,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.84,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.5,
+   "cadence": 105,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.84,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.75,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.84,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.7,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.84,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.5,
+   "cadence": 105,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

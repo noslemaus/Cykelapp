@@ -1,0 +1,81 @@
+{
+ "model": "abusimbel",
+ "name": "abusimbel",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "sandsten": {
+   "recipe": "sandsten",
+   "color": [
+    0.5841,
+    0.2747,
+    0.1022
+   ],
+   "m_per_uv": 62.128,
+   "res": 2048
+  },
+  "klippa_sand": {
+   "recipe": "sandsten",
+   "color": [
+    0.552,
+    0.2542,
+    0.0908
+   ],
+   "m_per_uv": 140.083,
+   "res": 2048
+  },
+  "klippa_mork": {
+   "recipe": "sandsten",
+   "color": [
+    0.3712,
+    0.1441,
+    0.0423
+   ],
+   "m_per_uv": 110.348,
+   "res": 2048
+  },
+  "hieroglyf": {
+   "recipe": "hieroglyf",
+   "color": [
+    0.6445,
+    0.3515,
+    0.1441
+   ],
+   "m_per_uv": 42.506,
+   "res": 2048
+  },
+  "sandsten_mork": {
+   "recipe": "sandsten",
+   "color": [
+    0.3916,
+    0.162,
+    0.0497
+   ],
+   "m_per_uv": 41.13,
+   "res": 2048
+  },
+  "kalksten_ljus": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.8228,
+    0.7157,
+    0.5271
+   ],
+   "m_per_uv": 11.112,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 40.795,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "abusimbel"
+ ]
+}

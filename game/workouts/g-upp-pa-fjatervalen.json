@@ -1,0 +1,116 @@
+{
+ "name": "Upp på Fjätervålen",
+ "category": "climbing",
+ "description": "Huvuddel: 5 × 3 min (93 %) och 6 × 4 min (86–91 %), plus fler block. Låg kadens i jobbet. Långa backar med låg kadens, som att klättra på riktigt.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.53,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.93,
+   "cadence": 100,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.93,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.93,
+   "cadence": 80,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.93,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.88,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.86,
+   "cadence": 50,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.53,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.86,
+   "cadence": 60,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.88,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.91,
+   "cadence": 80,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.91,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.91,
+   "cadence": 100,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.91,
+   "cadence": 110,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.13,
+   "cadence": 120,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.53,
+   "label": "Vila"
+  }
+ ]
+}

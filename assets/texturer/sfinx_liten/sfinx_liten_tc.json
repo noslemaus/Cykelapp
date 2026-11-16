@@ -1,0 +1,40 @@
+{
+ "model": "sfinx_liten",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 8.536,
+   "res": 2048
+  },
+  "sfinx": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.5841,
+    0.3712,
+    0.1529
+   ],
+   "m_per_uv": 7.334,
+   "res": 2048
+  },
+  "nemes_bla": {
+   "recipe": "farg",
+   "color": [
+    0.0137,
+    0.0782,
+    0.3231
+   ],
+   "m_per_uv": 3.535,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "sfinx_liten"
+ ]
+}

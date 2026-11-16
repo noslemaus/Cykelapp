@@ -1,0 +1,162 @@
+{
+ "name": "Längs Kalix älv",
+ "category": "endurance",
+ "description": "Mest runt 70 % av FTP, med fyra korta ryck. Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 70,
+   "from": 0.7,
+   "to": 0.9
+  },
+  {
+   "type": "steady",
+   "duration": 76,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.75,
+   "cadence": 60,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.8,
+   "cadence": 70,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 70,
+   "power": 0.85,
+   "cadence": 80,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 43,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.9,
+   "cadence": 95,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 14,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 96,
+   "from": 0.88,
+   "to": 1.0
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 56,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 66,
+   "power": 0.88,
+   "cadence": 80,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 67,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 87,
+   "from": 0.92,
+   "to": 1.08
+  },
+  {
+   "type": "steady",
+   "duration": 31,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 37,
+   "from": 0.95,
+   "to": 1.1
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.7,
+   "to": 0.65
+  }
+ ]
+}

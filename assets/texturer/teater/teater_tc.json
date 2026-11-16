@@ -1,0 +1,51 @@
+{
+ "model": "teater",
+ "name": "teater",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 46.858,
+   "res": 2048
+  },
+  "marmor_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.6445,
+    0.5776,
+    0.4678
+   ],
+   "m_per_uv": 107.199,
+   "res": 2048
+  },
+  "marmor": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.8388,
+    0.7913,
+    0.7011
+   ],
+   "m_per_uv": 114.686,
+   "res": 2048
+  },
+  "granit_rosa": {
+   "recipe": "grund",
+   "color": [
+    0.4564,
+    0.2307,
+    0.1746
+   ],
+   "m_per_uv": 9.656,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "teater"
+ ]
+}

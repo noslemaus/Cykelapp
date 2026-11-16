@@ -1,0 +1,71 @@
+{
+ "model": "lada",
+ "name": "lada",
+ "kind": "building",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 19.065,
+   "res": 2048
+  },
+  "falu": {
+   "recipe": "vagg",
+   "color": [
+    0.2747,
+    0.0232,
+    0.0137
+   ],
+   "m_per_uv": 24.736,
+   "res": 2048
+  },
+  "takgra": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0685,
+    0.0762,
+    0.0953
+   ],
+   "m_per_uv": 19.976,
+   "res": 2048
+  },
+  "vit": {
+   "recipe": "vitt",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 21.415,
+   "res": 2048
+  },
+  "vit_vagg": {
+   "recipe": "vagg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 7.343,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 6.783,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "lada"
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "model": "hokora",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_mork": {
+   "recipe": "grund",
+   "color": [
+    0.159,
+    0.159,
+    0.15
+   ],
+   "m_per_uv": 2.524,
+   "res": 512
+  },
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 1.818,
+   "res": 512
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 1.916,
+   "res": 512
+  },
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 0.367,
+   "res": 256
+  },
+  "vermiljon": {
+   "recipe": "farg",
+   "color": [
+    0.7454,
+    0.0595,
+    0.0242
+   ],
+   "m_per_uv": 1.052,
+   "res": 256
+  }
+ },
+ "parts": [
+  "hokora"
+ ]
+}

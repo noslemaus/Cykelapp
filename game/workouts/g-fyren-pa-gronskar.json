@@ -1,0 +1,97 @@
+{
+ "name": "Fyren på Grönskär",
+ "category": "threshold",
+ "description": "Huvuddel: 6 × 2 min (96 %) och 6 × 1 min (104 %). Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.35,
+   "to": 0.55
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

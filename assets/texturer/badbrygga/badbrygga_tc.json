@@ -1,0 +1,51 @@
+{
+ "model": "badbrygga",
+ "name": "badbrygga",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "tra_gra": {
+   "recipe": "tra",
+   "color": [
+    0.2664,
+    0.2346,
+    0.1912
+   ],
+   "m_per_uv": 9.386,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 8.053,
+   "res": 2048
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 2.346,
+   "res": 512
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 1.385,
+   "res": 256
+  }
+ },
+ "parts": [
+  "badbrygga"
+ ]
+}

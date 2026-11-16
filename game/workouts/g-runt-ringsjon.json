@@ -1,0 +1,26 @@
+{
+ "name": "Runt Ringsjön",
+ "category": "endurance",
+ "description": "Mest runt 65 % av FTP. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 2400,
+   "power": 0.65,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.65,
+   "to": 0.4
+  }
+ ]
+}

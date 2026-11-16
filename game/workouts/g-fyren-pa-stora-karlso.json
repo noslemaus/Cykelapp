@@ -1,0 +1,203 @@
+{
+ "name": "Fyren på Stora Karlsö",
+ "category": "threshold",
+ "description": "Huvuddel: två set med 8 × 1 min (90 %) och 2 × 6 min (95 %), plus fler block. Låg kadens i jobbet. Vid tröskeln: jobbigt, jämnt och fokuserat.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.44,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 85,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 85,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 65,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

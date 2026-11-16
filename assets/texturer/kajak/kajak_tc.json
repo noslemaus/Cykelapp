@@ -1,0 +1,71 @@
+{
+ "model": "kajak",
+ "name": "kajak",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 2.318,
+   "res": 512
+  },
+  "kajak": {
+   "recipe": "batfarg",
+   "color": [
+    0.807,
+    0.4342,
+    0.0232
+   ],
+   "m_per_uv": 3.562,
+   "res": 1024
+  },
+  "jacka": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0513,
+    0.0284
+   ],
+   "m_per_uv": 1.158,
+   "res": 256
+  },
+  "livboj": {
+   "recipe": "farg",
+   "color": [
+    0.807,
+    0.0999,
+    0.0232
+   ],
+   "m_per_uv": 0.909,
+   "res": 256
+  },
+  "hud": {
+   "recipe": "hud",
+   "color": [
+    0.7454,
+    0.4508,
+    0.2961
+   ],
+   "m_per_uv": 0.631,
+   "res": 256
+  },
+  "bat_bla": {
+   "recipe": "batfarg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.2747
+   ],
+   "m_per_uv": 0.44,
+   "res": 256
+  }
+ },
+ "parts": [
+  "kajak"
+ ]
+}

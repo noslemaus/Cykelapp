@@ -1,0 +1,31 @@
+{
+ "model": "jizo",
+ "name": "jizo",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 2.531,
+   "res": 512
+  },
+  "sten_mork": {
+   "recipe": "grund",
+   "color": [
+    0.159,
+    0.159,
+    0.15
+   ],
+   "m_per_uv": 2.825,
+   "res": 512
+  }
+ },
+ "parts": [
+  "jizo"
+ ]
+}

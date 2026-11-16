@@ -1,0 +1,60 @@
+{
+ "name": "Upp på Hunneberg",
+ "category": "climbing",
+ "description": "Huvuddel: 3 × 5 min (85 %). Låg kadens i jobbet. Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

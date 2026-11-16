@@ -1,0 +1,59 @@
+{
+ "model": "natstallning",
+ "kind": "other",
+ "sets": {
+  "kork": {
+   "recipe": "farg",
+   "color": [
+    0.7682,
+    0.3231,
+    0.0452
+   ],
+   "m_per_uv": 0.961,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 4.515,
+   "res": 1024
+  },
+  "nat": {
+   "recipe": "tyg",
+   "color": [
+    0.0704,
+    0.1022,
+    0.0648
+   ],
+   "m_per_uv": 2.726,
+   "res": 512
+  },
+  "nat_brun": {
+   "recipe": "tyg",
+   "color": [
+    0.1946,
+    0.1022,
+    0.0452
+   ],
+   "m_per_uv": 2.217,
+   "res": 512
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 1.322,
+   "res": 256
+  }
+ },
+ "parts": [
+  "natstallning"
+ ]
+}

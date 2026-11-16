@@ -1,0 +1,91 @@
+{
+ "model": "mattforsaljare",
+ "name": "mattforsaljare",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "galabeya_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7835,
+    0.6584
+   ],
+   "m_per_uv": 2.043,
+   "res": 512
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 4.609,
+   "res": 1024
+  },
+  "matta_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.3278,
+    0.0232,
+    0.0232
+   ],
+   "m_per_uv": 3.605,
+   "res": 1024
+  },
+  "markis_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.4621,
+    0.0423
+   ],
+   "m_per_uv": 1.028,
+   "res": 256
+  },
+  "matta_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0497,
+    0.1946
+   ],
+   "m_per_uv": 2.947,
+   "res": 1024
+  },
+  "matta_beige": {
+   "recipe": "tyg",
+   "color": [
+    0.6867,
+    0.552,
+    0.3231
+   ],
+   "m_per_uv": 2.834,
+   "res": 512
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.444,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 0.763,
+   "res": 256
+  }
+ },
+ "parts": [
+  "mattforsaljare"
+ ]
+}

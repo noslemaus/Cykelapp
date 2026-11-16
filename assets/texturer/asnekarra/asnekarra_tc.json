@@ -1,0 +1,71 @@
+{
+ "model": "asnekarra",
+ "name": "asnekarra",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 2.821,
+   "res": 512
+  },
+  "asna": {
+   "recipe": "hud",
+   "color": [
+    0.2542,
+    0.2195,
+    0.1878
+   ],
+   "m_per_uv": 2.607,
+   "res": 512
+  },
+  "asna_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.5841,
+    0.5333,
+    0.4564
+   ],
+   "m_per_uv": 0.383,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.7,
+   "res": 512
+  },
+  "metall_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 1.502,
+   "res": 512
+  },
+  "sack": {
+   "recipe": "tyg",
+   "color": [
+    0.6724,
+    0.5711,
+    0.3515
+   ],
+   "m_per_uv": 1.729,
+   "res": 512
+  }
+ },
+ "parts": [
+  "asnekarra"
+ ]
+}

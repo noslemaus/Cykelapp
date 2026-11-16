@@ -1,0 +1,31 @@
+{
+ "model": "mas",
+ "name": "mas",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "mas_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9301,
+    0.9301,
+    0.8879
+   ],
+   "m_per_uv": 0.828,
+   "res": 256
+  },
+  "mas_gra": {
+   "recipe": "tyg",
+   "color": [
+    0.3231,
+    0.3663,
+    0.4179
+   ],
+   "m_per_uv": 0.922,
+   "res": 256
+  }
+ },
+ "parts": [
+  "mas"
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "model": "eka",
+ "kind": "other",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 3.54,
+   "res": 1024
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 5.368,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "eka"
+ ]
+}

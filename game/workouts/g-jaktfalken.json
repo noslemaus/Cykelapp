@@ -1,0 +1,67 @@
+{
+ "name": "Jaktfalken",
+ "category": "sprint",
+ "description": "Jämnt, mest runt 55 % av FTP. Korta, explosiva spurter med gott om vila.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 10,
+   "on": {
+    "type": "steady",
+    "duration": 90,
+    "power": 0.88,
+    "cadence": 105,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 90,
+    "power": 0.73,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

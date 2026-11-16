@@ -1,0 +1,23 @@
+{
+ "model": "trafikljus",
+ "name": "trafikljus",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "trafik_gra": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.314
+   ],
+   "m_per_uv": 5.627,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "Gron",
+  "Rod",
+  "Stolpe"
+ ]
+}

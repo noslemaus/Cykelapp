@@ -1,0 +1,25 @@
+{
+ "name": "Runt Vidöstern",
+ "category": "endurance",
+ "description": "Mest runt 75 % av FTP. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "intervals",
+   "repeat": 6,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.74,
+    "cadence": 80,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.7,
+    "cadence": 95,
+    "label": "Vila"
+   }
+  }
+ ]
+}

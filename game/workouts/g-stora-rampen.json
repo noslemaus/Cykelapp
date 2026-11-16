@@ -1,0 +1,151 @@
+{
+ "name": "Stora rampen",
+ "category": "ftptest",
+ "description": "Watten stiger 25 W varje minut från 100 W tills du inte orkar mer.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 0.55
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 100,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 125,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 150,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 175,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 200,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 225,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 250,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 275,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 300,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 325,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 350,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 375,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 400,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 425,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 450,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 475,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 500,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 525,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 550,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 575,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 600,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 625,
+   "label": "Rampen"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

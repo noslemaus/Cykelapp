@@ -1,0 +1,164 @@
+{
+ "name": "Upp på Sånfjället",
+ "category": "climbing",
+ "description": "Huvuddel: 3 × 1 min (150 %) och 3 × 45 s (135 %). Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.15,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.5,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 1.35,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.5,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 1.35,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.5,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 1.35,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

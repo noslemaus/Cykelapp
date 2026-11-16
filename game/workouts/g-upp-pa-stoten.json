@@ -1,0 +1,150 @@
+{
+ "name": "Upp på Stöten",
+ "category": "climbing",
+ "description": "Huvuddel: 5 × 3 min (76–91 %) och 5 × 2 min (91–106 %), plus fler block. Låg kadens i jobbet. Långa backar med låg kadens, som att klättra på riktigt.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.81,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.9,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.76,
+   "to": 0.91
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.91,
+   "to": 1.06,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.76,
+   "to": 0.91
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.91,
+   "to": 1.06,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.76,
+   "to": 0.91
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.91,
+   "to": 1.06,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.76,
+   "to": 0.91
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.91,
+   "to": 1.06,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.76,
+   "to": 0.91
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.91,
+   "to": 1.06,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

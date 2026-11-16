@@ -1,0 +1,142 @@
+{
+ "name": "Midgårdsormen",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 × 30 s (105–110 %) och 5 × 1,5 min (109 %). Korta, mycket hårda block som höjer taket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.05,
+   "to": 1.1
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 1.05,
+   "to": 1.1
+  },
+  {
+   "type": "ramp",
+   "duration": 90,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.58,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.58,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.58,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.58,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "model": "tokyotorn",
+ "name": "tokyotorn",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "torn_rod": {
+   "recipe": "farg",
+   "color": [
+    0.807,
+    0.0802,
+    0.0103
+   ],
+   "m_per_uv": 256.374,
+   "res": 2048
+  },
+  "torn_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 97.408,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "tokyotorn"
+ ]
+}

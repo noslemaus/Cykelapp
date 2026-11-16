@@ -1,0 +1,42 @@
+{
+ "model": "sumo",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 4.23,
+   "res": 1024
+  },
+  "mawashi": {
+   "recipe": "tyg",
+   "color": [
+    0.0423,
+    0.0423,
+    0.1441
+   ],
+   "m_per_uv": 2.182,
+   "res": 512
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.413,
+   "res": 256
+  }
+ },
+ "parts": [
+  "BenH",
+  "BenV",
+  "Kropp"
+ ]
+}

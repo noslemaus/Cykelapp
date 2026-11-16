@@ -1,0 +1,101 @@
+{
+ "model": "jolle",
+ "name": "jolle",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "flytvast": {
+   "recipe": "tyg",
+   "color": [
+    0.8714,
+    0.1946,
+    0.0144
+   ],
+   "m_per_uv": 1.005,
+   "res": 256
+  },
+  "jolle_vit": {
+   "recipe": "batfarg",
+   "color": [
+    0.8714,
+    0.8714,
+    0.8228
+   ],
+   "m_per_uv": 2.711,
+   "res": 512
+  },
+  "handduk_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0423,
+    0.1946,
+    0.5271
+   ],
+   "m_per_uv": 2.362,
+   "res": 512
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 2.405,
+   "res": 512
+  },
+  "segel_vit": {
+   "recipe": "segel",
+   "color": [
+    0.9047,
+    0.8879,
+    0.8228
+   ],
+   "m_per_uv": 2.884,
+   "res": 1024
+  },
+  "shorts_kaki": {
+   "recipe": "tyg",
+   "color": [
+    0.4793,
+    0.3712,
+    0.1946
+   ],
+   "m_per_uv": 0.534,
+   "res": 256
+  },
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 0.783,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.3,
+   "res": 256
+  },
+  "keps_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0296,
+    0.0273
+   ],
+   "m_per_uv": 0.372,
+   "res": 256
+  }
+ },
+ "parts": [
+  "jolle"
+ ]
+}

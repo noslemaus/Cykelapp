@@ -1,0 +1,139 @@
+{
+ "name": "Runt Siljan",
+ "category": "endurance",
+ "description": "Mest runt 75 % av FTP, med åtta korta ryck. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.44,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "cadence": 65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.81,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.09,
+   "cadence": 70,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "cadence": 65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.81,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.09,
+   "cadence": 70,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  }
+ ]
+}

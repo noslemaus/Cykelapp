@@ -1,0 +1,85 @@
+{
+ "name": "Upp på Ålleberg",
+ "category": "climbing",
+ "description": "Huvuddel: 4 × 5,5 min (95 %). Låg kadens i jobbet. Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.45,
+   "to": 0.75
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 330,
+   "power": 0.95,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 210,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 330,
+   "power": 0.95,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 210,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 330,
+   "power": 0.95,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 210,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 330,
+   "power": 0.95,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

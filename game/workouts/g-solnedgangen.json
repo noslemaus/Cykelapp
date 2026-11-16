@@ -1,0 +1,96 @@
+{
+ "name": "Solnedgången",
+ "category": "recovery",
+ "description": "Mest runt 55 % av FTP och delar upp till 65 %. Benen ska må bättre efteråt än innan.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.3,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.53,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.56,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.59,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.62,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.65,
+   "cadence": 105,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.62,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.59,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.56,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.53,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

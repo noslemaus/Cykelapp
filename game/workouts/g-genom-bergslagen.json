@@ -1,0 +1,89 @@
+{
+ "name": "Genom Bergslagen",
+ "category": "endurance",
+ "description": "Mest runt 50 % av FTP, med nio korta ryck. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.7,
+   "cadence": 85
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.95,
+    "cadence": 105,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.8,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.95,
+    "cadence": 70,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.8,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.95,
+    "cadence": 105,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.8,
+    "cadence": 75,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 0.45,
+   "cadence": 85
+  }
+ ]
+}

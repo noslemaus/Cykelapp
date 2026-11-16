@@ -1,0 +1,185 @@
+{
+ "name": "Fenrisulven",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 × 1,5 min (121 %) och två set med 5 × 20 s (140 %). Låg kadens i jobbet. Korta, mycket hårda block som höjer taket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 1.04,
+   "cadence": 80,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.21,
+   "cadence": 75,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 1.04,
+   "cadence": 80,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.21,
+   "cadence": 75,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.5
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "model": "busskur",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 2.742,
+   "res": 512
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 2.411,
+   "res": 512
+  },
+  "glas_bla": {
+   "recipe": "fasad",
+   "color": [
+    0.0343,
+    0.0802,
+    0.1559
+   ],
+   "m_per_uv": 5.107,
+   "res": 1024
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 3.347,
+   "res": 1024
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 2.004,
+   "res": 512
+  },
+  "torn_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 0.869,
+   "res": 256
+  }
+ },
+ "parts": [
+  "busskur"
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "name": "Runt Hornborgasjön",
+ "category": "endurance",
+ "description": "Mest runt 50 % av FTP, med tio korta ryck. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.9,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.75,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.9,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.75,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.9,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.75,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.45
+  }
+ ]
+}

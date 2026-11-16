@@ -1,0 +1,79 @@
+{
+ "name": "Ymer",
+ "category": "vo2max",
+ "description": "Huvuddel: tre set med 20 × 15 s (160 %). Korta, mycket hårda block som höjer taket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.55,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 20,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.6,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.72,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 20,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.6,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.72,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 20,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.6,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.72,
+   "to": 0.55
+  }
+ ]
+}

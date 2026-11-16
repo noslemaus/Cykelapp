@@ -1,0 +1,61 @@
+{
+ "model": "kvinna_kruka",
+ "name": "kvinna_kruka",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "sloja_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0252,
+    0.0212,
+    0.0212
+   ],
+   "m_per_uv": 1.942,
+   "res": 512
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.427,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 0.735,
+   "res": 256
+  },
+  "sloja_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.3916,
+    0.0343,
+    0.0423
+   ],
+   "m_per_uv": 0.967,
+   "res": 256
+  },
+  "kruka": {
+   "recipe": "farg",
+   "color": [
+    0.3916,
+    0.0953,
+    0.0423
+   ],
+   "m_per_uv": 0.72,
+   "res": 256
+  }
+ },
+ "parts": [
+  "kvinna_kruka"
+ ]
+}

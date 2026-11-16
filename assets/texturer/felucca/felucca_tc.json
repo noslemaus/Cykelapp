@@ -1,0 +1,50 @@
+{
+ "model": "felucca",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "skrov_bla": {
+   "recipe": "batfarg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.2747
+   ],
+   "m_per_uv": 6.577,
+   "res": 2048
+  },
+  "felucca": {
+   "recipe": "segel",
+   "color": [
+    0.8796,
+    0.8228,
+    0.6867
+   ],
+   "m_per_uv": 12.777,
+   "res": 2048
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 6.415,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 12.017,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "felucca"
+ ]
+}

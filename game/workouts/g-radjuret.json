@@ -1,0 +1,122 @@
+{
+ "name": "Rådjuret",
+ "category": "sprint",
+ "description": "Huvuddel: 30 s (120 %) och två set med 4 × 30 s (163 %). Hög kadens i jobbet. Korta, explosiva spurter med gott om vila.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.0,
+    "cadence": 90,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.8,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.1,
+    "cadence": 100,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.5,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.2,
+    "cadence": 105,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.5,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 4,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.63,
+    "cadence": 110,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.3,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.65,
+   "cadence": 85,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 4,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.63,
+    "cadence": 110,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.3,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

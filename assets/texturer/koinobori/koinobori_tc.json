@@ -1,0 +1,81 @@
+{
+ "model": "koinobori",
+ "name": "koinobori",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "vimpel_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0194,
+    0.0194,
+    0.0232
+   ],
+   "m_per_uv": 2.899,
+   "res": 1024
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 9.007,
+   "res": 2048
+  },
+  "guld": {
+   "recipe": "lack",
+   "color": [
+    0.7454,
+    0.4342,
+    0.0561
+   ],
+   "m_per_uv": 1.013,
+   "res": 256
+  },
+  "torn_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 0.798,
+   "res": 256
+  },
+  "vimpel_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.6308,
+    0.0423,
+    0.0232
+   ],
+   "m_per_uv": 2.575,
+   "res": 512
+  },
+  "vimpel_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.4342
+   ],
+   "m_per_uv": 2.212,
+   "res": 512
+  },
+  "kimono_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 2.855,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "koinobori"
+ ]
+}

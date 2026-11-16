@@ -1,0 +1,26 @@
+{
+ "name": "Sommarlov",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP. Lugnt och mjukt, för dagen efter ett hårt pass.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.35,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 1200,
+   "power": 0.5,
+   "cadence": 90,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.35
+  }
+ ]
+}

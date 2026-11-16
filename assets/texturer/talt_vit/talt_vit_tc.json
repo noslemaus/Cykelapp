@@ -1,0 +1,30 @@
+{
+ "model": "talt_vit",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "talt_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7758,
+    0.6308
+   ],
+   "m_per_uv": 10.072,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 3.006,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "talt_vit"
+ ]
+}

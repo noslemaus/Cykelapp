@@ -1,0 +1,60 @@
+{
+ "model": "staty_staende",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "sandsten": {
+   "recipe": "sandsten",
+   "color": [
+    0.5841,
+    0.2747,
+    0.1022
+   ],
+   "m_per_uv": 13.066,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 7.249,
+   "res": 2048
+  },
+  "sandsten_mork": {
+   "recipe": "sandsten",
+   "color": [
+    0.3916,
+    0.162,
+    0.0497
+   ],
+   "m_per_uv": 11.052,
+   "res": 2048
+  },
+  "kalksten_ljus": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.8228,
+    0.7157,
+    0.5271
+   ],
+   "m_per_uv": 3.157,
+   "res": 1024
+  },
+  "hieroglyf": {
+   "recipe": "hieroglyf",
+   "color": [
+    0.6445,
+    0.3515,
+    0.1441
+   ],
+   "m_per_uv": 2.809,
+   "res": 512
+  }
+ },
+ "parts": [
+  "staty_staende"
+ ]
+}

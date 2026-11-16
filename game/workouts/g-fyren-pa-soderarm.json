@@ -1,0 +1,103 @@
+{
+ "name": "Fyren på Söderarm",
+ "category": "threshold",
+ "description": "Huvuddel: 8 min (94 %) och 9 min (92 %), plus fler block. Låg kadens i jobbet. Lyfter din FTP. Håll watten jämn hela blocket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.65,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.75,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 1.0,
+   "cadence": 100,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.98,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 420,
+   "power": 0.96,
+   "cadence": 80,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 480,
+   "power": 0.94,
+   "cadence": 70,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 540,
+   "power": 0.92,
+   "cadence": 60,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.65,
+   "to": 0.4
+  }
+ ]
+}

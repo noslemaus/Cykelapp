@@ -1,0 +1,61 @@
+{
+ "name": "Laxen",
+ "category": "sprint",
+ "description": "Huvuddel: 18 × 20 s (120 %). Snabbhet och kraft. Gå all in i varje spurt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.75,
+    "cadence": 110,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "cadence": 80,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "intervals",
+   "repeat": 18,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.2,
+    "cadence": 90,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.8,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

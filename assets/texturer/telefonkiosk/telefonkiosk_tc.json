@@ -1,0 +1,51 @@
+{
+ "model": "telefonkiosk",
+ "name": "telefonkiosk",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 2.211,
+   "res": 512
+  },
+  "telefon_gron": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.3231,
+    0.1022
+   ],
+   "m_per_uv": 2.837,
+   "res": 512
+  },
+  "glas_bla": {
+   "recipe": "fasad",
+   "color": [
+    0.0343,
+    0.0802,
+    0.1559
+   ],
+   "m_per_uv": 3.937,
+   "res": 1024
+  },
+  "trafik_gra": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.314
+   ],
+   "m_per_uv": 0.731,
+   "res": 256
+  }
+ },
+ "parts": [
+  "telefonkiosk"
+ ]
+}

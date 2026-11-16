@@ -1,0 +1,121 @@
+{
+ "name": "Upp på Hammarbybacken",
+ "category": "climbing",
+ "description": "Huvuddel: 5 min (65–90 %) och 4 × 3,5 min (88 %). Låg kadens i jobbet. Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.6
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.9
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.88,
+    "cadence": 60,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.88,
+    "cadence": 60,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.88,
+    "cadence": 60,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.88,
+    "cadence": 60,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.5
+  }
+ ]
+}

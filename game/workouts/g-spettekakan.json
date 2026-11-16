@@ -1,0 +1,139 @@
+{
+ "name": "Spettekakan",
+ "category": "sweetspot",
+ "description": "Huvuddel: 10 × 20 s (130 %). Mycket träning för pengarna, strax under tröskeln.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 420,
+   "power": 0.4,
+   "label": "Vila"
+  }
+ ]
+}

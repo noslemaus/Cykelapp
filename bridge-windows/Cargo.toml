@@ -1,0 +1,24 @@
+[package]
+name = "cykelbrygga"
+version = "0.1.0"
+edition = "2021"
+description = "Cykelbrygga for Windows: Bluetooth between the trainer, heart rate straps, Zwift Click and the game"
+publish = false
+
+[[bin]]
+name = "Cykelbrygga"
+path = "src/main.rs"
+
+[dependencies]
+btleplug = "0.13"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "net", "time", "sync"] }
+futures = "0.3"
+serde_json = "1"
+uuid = "1"
+
+[profile.release]
+opt-level = "s"
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true

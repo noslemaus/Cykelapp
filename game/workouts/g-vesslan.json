@@ -1,0 +1,163 @@
+{
+ "name": "Vesslan",
+ "category": "sprint",
+ "description": "Huvuddel: 2 × 1 min (150 %) och 2 × 30 s (170 %), plus fler block. Hög kadens i jobbet. Korta, explosiva spurter med gott om vila.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.65,
+    "cadence": 80,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.8,
+    "cadence": 95,
+    "label": "Tempo"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.5,
+   "cadence": 100,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.7,
+   "cadence": 100,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 2.0,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.0,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.81,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.5,
+   "cadence": 100,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.7,
+   "cadence": 100,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 2.0,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.0,
+   "cadence": 110,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  }
+ ]
+}

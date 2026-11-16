@@ -1,0 +1,81 @@
+{
+ "model": "mamachari",
+ "name": "mamachari",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kimono_lila": {
+   "recipe": "tyg",
+   "color": [
+    0.1946,
+    0.0423,
+    0.2542
+   ],
+   "m_per_uv": 1.262,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 1.13,
+   "res": 256
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 1.287,
+   "res": 256
+  },
+  "bil_bla_jp": {
+   "recipe": "lack",
+   "color": [
+    0.159,
+    0.3231,
+    0.624
+   ],
+   "m_per_uv": 0.663,
+   "res": 256
+  },
+  "kjol_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0137,
+    0.0232,
+    0.0685
+   ],
+   "m_per_uv": 0.887,
+   "res": 256
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 0.638,
+   "res": 256
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.399,
+   "res": 256
+  }
+ },
+ "parts": [
+  "mamachari"
+ ]
+}

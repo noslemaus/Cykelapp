@@ -1,0 +1,31 @@
+{
+ "model": "badare",
+ "name": "badare",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 1.28,
+   "res": 256
+  },
+  "klanning_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.6308,
+    0.0802,
+    0.0685
+   ],
+   "m_per_uv": 0.411,
+   "res": 256
+  }
+ },
+ "parts": [
+  "badare"
+ ]
+}

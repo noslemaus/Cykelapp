@@ -1,0 +1,71 @@
+{
+ "model": "skolelev",
+ "name": "skolelev",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kjol_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0137,
+    0.0232,
+    0.0685
+   ],
+   "m_per_uv": 1.084,
+   "res": 256
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 0.944,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.732,
+   "res": 256
+  },
+  "skoluniform": {
+   "recipe": "tyg",
+   "color": [
+    0.8879,
+    0.8879,
+    0.855
+   ],
+   "m_per_uv": 1.152,
+   "res": 256
+  },
+  "kimono_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 0.201,
+   "res": 256
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.483,
+   "res": 256
+  }
+ },
+ "parts": [
+  "skolelev"
+ ]
+}

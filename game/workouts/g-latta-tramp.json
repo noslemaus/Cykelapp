@@ -1,0 +1,88 @@
+{
+ "name": "Lätta tramp",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP och delar upp till 70 %. Lugnt och mjukt, för dagen efter ett hårt pass.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.3,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.6,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.67,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.72,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.7,
+    "cadence": 100,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.7,
+    "cadence": 100,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.5,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.5,
+   "to": 0.4
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "model": "budcykel",
+ "name": "budcykel",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "galabeya_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7835,
+    0.6584
+   ],
+   "m_per_uv": 1.238,
+   "res": 256
+  },
+  "dack": {
+   "recipe": "gummi",
+   "color": [
+    0.0144,
+    0.016,
+    0.0194
+   ],
+   "m_per_uv": 1.036,
+   "res": 256
+  },
+  "metall_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 0.956,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.305,
+   "res": 256
+  },
+  "byxor": {
+   "recipe": "tyg",
+   "color": [
+    0.0685,
+    0.0685,
+    0.0844
+   ],
+   "m_per_uv": 0.987,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 0.748,
+   "res": 256
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 1.137,
+   "res": 256
+  }
+ },
+ "parts": [
+  "budcykel"
+ ]
+}

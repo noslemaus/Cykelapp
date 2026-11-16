@@ -1,0 +1,274 @@
+{
+ "name": "Längs Emån",
+ "category": "endurance",
+ "description": "Mest runt 80 % av FTP och delar upp till 90 %. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.95,
+   "to": 1.01
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.75,
+   "to": 0.8
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 60,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://djw8c0jcxqun0"
+path.s3tc="res://.godot/imported/get_1_tex_mesh_tx_horn_BaseColor.jpg-834d4c0bca6f7eca962b5733f915d1e3.s3tc.ctex"
+path.etc2="res://.godot/imported/get_1_tex_mesh_tx_horn_BaseColor.jpg-834d4c0bca6f7eca962b5733f915d1e3.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "cf40b03ef27e7a00838224e916c96895"
+}
+
+[deps]
+
+source_file="res://world/egypten/models/get_1_tex_mesh_tx_horn_BaseColor.jpg"
+dest_files=["res://.godot/imported/get_1_tex_mesh_tx_horn_BaseColor.jpg-834d4c0bca6f7eca962b5733f915d1e3.s3tc.ctex", "res://.godot/imported/get_1_tex_mesh_tx_horn_BaseColor.jpg-834d4c0bca6f7eca962b5733f915d1e3.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/uastc_level=0
+compress/rdo_quality_loss=0.0
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/channel_remap/red=0
+process/channel_remap/green=1
+process/channel_remap/blue=2
+process/channel_remap/alpha=3
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=1024
+detect_3d/compress_to=1

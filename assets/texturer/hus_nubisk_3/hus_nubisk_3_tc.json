@@ -1,0 +1,41 @@
+{
+ "model": "hus_nubisk_3",
+ "name": "hus_nubisk_3",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "nubisk_rosa": {
+   "recipe": "puts",
+   "color": [
+    0.7379,
+    0.3095,
+    0.3325
+   ],
+   "m_per_uv": 16.165,
+   "res": 2048
+  },
+  "nubisk_vit": {
+   "recipe": "vitt",
+   "color": [
+    0.8963,
+    0.855,
+    0.7758
+   ],
+   "m_per_uv": 19.448,
+   "res": 2048
+  },
+  "nubisk_bla": {
+   "recipe": "puts",
+   "color": [
+    0.0497,
+    0.2122,
+    0.5271
+   ],
+   "m_per_uv": 3.89,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "hus_nubisk_3"
+ ]
+}

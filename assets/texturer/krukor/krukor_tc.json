@@ -1,0 +1,30 @@
+{
+ "model": "krukor",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 1.957,
+   "res": 512
+  },
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 1.085,
+   "res": 256
+  }
+ },
+ "parts": [
+  "krukor"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "model": "obelisk",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "obelisk": {
+   "recipe": "hieroglyf",
+   "color": [
+    0.6584,
+    0.4452,
+    0.2122
+   ],
+   "m_per_uv": 20.052,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 7.254,
+   "res": 2048
+  },
+  "sandsten_mork": {
+   "recipe": "hieroglyf",
+   "color": [
+    0.3916,
+    0.162,
+    0.0497
+   ],
+   "m_per_uv": 8.96,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "obelisk"
+ ]
+}

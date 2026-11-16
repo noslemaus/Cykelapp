@@ -1,0 +1,41 @@
+{
+ "model": "gravstenar",
+ "name": "gravstenar",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 2.154,
+   "res": 512
+  },
+  "flyttblock": {
+   "recipe": "grund",
+   "color": [
+    0.3278,
+    0.3095,
+    0.2789
+   ],
+   "m_per_uv": 2.185,
+   "res": 512
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 1.301,
+   "res": 256
+  }
+ },
+ "parts": [
+  "gravstenar"
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "model": "turist",
+ "name": "turist",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kimono_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.2542
+   ],
+   "m_per_uv": 0.977,
+   "res": 256
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 1.188,
+   "res": 256
+  },
+  "torn_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 0.495,
+   "res": 256
+  },
+  "turist_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5776,
+    0.0685,
+    0.0423
+   ],
+   "m_per_uv": 1.083,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.387,
+   "res": 256
+  },
+  "halm_jp": {
+   "recipe": "tra",
+   "color": [
+    0.5776,
+    0.3916,
+    0.117
+   ],
+   "m_per_uv": 0.795,
+   "res": 256
+  }
+ },
+ "parts": [
+  "turist"
+ ]
+}

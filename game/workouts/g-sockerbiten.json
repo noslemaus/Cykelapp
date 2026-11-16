@@ -1,0 +1,26 @@
+{
+ "name": "Sockerbiten",
+ "category": "sweetspot",
+ "description": "Jämnt, mest runt 82 % av FTP. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "steady",
+   "duration": 1200,
+   "power": 0.82,
+   "cadence": 88,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

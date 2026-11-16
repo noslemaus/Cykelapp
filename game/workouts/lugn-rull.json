@@ -1,0 +1,41 @@
+{
+  "name": "Lugn rull",
+  "category": "recovery",
+  "custom": true,
+  "description": "Lätt återhämtning med några korta, snabba tramptag för att hålla benen pigga.",
+  "steps": [
+    {
+      "type": "ramp",
+      "duration": 300,
+      "from": 0.4,
+      "to": 0.55
+    },
+    {
+      "type": "steady",
+      "duration": 600,
+      "power": 0.55,
+      "cadence": 90
+    },
+    {
+      "type": "intervals",
+      "repeat": 4,
+      "on": {
+        "duration": 30,
+        "power": 0.7,
+        "cadence": 105,
+        "label": "Snabbt tramp"
+      },
+      "off": {
+        "duration": 120,
+        "power": 0.5,
+        "label": "Lugnt"
+      }
+    },
+    {
+      "type": "ramp",
+      "duration": 300,
+      "from": 0.55,
+      "to": 0.4
+    }
+  ]
+}

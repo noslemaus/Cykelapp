@@ -1,0 +1,41 @@
+{
+ "model": "skylt_vag_v",
+ "name": "skylt_vag_v",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "stolpe": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3515,
+    0.3813
+   ],
+   "m_per_uv": 2.503,
+   "res": 512
+  },
+  "skylt_svart": {
+   "recipe": "lack",
+   "color": [
+    0.0123,
+    0.0137,
+    0.016
+   ],
+   "m_per_uv": 1.504,
+   "res": 512
+  },
+  "skylt_vit": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 1.386,
+   "res": 256
+  }
+ },
+ "parts": [
+  "skylt_vag_v"
+ ]
+}

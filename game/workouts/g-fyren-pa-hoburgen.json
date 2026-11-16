@@ -1,0 +1,95 @@
+{
+ "name": "Fyren på Hoburgen",
+ "category": "threshold",
+ "description": "Jämnt, mest runt 55 % av FTP. Lyser stadigt i mörkret, precis som du ska.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 720,
+   "from": 0.45,
+   "to": 0.7
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.8,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.6,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.85,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.0,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.85,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.0,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.85,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.0,
+    "label": "Tröskel"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.45
+  }
+ ]
+}

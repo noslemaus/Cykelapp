@@ -1,0 +1,20 @@
+{
+ "model": "kitsune",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kitsune_vit": {
+   "recipe": "hud",
+   "color": [
+    0.8879,
+    0.8469,
+    0.7605
+   ],
+   "m_per_uv": 3.011,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "kitsune"
+ ]
+}

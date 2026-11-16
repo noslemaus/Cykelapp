@@ -1,0 +1,40 @@
+{
+ "name": "Upp på Sappisåsen",
+ "category": "climbing",
+ "description": "Huvuddel: 5 min (85 %) och 5 min (92 %), plus fler block. Låg kadens i jobbet. Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "cadence": 72,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.92,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 1.0,
+   "cadence": 68,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "name": "Upp på Mullfjället",
+ "category": "climbing",
+ "description": "Huvuddel: 3 × 2,5 min (107 %) och 2 × 5 min (97 %), plus fler block. Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.41,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.26,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.26,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 1.26,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "label": "Klättring"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 150,
+    "power": 1.07,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 150,
+    "power": 0.95,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.37,
+   "label": "Klättring"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 300,
+    "power": 0.97,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 300,
+    "power": 0.88,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.41,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.92,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 1.0,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.88,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 1.1,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.82,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.9,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.53,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.48
+  }
+ ]
+}

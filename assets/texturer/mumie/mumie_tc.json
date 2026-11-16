@@ -1,0 +1,34 @@
+{
+ "model": "mumie",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "linne": {
+   "recipe": "tyg",
+   "color": [
+    0.6939,
+    0.5841,
+    0.3663
+   ],
+   "m_per_uv": 1.891,
+   "res": 512
+  },
+  "linne_mork": {
+   "recipe": "tyg",
+   "color": [
+    0.4508,
+    0.3515,
+    0.1946
+   ],
+   "m_per_uv": 2.521,
+   "res": 512
+  }
+ },
+ "parts": [
+  "ArmH",
+  "ArmV",
+  "BenH",
+  "BenV",
+  "Kropp"
+ ]
+}

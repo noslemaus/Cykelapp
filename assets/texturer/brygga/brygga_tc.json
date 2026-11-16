@@ -1,0 +1,29 @@
+{
+ "model": "brygga",
+ "kind": "other",
+ "sets": {
+  "tra_gra": {
+   "recipe": "tra",
+   "color": [
+    0.2664,
+    0.2346,
+    0.1912
+   ],
+   "m_per_uv": 17.857,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 12.074,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "brygga"
+ ]
+}

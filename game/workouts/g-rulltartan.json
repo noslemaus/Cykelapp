@@ -1,0 +1,34 @@
+{
+ "name": "Rulltårtan",
+ "category": "sweetspot",
+ "description": "Huvuddel: 3 × 5 min (92 %). Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "duration": 300,
+    "power": 0.92,
+    "cadence": 92,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "duration": 120,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "model": "katt_1",
+ "name": "katt_1",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "katt_ora": {
+   "recipe": "hud",
+   "color": [
+    0.6445,
+    0.2542,
+    0.0482
+   ],
+   "m_per_uv": 0.97,
+   "res": 256
+  }
+ },
+ "parts": [
+  "katt_1"
+ ]
+}

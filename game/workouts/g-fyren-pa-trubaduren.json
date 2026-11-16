@@ -1,0 +1,34 @@
+{
+ "name": "Fyren på Trubaduren",
+ "category": "threshold",
+ "description": "Huvuddel: 20 × 15 s (100 %). Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.5
+  },
+  {
+   "type": "intervals",
+   "repeat": 20,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.0,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "free",
+   "duration": 600,
+   "label": "Fritt – kör som du vill"
+  }
+ ]
+}

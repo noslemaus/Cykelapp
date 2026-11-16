@@ -1,0 +1,51 @@
+{
+  "name": "Långa landsvägen",
+  "category": "endurance",
+  "custom": true,
+  "description": "En timme distans i lugnt men stadigt tempo, med en fri del i mitten där du kör som du vill.",
+  "steps": [
+    {
+      "type": "ramp",
+      "duration": 600,
+      "from": 0.45,
+      "to": 0.68
+    },
+    {
+      "type": "steady",
+      "duration": 780,
+      "power": 0.7,
+      "cadence": 88
+    },
+    {
+      "type": "free",
+      "duration": 300,
+      "label": "Fritt – kör som du vill"
+    },
+    {
+      "type": "steady",
+      "duration": 780,
+      "power": 0.72,
+      "cadence": 88
+    },
+    {
+      "type": "intervals",
+      "repeat": 3,
+      "on": {
+        "duration": 60,
+        "power": 0.85,
+        "label": "Tempo"
+      },
+      "off": {
+        "duration": 240,
+        "power": 0.65,
+        "label": "Distans"
+      }
+    },
+    {
+      "type": "ramp",
+      "duration": 240,
+      "from": 0.6,
+      "to": 0.4
+    }
+  ]
+}

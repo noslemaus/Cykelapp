@@ -1,0 +1,81 @@
+{
+ "model": "solbadare",
+ "name": "solbadare",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 1.977,
+   "res": 512
+  },
+  "handduk_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0423,
+    0.1946,
+    0.5271
+   ],
+   "m_per_uv": 1.905,
+   "res": 512
+  },
+  "klanning_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.8714,
+    0.7913
+   ],
+   "m_per_uv": 1.292,
+   "res": 256
+  },
+  "klanning_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.6308,
+    0.0802,
+    0.0685
+   ],
+   "m_per_uv": 0.747,
+   "res": 256
+  },
+  "man_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.016,
+    0.0144
+   ],
+   "m_per_uv": 0.416,
+   "res": 256
+  },
+  "halm": {
+   "recipe": "tra",
+   "color": [
+    0.5841,
+    0.3813,
+    0.1022
+   ],
+   "m_per_uv": 0.753,
+   "res": 256
+  },
+  "handduk_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.6867,
+    0.0685,
+    0.0685
+   ],
+   "m_per_uv": 0.327,
+   "res": 256
+  }
+ },
+ "parts": [
+  "solbadare"
+ ]
+}

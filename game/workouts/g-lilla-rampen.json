@@ -1,0 +1,165 @@
+{
+ "name": "Lilla rampen",
+ "category": "ftptest",
+ "description": "En mjukare ramp: 10 W mer varje minut från 50 W tills du inte orkar mer.",
+ "steps": [
+  {
+   "type": "free",
+   "duration": 480,
+   "label": "Allt du har"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 50,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 60,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 70,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 80,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 90,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 100,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 110,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 120,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 130,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 140,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 150,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 160,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 170,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 180,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 190,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 200,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 210,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 220,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 230,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 240,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "watts": 250,
+   "cadence": 85,
+   "label": "Rampen"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from_watts": 75,
+   "to_watts": 70
+  }
+ ]
+}

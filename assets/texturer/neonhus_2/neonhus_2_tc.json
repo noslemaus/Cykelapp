@@ -1,0 +1,71 @@
+{
+ "model": "neonhus_2",
+ "name": "neonhus_2",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "betong_mork": {
+   "recipe": "puts",
+   "color": [
+    0.2051,
+    0.2016,
+    0.1845
+   ],
+   "m_per_uv": 40.268,
+   "res": 2048
+  },
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 42.191,
+   "res": 2048
+  },
+  "glas_mork": {
+   "recipe": "fasad",
+   "color": [
+    0.0194,
+    0.0296,
+    0.0452
+   ],
+   "m_per_uv": 12.054,
+   "res": 2048
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 19.03,
+   "res": 2048
+  },
+  "tak_mork": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0343,
+    0.0395,
+    0.0497
+   ],
+   "m_per_uv": 9.917,
+   "res": 2048
+  },
+  "glas_bla": {
+   "recipe": "fasad",
+   "color": [
+    0.0343,
+    0.0802,
+    0.1559
+   ],
+   "m_per_uv": 5.587,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "neonhus_2"
+ ]
+}

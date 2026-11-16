@@ -1,0 +1,83 @@
+{
+ "name": "Skade",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 × 30 s (109 %) och två set med 3 × 2,5 min (110 %). Låg kadens i jobbet. Korta, mycket hårda block som höjer taket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.44,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 150,
+    "power": 1.1,
+    "cadence": 65,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 150,
+    "power": 0.3,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 480,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 150,
+    "power": 1.1,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 150,
+    "power": 0.3,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.4,
+   "label": "Vila"
+  }
+ ]
+}

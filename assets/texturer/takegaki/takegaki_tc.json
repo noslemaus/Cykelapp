@@ -1,0 +1,60 @@
+{
+ "model": "takegaki",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 4.005,
+   "res": 1024
+  },
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 1.608,
+   "res": 512
+  },
+  "bambu_mork": {
+   "recipe": "tra",
+   "color": [
+    0.0497,
+    0.1441,
+    0.0232
+   ],
+   "m_per_uv": 4.006,
+   "res": 1024
+  },
+  "bambu": {
+   "recipe": "tra",
+   "color": [
+    0.1144,
+    0.3231,
+    0.0423
+   ],
+   "m_per_uv": 3.061,
+   "res": 1024
+  },
+  "bambu_ljus": {
+   "recipe": "tra",
+   "color": [
+    0.2384,
+    0.4793,
+    0.0685
+   ],
+   "m_per_uv": 4.671,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "takegaki"
+ ]
+}

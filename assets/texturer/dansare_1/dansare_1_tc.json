@@ -1,0 +1,51 @@
+{
+ "model": "dansare_1",
+ "name": "dansare_1",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "klanning_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.8714,
+    0.7913
+   ],
+   "m_per_uv": 1.902,
+   "res": 512
+  },
+  "hud_sol": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.4564,
+    0.2961
+   ],
+   "m_per_uv": 1.23,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 0.427,
+   "res": 256
+  },
+  "krans_gron": {
+   "recipe": "tyg",
+   "color": [
+    0.1022,
+    0.2542,
+    0.0423
+   ],
+   "m_per_uv": 0.422,
+   "res": 256
+  }
+ },
+ "parts": [
+  "dansare_1"
+ ]
+}

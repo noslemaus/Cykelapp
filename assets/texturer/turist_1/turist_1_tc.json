@@ -1,0 +1,61 @@
+{
+ "model": "turist_1",
+ "name": "turist_1",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "shorts_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0232,
+    0.0296
+   ],
+   "m_per_uv": 1.057,
+   "res": 256
+  },
+  "hud_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.7605,
+    0.4342,
+    0.2623
+   ],
+   "m_per_uv": 1.281,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.444,
+   "res": 256
+  },
+  "turist_skjorta": {
+   "recipe": "tyg",
+   "color": [
+    0.807,
+    0.1746,
+    0.0423
+   ],
+   "m_per_uv": 1.311,
+   "res": 256
+  },
+  "halm": {
+   "recipe": "tra",
+   "color": [
+    0.5841,
+    0.3813,
+    0.1022
+   ],
+   "m_per_uv": 0.812,
+   "res": 256
+  }
+ },
+ "parts": [
+  "turist_1"
+ ]
+}

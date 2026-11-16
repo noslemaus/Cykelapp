@@ -1,0 +1,61 @@
+{
+ "model": "cykel_parkerad",
+ "name": "cykel_parkerad",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 0.367,
+   "res": 256
+  },
+  "dack": {
+   "recipe": "gummi",
+   "color": [
+    0.0144,
+    0.016,
+    0.0194
+   ],
+   "m_per_uv": 0.972,
+   "res": 256
+  },
+  "klanning_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.159,
+    0.3467,
+    0.6308
+   ],
+   "m_per_uv": 0.835,
+   "res": 256
+  },
+  "halm": {
+   "recipe": "tra",
+   "color": [
+    0.5841,
+    0.3813,
+    0.1022
+   ],
+   "m_per_uv": 0.772,
+   "res": 256
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 0.439,
+   "res": 256
+  }
+ },
+ "parts": [
+  "cykel_parkerad"
+ ]
+}

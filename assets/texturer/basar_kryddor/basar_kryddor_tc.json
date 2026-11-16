@@ -1,0 +1,60 @@
+{
+ "model": "basar_kryddor",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 5.587,
+   "res": 1024
+  },
+  "markis_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0409,
+    0.0242
+   ],
+   "m_per_uv": 3.896,
+   "res": 1024
+  },
+  "markis_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8632,
+    0.7913,
+    0.6724
+   ],
+   "m_per_uv": 3.896,
+   "res": 1024
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 4.881,
+   "res": 1024
+  },
+  "matta_beige": {
+   "recipe": "tyg",
+   "color": [
+    0.6867,
+    0.552,
+    0.3231
+   ],
+   "m_per_uv": 2.596,
+   "res": 512
+  }
+ },
+ "parts": [
+  "basar_kryddor"
+ ]
+}

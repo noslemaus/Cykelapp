@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dtwgtmh3cb5qy"
+
+[deps]
+
+files=["res://lang/planer.en.translation", "res://lang/planer.sv.translation"]
+
+source_file="res://lang/planer.csv"
+dest_files=["res://lang/planer.en.translation", "res://lang/planer.sv.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

@@ -1,0 +1,63 @@
+{
+ "name": "Genom Bohuslän",
+ "category": "endurance",
+ "description": "Mest runt 50 % av FTP och delar upp till 75 %. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.6,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.7,
+    "label": "Distans"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 6,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.75,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.6,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.6,
+   "to": 0.4
+  }
+ ]
+}

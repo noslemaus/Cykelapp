@@ -1,0 +1,21 @@
+{
+ "model": "prick_rod",
+ "name": "prick_rod",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "prick_rod": {
+   "recipe": "farg",
+   "color": [
+    0.5271,
+    0.0409,
+    0.0242
+   ],
+   "m_per_uv": 2.611,
+   "res": 512
+  }
+ },
+ "parts": [
+  "prick_rod"
+ ]
+}

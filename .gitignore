@@ -1,0 +1,30 @@
+# Godot: the import cache is rebuilt on first open (the .import files beside the assets are kept)
+game/.godot/
+
+# macOS
+.DS_Store
+
+# Built apps (make them with build.sh in bridge/, ble-test/ and click-test/)
+*.app/
+
+# Logs from tests and tools
+*.log
+
+# TextureCraft: project files and intermediate exports (about 2 GB). The finished painted models
+# (<name>_tex.glb) live in game/world/*/models and are kept; the recipes (*.json) and scripts too.
+assets/texturer/**/export/
+assets/texturer/**/*.tcraft
+assets/texturer/**/*_tc.glb
+
+# Blender backups and Python caches
+*.blend1
+__pycache__/
+
+# SoundCraft: the raw renders of the songs (assets/ljud/latar.py folds them into game/audio/musik)
+assets/ljud/stems/*/
+
+# AniCraft: the rendered frames (assets/animering/animering.py makes the videos from them)
+assets/animering/render/
+
+# Exported games (godot --export-release, see README "Paketering")
+build/

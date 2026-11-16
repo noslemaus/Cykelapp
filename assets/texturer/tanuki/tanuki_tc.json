@@ -1,0 +1,60 @@
+{
+ "model": "tanuki",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "tanuki_brun": {
+   "recipe": "lack",
+   "color": [
+    0.2542,
+    0.1441,
+    0.0685
+   ],
+   "m_per_uv": 2.052,
+   "res": 512
+  },
+  "tanuki_ljus": {
+   "recipe": "lack",
+   "color": [
+    0.6867,
+    0.5776,
+    0.3916
+   ],
+   "m_per_uv": 1.146,
+   "res": 256
+  },
+  "halm_jp": {
+   "recipe": "tra",
+   "color": [
+    0.5776,
+    0.3916,
+    0.117
+   ],
+   "m_per_uv": 1.213,
+   "res": 256
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 0.461,
+   "res": 256
+  },
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 1.408,
+   "res": 256
+  }
+ },
+ "parts": [
+  "tanuki"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "model": "utkikstorn",
+ "name": "utkikstorn",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "takgra": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0685,
+    0.0762,
+    0.0953
+   ],
+   "m_per_uv": 5.623,
+   "res": 1024
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 8.992,
+   "res": 2048
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 9.774,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "utkikstorn"
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "name": "Fyren på Örskär",
+ "category": "threshold",
+ "description": "Huvuddel: 15 min (90 %) och 10 min (90 %), plus fler block. Hög kadens i jobbet. Lyfter din FTP. Håll watten jämn hela blocket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "cadence": 95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "cadence": 105,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "cadence": 115,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 0.9,
+   "cadence": 90,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 225,
+   "from": 0.5,
+   "to": 0.25
+  }
+ ]
+}

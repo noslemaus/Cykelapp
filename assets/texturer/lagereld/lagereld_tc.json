@@ -1,0 +1,41 @@
+{
+ "model": "lagereld",
+ "name": "lagereld",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 1.286,
+   "res": 256
+  },
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 1.955,
+   "res": 512
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 2.112,
+   "res": 512
+  }
+ },
+ "parts": [
+  "lagereld"
+ ]
+}

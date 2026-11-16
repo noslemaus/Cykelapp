@@ -1,0 +1,61 @@
+{
+ "model": "gassho",
+ "name": "gassho",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_mork": {
+   "recipe": "grund",
+   "color": [
+    0.159,
+    0.159,
+    0.15
+   ],
+   "m_per_uv": 21.475,
+   "res": 2048
+  },
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 24.148,
+   "res": 2048
+  },
+  "halm_tak": {
+   "recipe": "halm",
+   "color": [
+    0.2051,
+    0.1441,
+    0.0685
+   ],
+   "m_per_uv": 33.508,
+   "res": 2048
+  },
+  "halm_tak_mork": {
+   "recipe": "halm",
+   "color": [
+    0.107,
+    0.0762,
+    0.0395
+   ],
+   "m_per_uv": 17.427,
+   "res": 2048
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 23.388,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "gassho"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "model": "prick_gron",
+ "name": "prick_gron",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "prick_gron": {
+   "recipe": "farg",
+   "color": [
+    0.0273,
+    0.2051,
+    0.0782
+   ],
+   "m_per_uv": 2.618,
+   "res": 512
+  }
+ },
+ "parts": [
+  "prick_gron"
+ ]
+}

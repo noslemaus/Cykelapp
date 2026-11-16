@@ -1,0 +1,223 @@
+{
+ "name": "Runt Vänern",
+ "category": "endurance",
+ "description": "Mest runt 65 % av FTP och delar upp till 85 %. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.65,
+   "to": 0.8,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.65,
+   "to": 0.8,
+   "cadence": 110
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "cadence": 87,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.8,
+   "cadence": 99,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.85,
+   "cadence": 105,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "cadence": 87,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.8,
+   "cadence": 99,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.85,
+   "cadence": 105,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "cadence": 87,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.8,
+   "cadence": 99,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.85,
+   "cadence": 105,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.75,
+   "cadence": 87,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "cadence": 93,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.8,
+   "cadence": 99,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.85,
+   "cadence": 125,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

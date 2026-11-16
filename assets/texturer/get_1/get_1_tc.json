@@ -1,0 +1,41 @@
+{
+ "model": "get_1",
+ "name": "get_1",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "get_svart": {
+   "recipe": "hud",
+   "color": [
+    0.0284,
+    0.0232,
+    0.0212
+   ],
+   "m_per_uv": 1.396,
+   "res": 256
+  },
+  "get_vit": {
+   "recipe": "hud",
+   "color": [
+    0.7913,
+    0.7454,
+    0.6584
+   ],
+   "m_per_uv": 0.599,
+   "res": 256
+  },
+  "horn": {
+   "recipe": "lack",
+   "color": [
+    0.5776,
+    0.4793,
+    0.3231
+   ],
+   "m_per_uv": 0.214,
+   "res": 256
+  }
+ },
+ "parts": [
+  "get_1"
+ ]
+}

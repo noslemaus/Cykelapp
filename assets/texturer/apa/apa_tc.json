@@ -1,0 +1,31 @@
+{
+ "model": "apa",
+ "name": "apa",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "apa_ansikte": {
+   "recipe": "hud",
+   "color": [
+    0.6867,
+    0.1441,
+    0.1441
+   ],
+   "m_per_uv": 0.543,
+   "res": 256
+  },
+  "apa_fall": {
+   "recipe": "tyg",
+   "color": [
+    0.2542,
+    0.1946,
+    0.1384
+   ],
+   "m_per_uv": 1.634,
+   "res": 512
+  }
+ },
+ "parts": [
+  "apa"
+ ]
+}

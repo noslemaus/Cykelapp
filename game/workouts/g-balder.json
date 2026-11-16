@@ -1,0 +1,121 @@
+{
+ "name": "Balder",
+ "category": "vo2max",
+ "description": "Huvuddel: 8 × 1 min (119–120 %). Syreupptag på max. Vila ordentligt mellan blocken.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.74
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.19,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 75,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 75,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 75,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 75,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 75,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.19,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 75,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 75,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 1500,
+   "power": 0.77,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.51
+  }
+ ]
+}

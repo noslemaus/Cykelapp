@@ -1,0 +1,35 @@
+{
+ "name": "Kärrhöken",
+ "category": "sprint",
+ "description": "Huvuddel: 12 × 30 s (140 %). Korta, explosiva spurter med gott om vila.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 900,
+   "from": 0.5,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 12,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.4,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 300,
+    "power": 0.75,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 540,
+   "from": 0.7,
+   "to": 0.5
+  }
+ ]
+}

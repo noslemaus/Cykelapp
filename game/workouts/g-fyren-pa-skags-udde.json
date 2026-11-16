@@ -1,0 +1,283 @@
+{
+ "name": "Fyren på Skags udde",
+ "category": "threshold",
+ "description": "Huvuddel: 4 × 10 min (100 %) och 4 × 1 min (130 %), plus fler block. Lyfter din FTP. Håll watten jämn hela blocket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 720,
+   "from": 0.5,
+   "to": 0.9
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 50,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 50,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 50,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 50,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 0.3,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.3,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.7,
+   "to": 0.25
+  }
+ ]
+}

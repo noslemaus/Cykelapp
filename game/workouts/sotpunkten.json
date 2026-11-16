@@ -1,0 +1,35 @@
+{
+  "name": "Sötpunkten",
+  "category": "sweetspot",
+  "custom": true,
+  "description": "Tre block på fem minuter i sweet spot, strax under tröskeln. Bygger uthållighet utan att du blir helt slut.",
+  "steps": [
+    {
+      "type": "ramp",
+      "duration": 300,
+      "from": 0.45,
+      "to": 0.7
+    },
+    {
+      "type": "intervals",
+      "repeat": 3,
+      "on": {
+        "duration": 300,
+        "power": 0.88,
+        "cadence": 90,
+        "label": "Sweet spot"
+      },
+      "off": {
+        "duration": 120,
+        "power": 0.55,
+        "label": "Vila"
+      }
+    },
+    {
+      "type": "ramp",
+      "duration": 240,
+      "from": 0.6,
+      "to": 0.4
+    }
+  ]
+}

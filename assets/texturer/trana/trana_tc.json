@@ -1,0 +1,61 @@
+{
+ "model": "trana",
+ "name": "trana",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "trana_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0116,
+    0.0116,
+    0.0144
+   ],
+   "m_per_uv": 0.743,
+   "res": 256
+  },
+  "trana_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9216,
+    0.9216,
+    0.8879
+   ],
+   "m_per_uv": 1.022,
+   "res": 256
+  },
+  "trana_rod": {
+   "recipe": "hud",
+   "color": [
+    0.6308,
+    0.0144,
+    0.0232
+   ],
+   "m_per_uv": 0.143,
+   "res": 256
+  },
+  "nab_gul": {
+   "recipe": "lack",
+   "color": [
+    0.7454,
+    0.3515,
+    0.0144
+   ],
+   "m_per_uv": 0.153,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.852,
+   "res": 256
+  }
+ },
+ "parts": [
+  "trana"
+ ]
+}

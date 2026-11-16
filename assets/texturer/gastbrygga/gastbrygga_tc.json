@@ -1,0 +1,49 @@
+{
+ "model": "gastbrygga",
+ "kind": "other",
+ "sets": {
+  "tra_gra": {
+   "recipe": "tra",
+   "color": [
+    0.2664,
+    0.2346,
+    0.1912
+   ],
+   "m_per_uv": 32.406,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 22.342,
+   "res": 2048
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 1.803,
+   "res": 512
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 2.823,
+   "res": 512
+  }
+ },
+ "parts": [
+  "gastbrygga"
+ ]
+}

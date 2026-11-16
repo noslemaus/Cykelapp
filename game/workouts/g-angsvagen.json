@@ -1,0 +1,13 @@
+{
+ "name": "Ängsvägen",
+ "category": "recovery",
+ "description": "Mest runt 55 % av FTP. Lugnt och mjukt, för dagen efter ett hårt pass.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 3600,
+   "power": 0.55,
+   "label": "Lugnt"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "model": "svanbat",
+ "name": "svanbat",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "svan_vit": {
+   "recipe": "lack",
+   "color": [
+    0.8879,
+    0.8879,
+    0.855
+   ],
+   "m_per_uv": 4.772,
+   "res": 1024
+  },
+  "nab_gul": {
+   "recipe": "lack",
+   "color": [
+    0.7454,
+    0.3515,
+    0.0144
+   ],
+   "m_per_uv": 0.328,
+   "res": 256
+  },
+  "kimono_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.2542
+   ],
+   "m_per_uv": 1.624,
+   "res": 512
+  }
+ },
+ "parts": [
+  "svanbat"
+ ]
+}

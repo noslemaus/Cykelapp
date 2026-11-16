@@ -1,0 +1,42 @@
+{
+ "model": "pariserhjul",
+ "name": "pariserhjul",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "hjul_vit": {
+   "recipe": "lack",
+   "color": [
+    0.7913,
+    0.8228,
+    0.8714
+   ],
+   "m_per_uv": 202.144,
+   "res": 2048
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3613,
+    0.402
+   ],
+   "m_per_uv": 11.339,
+   "res": 2048
+  },
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 26.167,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "Hjul",
+  "Stativ"
+ ]
+}

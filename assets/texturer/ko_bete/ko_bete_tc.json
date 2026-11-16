@@ -1,0 +1,51 @@
+{
+ "model": "ko_bete",
+ "name": "ko_bete",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "hud": {
+   "recipe": "hud",
+   "color": [
+    0.7454,
+    0.4508,
+    0.2961
+   ],
+   "m_per_uv": 1.147,
+   "res": 256
+  },
+  "ko_rod": {
+   "recipe": "hud",
+   "color": [
+    0.3231,
+    0.0704,
+    0.0343
+   ],
+   "m_per_uv": 8.076,
+   "res": 2048
+  },
+  "ko_vit": {
+   "recipe": "hud",
+   "color": [
+    0.8632,
+    0.8148,
+    0.7379
+   ],
+   "m_per_uv": 1.533,
+   "res": 512
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 0.659,
+   "res": 256
+  }
+ },
+ "parts": [
+  "ko_bete"
+ ]
+}

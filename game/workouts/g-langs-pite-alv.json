@@ -1,0 +1,163 @@
+{
+ "name": "Längs Pite älv",
+ "category": "endurance",
+ "description": "Mest runt 70 % av FTP, med sju korta ryck. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.65,
+   "to": 0.8
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.86,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.72,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.92,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.72,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.86,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.94,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.7,
+   "to": 0.65
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "name": "Trollsländan",
+ "category": "sprint",
+ "description": "Jämnt, mest runt 50 % av FTP. Snabbt och explosivt, inte segt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.8,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.98,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.91,
+   "cadence": 80
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9,
+   "cadence": 80
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9,
+   "cadence": 80
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 6,
+   "on": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.75,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.6,
+    "label": "Spurt"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

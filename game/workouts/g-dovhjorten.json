@@ -1,0 +1,57 @@
+{
+ "name": "Dovhjorten",
+ "category": "sprint",
+ "description": "Huvuddel: 10 × 20 s (200 %). Snabbhet och kraft. Gå all in i varje spurt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.75,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "intervals",
+   "repeat": 10,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 2.0,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.75,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 340,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

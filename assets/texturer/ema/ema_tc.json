@@ -1,0 +1,41 @@
+{
+ "model": "ema",
+ "name": "ema",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 2.48,
+   "res": 512
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 2.669,
+   "res": 512
+  },
+  "ema_tra": {
+   "recipe": "tra",
+   "color": [
+    0.5776,
+    0.3515,
+    0.162
+   ],
+   "m_per_uv": 1.223,
+   "res": 256
+  }
+ },
+ "parts": [
+  "ema"
+ ]
+}

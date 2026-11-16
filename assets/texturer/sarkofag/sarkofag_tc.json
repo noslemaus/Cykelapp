@@ -1,0 +1,40 @@
+{
+ "model": "sarkofag",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 4.457,
+   "res": 1024
+  },
+  "kalksten": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.6867,
+    0.4969,
+    0.2542
+   ],
+   "m_per_uv": 2.949,
+   "res": 1024
+  },
+  "nemes_bla": {
+   "recipe": "farg",
+   "color": [
+    0.0137,
+    0.0782,
+    0.3231
+   ],
+   "m_per_uv": 1.007,
+   "res": 256
+  }
+ },
+ "parts": [
+  "sarkofag"
+ ]
+}

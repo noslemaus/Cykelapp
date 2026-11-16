@@ -1,0 +1,61 @@
+{
+ "name": "Genom Österlen",
+ "category": "endurance",
+ "description": "Mest runt 70 % av FTP och delar upp till 100 %. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.55,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.7,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 1.0
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 1.0,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.8
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.8,
+   "to": 0.55
+  }
+ ]
+}

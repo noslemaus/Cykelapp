@@ -1,0 +1,188 @@
+{
+ "name": "Upp på Hemavan",
+ "category": "climbing",
+ "description": "Huvuddel: 3 × 1 min (81–94 %) och 3 × 3 min (95 %), plus fler block. Låg kadens i jobbet. Långa backar med låg kadens, som att klättra på riktigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.55,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.25,
+   "cadence": 100,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.56,
+   "to": 0.65,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.25,
+   "cadence": 100,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.61,
+   "to": 0.79,
+   "cadence": 75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.8,
+   "cadence": 75,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.81,
+   "to": 0.94,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.96,
+   "to": 1.04,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "cadence": 65,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.61,
+   "to": 0.79,
+   "cadence": 75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.8,
+   "cadence": 75,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.81,
+   "to": 0.94,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.96,
+   "to": 1.04,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "cadence": 65,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.61,
+   "to": 0.79,
+   "cadence": 75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.8,
+   "cadence": 75,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.81,
+   "to": 0.94,
+   "cadence": 70
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "cadence": 70,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.96,
+   "to": 1.04,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.05,
+   "cadence": 65,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

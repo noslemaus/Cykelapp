@@ -1,0 +1,148 @@
+{
+ "name": "Genom Gästrikland",
+ "category": "endurance",
+ "description": "Mest runt 40 % av FTP, med åtta korta ryck. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.44,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.9
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.25
+  }
+ ]
+}

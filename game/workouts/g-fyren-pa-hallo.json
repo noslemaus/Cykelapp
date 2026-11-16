@@ -1,0 +1,125 @@
+{
+ "name": "Fyren på Hållö",
+ "category": "threshold",
+ "description": "Huvuddel: 3 min (100 %) och 3 × 7 min (91–105 %), plus fler block. Lyser stadigt i mörkret, precis som du ska.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.7
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 10,
+    "power": 1.75,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 50,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 1.05,
+   "to": 0.91
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 1.05,
+   "to": 0.91
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.4,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 1.05,
+   "to": 0.91
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

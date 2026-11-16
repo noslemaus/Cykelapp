@@ -1,0 +1,335 @@
+{
+ "name": "Fyren på Eggegrund",
+ "category": "threshold",
+ "description": "Huvuddel: 1 min (98 %) och tolv set med 3 × 20 s (109 %), plus fler block. Lyfter din FTP. Håll watten jämn hela blocket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.98,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.13,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.53,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 20,
+    "power": 1.09,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 40,
+    "power": 0.99,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.28,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.55
+  }
+ ]
+}

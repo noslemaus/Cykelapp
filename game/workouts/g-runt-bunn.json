@@ -1,0 +1,67 @@
+{
+ "name": "Runt Bunn",
+ "category": "endurance",
+ "description": "Mest runt 45 % av FTP, med fem korta ryck. Bygger uthållighet och fettförbränning.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 420,
+   "power": 0.45,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.02,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.02,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.02,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 420,
+   "power": 0.45,
+   "label": "Lugnt"
+  }
+ ]
+}

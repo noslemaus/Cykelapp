@@ -1,0 +1,41 @@
+{
+ "model": "flaggstang",
+ "name": "flaggstang",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "flagga_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0137,
+    0.1022,
+    0.3813
+   ],
+   "m_per_uv": 2.013,
+   "res": 512
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 8.006,
+   "res": 2048
+  },
+  "flagga_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.8879,
+    0.5395,
+    0.0296
+   ],
+   "m_per_uv": 1.609,
+   "res": 512
+  }
+ },
+ "parts": [
+  "flaggstang"
+ ]
+}

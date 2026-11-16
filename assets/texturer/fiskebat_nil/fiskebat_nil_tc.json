@@ -1,0 +1,111 @@
+{
+ "model": "fiskebat_nil",
+ "name": "fiskebat_nil",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "galabeya_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7835,
+    0.6584
+   ],
+   "m_per_uv": 1.769,
+   "res": 512
+  },
+  "skrov_bla": {
+   "recipe": "batfarg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.2747
+   ],
+   "m_per_uv": 4.47,
+   "res": 1024
+  },
+  "relief_gul": {
+   "recipe": "farg",
+   "color": [
+    0.7454,
+    0.4793,
+    0.0685
+   ],
+   "m_per_uv": 3.783,
+   "res": 1024
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 1.303,
+   "res": 256
+  },
+  "byxor": {
+   "recipe": "tyg",
+   "color": [
+    0.0685,
+    0.0685,
+    0.0844
+   ],
+   "m_per_uv": 0.528,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.595,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 1.237,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 1.576,
+   "res": 512
+  },
+  "galabeya_brun": {
+   "recipe": "tyg",
+   "color": [
+    0.2542,
+    0.1441,
+    0.0685
+   ],
+   "m_per_uv": 1.947,
+   "res": 512
+  },
+  "nat_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0497,
+    0.159,
+    0.2542
+   ],
+   "m_per_uv": 1.194,
+   "res": 256
+  }
+ },
+ "parts": [
+  "fiskebat_nil"
+ ]
+}

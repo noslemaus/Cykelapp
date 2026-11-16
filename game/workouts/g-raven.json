@@ -1,0 +1,63 @@
+{
+ "name": "Räven",
+ "category": "sprint",
+ "description": "Huvuddel: två set med 12 × 30 s (125 %). Snabbt och explosivt, inte segt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "intervals",
+   "repeat": 12,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.25,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 0.35,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 12,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.25,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 15,
+    "power": 0.35,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  }
+ ]
+}

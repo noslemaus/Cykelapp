@@ -1,0 +1,54 @@
+{
+ "name": "Äppelkakan",
+ "category": "sweetspot",
+ "description": "Huvuddel: 2 × 10 min (88 %). Hårt men hållbart. Bygger FTP utan att du blir helt slut.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.35,
+   "to": 0.95
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 600,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.6,
+   "to": 0.35
+  }
+ ]
+}

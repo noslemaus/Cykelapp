@@ -1,0 +1,30 @@
+{
+ "model": "lykta_par",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 2.611,
+   "res": 512
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 1.058,
+   "res": 256
+  }
+ },
+ "parts": [
+  "lykta_par"
+ ]
+}

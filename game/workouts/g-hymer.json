@@ -1,0 +1,85 @@
+{
+ "name": "Hymer",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 min (115 %) och 3 min (115 %), plus fler block. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.85
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.75,
+   "to": 0.4
+  }
+ ]
+}

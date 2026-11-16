@@ -1,0 +1,31 @@
+{
+ "model": "kyrkmur",
+ "name": "kyrkmur",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "vit": {
+   "recipe": "puts",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 3.976,
+   "res": 1024
+  },
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 4.021,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "kyrkmur"
+ ]
+}

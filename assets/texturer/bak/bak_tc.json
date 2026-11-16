@@ -1,0 +1,41 @@
+{
+ "model": "bak",
+ "name": "bak",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 6.439,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 7.76,
+   "res": 2048
+  },
+  "fyr_rod": {
+   "recipe": "farg",
+   "color": [
+    0.5776,
+    0.0296,
+    0.0252
+   ],
+   "m_per_uv": 2.46,
+   "res": 512
+  }
+ },
+ "parts": [
+  "bak"
+ ]
+}

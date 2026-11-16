@@ -1,0 +1,289 @@
+{
+ "name": "Runt Rusken",
+ "category": "endurance",
+ "description": "Mest runt 40 % av FTP, med 23 korta ryck. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.3,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "cadence": 60,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.65,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 15,
+    "power": 1.5,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 45,
+    "power": 0.4,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

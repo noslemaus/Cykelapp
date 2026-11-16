@@ -1,0 +1,123 @@
+{
+ "name": "Fyren på Högbonden",
+ "category": "threshold",
+ "description": "Huvuddel: 6 × 3 min (88–94 %) och 3 min (97 %). Låg kadens i jobbet. Vid tröskeln: jobbigt, jämnt och fokuserat.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.55,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.86,
+   "cadence": 55,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.88,
+   "cadence": 55,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.91,
+   "cadence": 55,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.94,
+   "cadence": 55,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.88,
+   "cadence": 55,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.91,
+   "cadence": 55,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.94,
+   "cadence": 55,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.97,
+   "cadence": 55,
+   "label": "Tröskel"
+  },
+  {
+   "type": "free",
+   "duration": 240,
+   "label": "Fritt – kör som du vill"
+  }
+ ]
+}

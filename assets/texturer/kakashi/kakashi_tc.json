@@ -1,0 +1,50 @@
+{
+ "model": "kakashi",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "kimono_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0685,
+    0.2542
+   ],
+   "m_per_uv": 2.037,
+   "res": 512
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 2.004,
+   "res": 512
+  },
+  "papper": {
+   "recipe": "tyg",
+   "color": [
+    0.8632,
+    0.7758,
+    0.5776
+   ],
+   "m_per_uv": 0.645,
+   "res": 256
+  },
+  "halm_jp": {
+   "recipe": "tra",
+   "color": [
+    0.5776,
+    0.3916,
+    0.117
+   ],
+   "m_per_uv": 1.393,
+   "res": 256
+  }
+ },
+ "parts": [
+  "kakashi"
+ ]
+}

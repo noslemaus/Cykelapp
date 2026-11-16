@@ -1,0 +1,49 @@
+{
+ "model": "cafebord",
+ "kind": "other",
+ "sets": {
+  "trika_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9131,
+    0.9301
+   ],
+   "m_per_uv": 3.759,
+   "res": 1024
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 1.334,
+   "res": 256
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 1.395,
+   "res": 256
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 2.319,
+   "res": 512
+  }
+ },
+ "parts": [
+  "cafebord"
+ ]
+}

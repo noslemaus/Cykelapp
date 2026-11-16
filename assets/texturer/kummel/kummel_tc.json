@@ -1,0 +1,21 @@
+{
+ "model": "kummel",
+ "name": "kummel",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "kummel": {
+   "recipe": "puts",
+   "color": [
+    0.8632,
+    0.8388,
+    0.7758
+   ],
+   "m_per_uv": 6.938,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "kummel"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "model": "sal",
+ "name": "sal",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "sal_gra": {
+   "recipe": "hud",
+   "color": [
+    0.1946,
+    0.2122,
+    0.2384
+   ],
+   "m_per_uv": 2.762,
+   "res": 512
+  },
+  "sal_mork": {
+   "recipe": "hud",
+   "color": [
+    0.0685,
+    0.0782,
+    0.0931
+   ],
+   "m_per_uv": 0.944,
+   "res": 256
+  }
+ },
+ "parts": [
+  "sal"
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "name": "Morgondimma",
+ "category": "recovery",
+ "description": "Mest runt 65 % av FTP. Benen ska må bättre efteråt än innan.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.24,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.65,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.65,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.65,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.65,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.65,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.6,
+   "to": 0.25
+  }
+ ]
+}

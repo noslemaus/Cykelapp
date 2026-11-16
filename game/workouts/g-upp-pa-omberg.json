@@ -1,0 +1,179 @@
+{
+ "name": "Upp på Omberg",
+ "category": "climbing",
+ "description": "Huvuddel: 3 min (85 %) och 8 × 1 min (140 %), plus fler block. Hög kadens i jobbet. Bygger styrka och uthållighet i backarna.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.3,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.75,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.8,
+   "cadence": 100,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.85,
+   "cadence": 100,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 90,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 90,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 90,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 90,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 90,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 80,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 95,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.4,
+   "cadence": 90,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 80,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.75,
+   "to": 0.3
+  }
+ ]
+}

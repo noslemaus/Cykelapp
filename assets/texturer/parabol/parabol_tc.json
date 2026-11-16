@@ -1,0 +1,41 @@
+{
+ "model": "parabol",
+ "name": "parabol",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "parabol_vit": {
+   "recipe": "lack",
+   "color": [
+    0.807,
+    0.7913,
+    0.7454
+   ],
+   "m_per_uv": 1.351,
+   "res": 256
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 0.612,
+   "res": 256
+  },
+  "metall_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 0.182,
+   "res": 256
+  }
+ },
+ "parts": [
+  "parabol"
+ ]
+}

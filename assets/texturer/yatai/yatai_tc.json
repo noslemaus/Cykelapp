@@ -1,0 +1,61 @@
+{
+ "model": "yatai",
+ "name": "yatai",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 5.241,
+   "res": 1024
+  },
+  "tra_morkbrun": {
+   "recipe": "tra",
+   "color": [
+    0.0762,
+    0.0319,
+    0.0144
+   ],
+   "m_per_uv": 2.608,
+   "res": 512
+  },
+  "tak_gra": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0685,
+    0.0802,
+    0.0976
+   ],
+   "m_per_uv": 4.568,
+   "res": 1024
+  },
+  "tak_mork": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0343,
+    0.0395,
+    0.0497
+   ],
+   "m_per_uv": 1.842,
+   "res": 512
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 0.916,
+   "res": 256
+  }
+ },
+ "parts": [
+  "yatai"
+ ]
+}

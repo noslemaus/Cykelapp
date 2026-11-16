@@ -1,0 +1,40 @@
+{
+ "model": "drake",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "drake_gron": {
+   "recipe": "lack",
+   "color": [
+    0.0284,
+    0.2542,
+    0.1022
+   ],
+   "m_per_uv": 5.151,
+   "res": 1024
+  },
+  "drake_guld": {
+   "recipe": "lack",
+   "color": [
+    0.7454,
+    0.4342,
+    0.0561
+   ],
+   "m_per_uv": 13.559,
+   "res": 2048
+  },
+  "drake_rod": {
+   "recipe": "lack",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 12.18,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "drake"
+ ]
+}

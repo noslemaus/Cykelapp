@@ -1,0 +1,118 @@
+{
+ "name": "Surt",
+ "category": "vo2max",
+ "description": "Huvuddel: 2 × 10 s (150 %) och 4 × 3 min (110–120 %). Hög kadens i jobbet. Syreupptag på max. Vila ordentligt mellan blocken.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 105,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 10,
+    "power": 1.5,
+    "cadence": 110,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 50,
+    "power": 0.65,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 1.1,
+   "to": 1.2,
+   "cadence": 95
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 1.1,
+   "to": 1.2,
+   "cadence": 95
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 1.1,
+   "to": 1.2,
+   "cadence": 95
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 1.1,
+   "to": 1.2,
+   "cadence": 95
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.4
+  }
+ ]
+}

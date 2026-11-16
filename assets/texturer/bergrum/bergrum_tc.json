@@ -1,0 +1,59 @@
+{
+ "model": "bergrum",
+ "kind": "other",
+ "sets": {
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.4233,
+    0.4125,
+    0.3763
+   ],
+   "m_per_uv": 16.847,
+   "res": 2048
+  },
+  "betong_mork": {
+   "recipe": "puts",
+   "color": [
+    0.2307,
+    0.2232,
+    0.2016
+   ],
+   "m_per_uv": 12.791,
+   "res": 2048
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 11.839,
+   "res": 2048
+  },
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.1981,
+    0.227,
+    0.2582
+   ],
+   "m_per_uv": 13.467,
+   "res": 2048
+  },
+  "stal_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 6.609,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "bergrum"
+ ]
+}

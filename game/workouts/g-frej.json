@@ -1,0 +1,115 @@
+{
+ "name": "Frej",
+ "category": "vo2max",
+ "description": "Huvuddel: 5 × 30 s (225 %). Korta, mycket hårda block som höjer taket.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 2.25,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 2.25,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 2.25,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 2.25,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 2.25,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 210,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 2.25,
+    "label": "Spurt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 90,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "name": "Asgård",
+ "category": "vo2max",
+ "description": "Huvuddel: 3 × 40 s (120 %) och 5 × 2 min (120 %), plus fler block. Syreupptag på max. Vila ordentligt mellan blocken.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 540,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.85,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.05,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 40,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 1.2,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.55,
+   "to": 0.45
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "name": "Runt Ivösjön",
+ "category": "endurance",
+ "description": "Mest runt 40 % av FTP, med tre korta ryck. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.4,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 295,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 5,
+   "power": 3.0,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 295,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 5,
+   "power": 3.0,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 295,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 5,
+   "power": 3.0,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.4,
+   "label": "Lugnt"
+  }
+ ]
+}

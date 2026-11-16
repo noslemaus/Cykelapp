@@ -1,0 +1,90 @@
+{
+ "name": "Fyren på Almagrundet",
+ "category": "threshold",
+ "description": "Huvuddel: 3 min (100 %) och 2,5 min (100 %), plus fler block. Hög kadens i jobbet. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.25,
+   "to": 0.75,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.25,
+   "cadence": 110,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.2,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.15,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.1,
+   "cadence": 110,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "cadence": 110,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 150,
+   "from": 0.5,
+   "to": 0.25
+  }
+ ]
+}

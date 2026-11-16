@@ -1,0 +1,25 @@
+{
+ "name": "Längs Nissan",
+ "category": "endurance",
+ "description": "Mest runt 65 % av FTP. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 1800,
+   "power": 0.65,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

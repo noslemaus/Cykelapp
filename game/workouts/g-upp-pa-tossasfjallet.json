@@ -1,0 +1,85 @@
+{
+ "name": "Upp på Tossåsfjället",
+ "category": "climbing",
+ "description": "Huvuddel: 2 × 30 s (109 %) och 3 × 3 min (115 %). Låg kadens i jobbet. Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.44,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 180,
+    "power": 1.15,
+    "cadence": 60,
+    "label": "Klättring"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.3,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.82,
+   "label": "Klättring"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.3,
+    "cadence": 90,
+    "label": "Vila"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 180,
+    "power": 1.15,
+    "cadence": 60,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

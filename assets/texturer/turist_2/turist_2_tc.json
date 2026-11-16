@@ -1,0 +1,61 @@
+{
+ "model": "turist_2",
+ "name": "turist_2",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "khaki": {
+   "recipe": "tyg",
+   "color": [
+    0.4793,
+    0.3712,
+    0.1946
+   ],
+   "m_per_uv": 0.905,
+   "res": 256
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.444,
+   "res": 256
+  },
+  "hud_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.7605,
+    0.4342,
+    0.2623
+   ],
+   "m_per_uv": 0.738,
+   "res": 256
+  },
+  "keps_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.3467
+   ],
+   "m_per_uv": 0.501,
+   "res": 256
+  },
+  "markis_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0284,
+    0.1144,
+    0.3467
+   ],
+   "m_per_uv": 0.965,
+   "res": 256
+  }
+ },
+ "parts": [
+  "turist_2"
+ ]
+}

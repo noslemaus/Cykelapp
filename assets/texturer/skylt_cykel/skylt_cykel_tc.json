@@ -1,0 +1,41 @@
+{
+ "model": "skylt_cykel",
+ "name": "skylt_cykel",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "skylt_rod": {
+   "recipe": "lack",
+   "color": [
+    0.5776,
+    0.0212,
+    0.0242
+   ],
+   "m_per_uv": 1.457,
+   "res": 512
+  },
+  "stolpe": {
+   "recipe": "metall",
+   "color": [
+    0.3231,
+    0.3515,
+    0.3813
+   ],
+   "m_per_uv": 2.203,
+   "res": 512
+  },
+  "skylt_vit": {
+   "recipe": "lack",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 1.323,
+   "res": 256
+  }
+ },
+ "parts": [
+  "skylt_cykel"
+ ]
+}

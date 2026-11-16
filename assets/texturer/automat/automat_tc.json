@@ -1,0 +1,40 @@
+{
+ "model": "automat",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "automat_vit": {
+   "recipe": "lack",
+   "color": [
+    0.855,
+    0.8714,
+    0.8879
+   ],
+   "m_per_uv": 3.645,
+   "res": 1024
+  },
+  "vit": {
+   "recipe": "vitt",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 0.529,
+   "res": 256
+  },
+  "tak_mork": {
+   "recipe": "tak_tegel",
+   "color": [
+    0.0343,
+    0.0395,
+    0.0497
+   ],
+   "m_per_uv": 0.664,
+   "res": 256
+  }
+ },
+ "parts": [
+  "automat"
+ ]
+}

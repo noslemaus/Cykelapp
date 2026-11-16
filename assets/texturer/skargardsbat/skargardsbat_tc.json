@@ -1,0 +1,51 @@
+{
+ "model": "skargardsbat",
+ "name": "skargardsbat",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "farja_gron": {
+   "recipe": "batfarg",
+   "color": [
+    0.0252,
+    0.0685,
+    0.0497
+   ],
+   "m_per_uv": 25.056,
+   "res": 2048
+  },
+  "bat_vit": {
+   "recipe": "batfarg",
+   "color": [
+    0.855,
+    0.855,
+    0.8228
+   ],
+   "m_per_uv": 33.376,
+   "res": 2048
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 4.07,
+   "res": 1024
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 24.053,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "skargardsbat"
+ ]
+}

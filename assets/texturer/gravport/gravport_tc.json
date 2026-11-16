@@ -1,0 +1,61 @@
+{
+ "model": "gravport",
+ "name": "gravport",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "klippa_sand": {
+   "recipe": "sandsten",
+   "color": [
+    0.552,
+    0.2542,
+    0.0908
+   ],
+   "m_per_uv": 53.952,
+   "res": 2048
+  },
+  "klippa_mork": {
+   "recipe": "sandsten",
+   "color": [
+    0.3712,
+    0.1441,
+    0.0423
+   ],
+   "m_per_uv": 26.859,
+   "res": 2048
+  },
+  "kalksten_ljus": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.8228,
+    0.7157,
+    0.5271
+   ],
+   "m_per_uv": 10.862,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 11.908,
+   "res": 2048
+  },
+  "kalksten": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.6867,
+    0.4969,
+    0.2542
+   ],
+   "m_per_uv": 6.666,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "gravport"
+ ]
+}

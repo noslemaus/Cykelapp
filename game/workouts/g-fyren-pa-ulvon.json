@@ -1,0 +1,109 @@
+{
+ "name": "Fyren på Ulvön",
+ "category": "threshold",
+ "description": "Huvuddel: 4 × 4 min (95 %) och 2 × 1 min (115 %), plus fler block. Vid tröskeln: jobbigt, jämnt och fokuserat.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.35,
+   "to": 0.55
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "model": "pilgrim",
+ "name": "pilgrim",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "tofs_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 1.984,
+   "res": 512
+  },
+  "halm_jp": {
+   "recipe": "tra",
+   "color": [
+    0.5776,
+    0.3916,
+    0.117
+   ],
+   "m_per_uv": 1.072,
+   "res": 256
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 0.752,
+   "res": 256
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.564,
+   "res": 256
+  },
+  "kimono_lila": {
+   "recipe": "tyg",
+   "color": [
+    0.1946,
+    0.0423,
+    0.2542
+   ],
+   "m_per_uv": 0.545,
+   "res": 256
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 1.502,
+   "res": 512
+  }
+ },
+ "parts": [
+  "pilgrim"
+ ]
+}

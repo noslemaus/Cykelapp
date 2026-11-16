@@ -1,0 +1,79 @@
+{
+ "model": "lastbil",
+ "kind": "other",
+ "sets": {
+  "kamo_gron": {
+   "recipe": "farg",
+   "color": [
+    0.0908,
+    0.1329,
+    0.0497
+   ],
+   "m_per_uv": 6.102,
+   "res": 2048
+  },
+  "kamo_mork": {
+   "recipe": "farg",
+   "color": [
+    0.0369,
+    0.0578,
+    0.0252
+   ],
+   "m_per_uv": 5.405,
+   "res": 1024
+  },
+  "kamo_brun": {
+   "recipe": "farg",
+   "color": [
+    0.1559,
+    0.1046,
+    0.0452
+   ],
+   "m_per_uv": 7.508,
+   "res": 2048
+  },
+  "kamo_svart": {
+   "recipe": "farg",
+   "color": [
+    0.0242,
+    0.0273,
+    0.0203
+   ],
+   "m_per_uv": 2.383,
+   "res": 512
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 5.797,
+   "res": 2048
+  },
+  "dack": {
+   "recipe": "gummi",
+   "color": [
+    0.0144,
+    0.016,
+    0.0194
+   ],
+   "m_per_uv": 5.271,
+   "res": 1024
+  },
+  "hjul_mork": {
+   "recipe": "gummi",
+   "color": [
+    0.0467,
+    0.0529,
+    0.0467
+   ],
+   "m_per_uv": 3.249,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "lastbil"
+ ]
+}

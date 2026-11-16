@@ -1,0 +1,81 @@
+{
+ "model": "yukatapar",
+ "name": "yukatapar",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "yukata_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0423,
+    0.1022,
+    0.4342
+   ],
+   "m_per_uv": 2.074,
+   "res": 512
+  },
+  "tra_brun": {
+   "recipe": "tra",
+   "color": [
+    0.1946,
+    0.0802,
+    0.0296
+   ],
+   "m_per_uv": 0.689,
+   "res": 256
+  },
+  "hud_jp": {
+   "recipe": "hud",
+   "color": [
+    0.807,
+    0.5647,
+    0.3916
+   ],
+   "m_per_uv": 1.245,
+   "res": 256
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.887,
+   "res": 256
+  },
+  "har_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 0.939,
+   "res": 256
+  },
+  "yukata_rosa": {
+   "recipe": "tyg",
+   "color": [
+    0.807,
+    0.2542,
+    0.3916
+   ],
+   "m_per_uv": 1.929,
+   "res": 512
+  },
+  "kimono_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.5271,
+    0.0296,
+    0.0232
+   ],
+   "m_per_uv": 0.896,
+   "res": 256
+  }
+ },
+ "parts": [
+  "yukatapar"
+ ]
+}

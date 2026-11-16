@@ -1,0 +1,51 @@
+{
+ "model": "radjur",
+ "name": "radjur",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 0.145,
+   "res": 256
+  },
+  "rad_brun": {
+   "recipe": "hud",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0513
+   ],
+   "m_per_uv": 1.551,
+   "res": 512
+  },
+  "rumpa_vit": {
+   "recipe": "hud",
+   "color": [
+    0.8632,
+    0.807,
+    0.7157
+   ],
+   "m_per_uv": 0.549,
+   "res": 256
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 0.203,
+   "res": 256
+  }
+ },
+ "parts": [
+  "radjur"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "model": "gammal_bil",
+ "name": "gammal_bil",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "bil_tak": {
+   "recipe": "lack",
+   "color": [
+    0.8632,
+    0.7913,
+    0.624
+   ],
+   "m_per_uv": 3.382,
+   "res": 1024
+  },
+  "bil_bla": {
+   "recipe": "lack",
+   "color": [
+    0.2384,
+    0.4233,
+    0.6308
+   ],
+   "m_per_uv": 5.275,
+   "res": 1024
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 3.624,
+   "res": 1024
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 1.579,
+   "res": 512
+  },
+  "dack": {
+   "recipe": "gummi",
+   "color": [
+    0.0144,
+    0.016,
+    0.0194
+   ],
+   "m_per_uv": 3.03,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "gammal_bil"
+ ]
+}

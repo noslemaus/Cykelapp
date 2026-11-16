@@ -1,0 +1,61 @@
+{
+ "name": "Lingonkakan",
+ "category": "sweetspot",
+ "description": "Huvuddel: 15 min (93 %). Hårt men hållbart. Bygger FTP utan att du blir helt slut.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.49,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.93,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.75,
+   "to": 0.47
+  }
+ ]
+}

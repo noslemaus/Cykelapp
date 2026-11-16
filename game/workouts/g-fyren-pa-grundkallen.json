@@ -1,0 +1,143 @@
+{
+ "name": "Fyren på Grundkallen",
+ "category": "threshold",
+ "description": "Huvuddel: 2 min (90 %) och fem set med 2 × 45 s (115 %). Lyser stadigt i mörkret, precis som du ska.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.5,
+   "to": 0.72
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 45,
+   "power": 1.15,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 1.15,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 225,
+    "power": 0.9,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 1.15,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 225,
+    "power": 0.9,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 1.15,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 225,
+    "power": 0.9,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 45,
+    "power": 1.15,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 225,
+    "power": 0.9,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.6,
+   "to": 0.5
+  }
+ ]
+}

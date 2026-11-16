@@ -1,0 +1,63 @@
+{
+ "name": "Upp på Romeleåsen",
+ "category": "climbing",
+ "description": "Huvuddel: 2 × 30 s (109 %) och 2 × 15 min (65–92 %). Låg kadens i jobbet. Långa backar med låg kadens, som att klättra på riktigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 420,
+   "from": 0.44,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 900,
+   "from": 0.65,
+   "to": 0.92,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 900,
+   "from": 0.65,
+   "to": 0.92,
+   "cadence": 65
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "label": "Vila"
+  }
+ ]
+}

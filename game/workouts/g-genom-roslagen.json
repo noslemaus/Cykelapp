@@ -1,0 +1,26 @@
+{
+ "name": "Genom Roslagen",
+ "category": "endurance",
+ "description": "Mest runt 65 % av FTP. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 1800,
+   "power": 0.65,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.4
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "model": "fruktstand",
+ "name": "fruktstand",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "apelsin": {
+   "recipe": "farg",
+   "color": [
+    0.8714,
+    0.2542,
+    0.0176
+   ],
+   "m_per_uv": 1.173,
+   "res": 256
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 2.619,
+   "res": 512
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.933,
+   "res": 1024
+  },
+  "melon": {
+   "recipe": "farg",
+   "color": [
+    0.1144,
+    0.3231,
+    0.0423
+   ],
+   "m_per_uv": 1.414,
+   "res": 256
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 2.402,
+   "res": 512
+  },
+  "markis_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.7913,
+    0.4621,
+    0.0423
+   ],
+   "m_per_uv": 4.858,
+   "res": 1024
+  },
+  "galabeya_brun": {
+   "recipe": "tyg",
+   "color": [
+    0.2542,
+    0.1441,
+    0.0685
+   ],
+   "m_per_uv": 1.829,
+   "res": 512
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.404,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 0.754,
+   "res": 256
+  },
+  "galabeya_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7835,
+    0.6584
+   ],
+   "m_per_uv": 0.608,
+   "res": 256
+  }
+ },
+ "parts": [
+  "fruktstand"
+ ]
+}

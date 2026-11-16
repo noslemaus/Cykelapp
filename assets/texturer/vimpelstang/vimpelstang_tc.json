@@ -1,0 +1,41 @@
+{
+ "model": "vimpelstang",
+ "name": "vimpelstang",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 9.007,
+   "res": 2048
+  },
+  "flagga_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.8879,
+    0.5395,
+    0.0296
+   ],
+   "m_per_uv": 3.863,
+   "res": 1024
+  },
+  "flagga_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0137,
+    0.1022,
+    0.3813
+   ],
+   "m_per_uv": 4.258,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "vimpelstang"
+ ]
+}

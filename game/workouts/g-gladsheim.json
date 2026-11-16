@@ -1,0 +1,121 @@
+{
+ "name": "Gladsheim",
+ "category": "vo2max",
+ "description": "Huvuddel: 1 min (110 %) och 3 × 1 min (110 %), plus fler block. Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.35,
+   "to": 0.55
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.93,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.93,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.93,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

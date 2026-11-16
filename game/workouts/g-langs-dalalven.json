@@ -1,0 +1,133 @@
+{
+ "name": "Längs Dalälven",
+ "category": "endurance",
+ "description": "Mest runt 75 % av FTP. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 900,
+   "from": 0.4,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.75,
+    "cadence": 90,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.75,
+    "cadence": 60,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "cadence": 95,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.75,
+    "cadence": 90,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.75,
+    "cadence": 60,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "cadence": 95,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.75,
+    "cadence": 90,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "cadence": 85,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 1,
+   "on": {
+    "type": "steady",
+    "duration": 600,
+    "power": 0.75,
+    "cadence": 60,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.5,
+    "cadence": 95,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 720,
+   "from": 0.55,
+   "to": 0.4
+  }
+ ]
+}

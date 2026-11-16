@@ -1,0 +1,31 @@
+{
+ "model": "komainu",
+ "name": "komainu",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "sten_gra": {
+   "recipe": "grund",
+   "color": [
+    0.3231,
+    0.3231,
+    0.305
+   ],
+   "m_per_uv": 6.321,
+   "res": 2048
+  },
+  "sten_mork": {
+   "recipe": "grund",
+   "color": [
+    0.159,
+    0.159,
+    0.15
+   ],
+   "m_per_uv": 3.231,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "komainu"
+ ]
+}

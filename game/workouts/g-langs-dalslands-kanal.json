@@ -1,0 +1,110 @@
+{
+ "name": "Längs Dalslands kanal",
+ "category": "endurance",
+ "description": "Mest runt 70 % av FTP, med fem korta ryck. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.95,
+   "to": 1.03,
+   "cadence": 65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.95,
+   "to": 1.03,
+   "cadence": 65
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 65,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 65,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 65,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 65,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 65,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

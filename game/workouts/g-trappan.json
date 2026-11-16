@@ -1,0 +1,91 @@
+{
+ "name": "Trappan",
+ "category": "ftptest",
+ "description": "Steg på 4 min som ökar 25 W tills du inte orkar mer. Visar var tröskeln ligger.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.55
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 100,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 125,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 150,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 175,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 200,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 225,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 250,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 275,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 300,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 325,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 350,
+   "label": "Rampen"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "watts": 375,
+   "label": "Rampen"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

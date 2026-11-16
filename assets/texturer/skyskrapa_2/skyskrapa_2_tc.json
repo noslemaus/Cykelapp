@@ -1,0 +1,40 @@
+{
+ "model": "skyskrapa_2",
+ "kind": "building",
+ "dir": "world/japan/models",
+ "sets": {
+  "glas_mork": {
+   "recipe": "fasad",
+   "color": [
+    0.0194,
+    0.0296,
+    0.0452
+   ],
+   "m_per_uv": 136.574,
+   "res": 2048
+  },
+  "betong_mork": {
+   "recipe": "puts",
+   "color": [
+    0.2051,
+    0.2016,
+    0.1845
+   ],
+   "m_per_uv": 42.275,
+   "res": 2048
+  },
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.3968,
+    0.3916,
+    0.3613
+   ],
+   "m_per_uv": 18.123,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "skyskrapa_2"
+ ]
+}

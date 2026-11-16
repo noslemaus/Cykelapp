@@ -1,0 +1,63 @@
+{
+ "name": "Fyren på Nidingen",
+ "category": "threshold",
+ "description": "Huvuddel: två set med 3 × 2 min (105 %). Lyfter din FTP. Håll watten jämn hela blocket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.4,
+   "to": 1.05
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 1.05,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.9,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.51,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 120,
+    "power": 1.05,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.91,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.7,
+   "to": 0.4
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "name": "Upp på Idre fjäll",
+ "category": "climbing",
+ "description": "Huvuddel: 2 × 3 min (85–90 %) och 5 min (60–95 %), plus fler block. Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.65,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.9,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.6,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.6,
+   "to": 0.95
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.25,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.15,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.05,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.95,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.85,
+   "to": 0.5
+  }
+ ]
+}

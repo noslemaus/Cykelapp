@@ -1,0 +1,89 @@
+{
+ "name": "Runt Tåkern",
+ "category": "endurance",
+ "description": "Mest runt 85 % av FTP, med elva korta ryck. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.3,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.5,
+   "to": 0.6
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.6,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 900,
+   "from": 0.5,
+   "to": 1.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 900,
+   "from": 1.0,
+   "to": 0.5
+  },
+  {
+   "type": "intervals",
+   "repeat": 7,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.2,
+    "label": "VO2max"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.7,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

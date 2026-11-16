@@ -1,0 +1,62 @@
+{
+ "name": "Längs Indalsälven",
+ "category": "endurance",
+ "description": "Mest runt 100 % av FTP, med fjorton korta ryck. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.75,
+    "cadence": 100,
+    "label": "Distans"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "cadence": 80,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.8,
+   "cadence": 90,
+   "label": "Tempo"
+  },
+  {
+   "type": "intervals",
+   "repeat": 14,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 1.0,
+    "cadence": 110,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.8,
+    "cadence": 90,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "name": "Genom Kolmården",
+ "category": "endurance",
+ "description": "Mest runt 85 % av FTP. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.95,
+   "to": 1.01
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.75,
+   "to": 0.8
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 270,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "model": "stralkastare",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "metall_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 6.028,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "stralkastare"
+ ]
+}

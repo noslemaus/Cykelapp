@@ -1,0 +1,2746 @@
+{
+ "id": "klunghajen",
+ "order": 14,
+ "name": "Klunghajen",
+ "goal": "Starter, ryck och tröskel: allt för att hänga med i ett lopp.",
+ "color": "c2453a",
+ "sessions": [
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 9 min 15 s (88–95 %) och 9,5 min (88–95 %), plus fler block. Hög kadens i jobbet.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 480,
+     "from": 0.5,
+     "to": 0.8
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.5,
+     "cadence": 110,
+     "label": "Hårt"
+    },
+    {
+     "type": "ramp",
+     "duration": 540,
+     "from": 0.88,
+     "to": 0.95,
+     "cadence": 85
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 45,
+     "power": 1.5,
+     "cadence": 110,
+     "label": "Hårt"
+    },
+    {
+     "type": "ramp",
+     "duration": 555,
+     "from": 0.88,
+     "to": 0.95,
+     "cadence": 85
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.5,
+     "cadence": 110,
+     "label": "Hårt"
+    },
+    {
+     "type": "ramp",
+     "duration": 570,
+     "from": 0.88,
+     "to": 0.95,
+     "cadence": 85
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: två set med 2 × 30 s (120 %) och tre set med 4 × 10 s (110 %), plus fler block.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 420,
+     "from": 0.5,
+     "to": 0.75
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "cadence": 110,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "cadence": 85,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "cadence": 75,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.1,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 0.65,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "cadence": 75,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.1,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 0.65,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "cadence": 75,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.1,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 0.65,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 2.0,
+     "label": "Spurt"
+    },
+    {
+     "type": "ramp",
+     "duration": 270,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 9 min 15 s (88–95 %) och 9,5 min (88–95 %), plus fler block. Hög kadens i jobbet.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 480,
+     "from": 0.5,
+     "to": 0.8
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.5,
+     "cadence": 110,
+     "label": "Hårt"
+    },
+    {
+     "type": "ramp",
+     "duration": 540,
+     "from": 0.88,
+     "to": 0.95,
+     "cadence": 85
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 45,
+     "power": 1.5,
+     "cadence": 110,
+     "label": "Hårt"
+    },
+    {
+     "type": "ramp",
+     "duration": 555,
+     "from": 0.88,
+     "to": 0.95,
+     "cadence": 85
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.5,
+     "cadence": 110,
+     "label": "Hårt"
+    },
+    {
+     "type": "ramp",
+     "duration": 570,
+     "from": 0.88,
+     "to": 0.95,
+     "cadence": 85
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 4 × 1 min (110 %) och fyra set med 2 × 10 s (130 %), plus fler block.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 420,
+     "from": 0.5,
+     "to": 0.75
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "cadence": 110,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "cadence": 85,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.15,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 2.0,
+     "label": "Spurt"
+    },
+    {
+     "type": "ramp",
+     "duration": 180,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Klätterpass",
+   "category": "climbing",
+   "description": "Huvuddel: 2 × 2,5 min (120 %) och 3 × 3 min (85 %), plus fler block.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 420,
+     "from": 0.5,
+     "to": 0.75
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "cadence": 110,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "cadence": 85,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.5,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 150,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.8,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.85,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.1,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 0.65,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 150,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.8,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.85,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.1,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 0.65,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 0.85,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.25,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.8,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.2,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.85,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 32,
+     "power": 1.3,
+     "label": "Klättring"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.1,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 0.65,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 2.0,
+     "label": "Klättring"
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: tre set med 8 × 15 s (120 %) och två set med 8 × 15 s (130 %), plus fler block.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 480,
+     "from": 0.5,
+     "to": 0.8,
+     "cadence": 85
+    },
+    {
+     "type": "intervals",
+     "repeat": 3,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.2,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 8,
+     "on": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.2,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 0.8,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 8,
+     "on": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.3,
+      "label": "Hårt"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 0.7,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 8,
+     "on": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.2,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 0.8,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 8,
+     "on": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.3,
+      "label": "Hårt"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 0.7,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 8,
+     "on": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.2,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 0.8,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 180,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Tröskelpass",
+   "category": "threshold",
+   "description": "Huvuddel: 2 × 2 min (95 %) och tre set med 2 × 3 min (95 %), plus fler block.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 420,
+     "from": 0.5,
+     "to": 0.75
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "cadence": 110,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "cadence": 85,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.85,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 45,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.05,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 2.0,
+     "label": "Spurt"
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 65 % av FTP och delar upp till 75 %.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.3,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.65,
+     "cadence": 75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.67,
+     "cadence": 80,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.7,
+     "cadence": 85,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.73,
+     "cadence": 90,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.75,
+     "cadence": 95,
+     "label": "Distans"
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "Återhämtningspass",
+   "category": "recovery",
+   "description": "Mest runt 50 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.25,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "cadence": 95,
+     "label": "Lugnt"
+    },
+    {
+     "type": "ramp",
+     "duration": 60,
+     "from": 0.5,
+     "to": 0.6,
+     "cadence": 100
+    },
+    {
+     "type": "ramp",
+     "duration": 30,
+     "from": 0.6,
+     "to": 0.7,
+     "cadence": 110
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "cadence": 95,
+     "label": "Lugnt"
+    },
+    {
+     "type": "ramp",
+     "duration": 60,
+     "from": 0.5,
+     "to": 0.6,
+     "cadence": 100
+    },
+    {
+     "type": "ramp",
+     "duration": 30,
+     "from": 0.6,
+     "to": 0.7,
+     "cadence": 110
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "cadence": 95,
+     "label": "Lugnt"
+    },
+    {
+     "type": "ramp",
+     "duration": 60,
+     "from": 0.5,
+     "to": 0.6,
+     "cadence": 100
+    },
+    {
+     "type": "ramp",
+     "duration": 30,
+     "from": 0.6,
+     "to": 0.7,
+     "cadence": 110
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "cadence": 95,
+     "label": "Lugnt"
+    },
+    {
+     "type": "ramp",
+     "duration": 60,
+     "from": 0.5,
+     "to": 0.6,
+     "cadence": 100
+    },
+    {
+     "type": "ramp",
+     "duration": 30,
+     "from": 0.6,
+     "to": 0.7,
+     "cadence": 110
+    },
+    {
+     "type": "ramp",
+     "duration": 120,
+     "from": 0.5,
+     "to": 0.25
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 75 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.3,
+     "to": 0.5,
+     "cadence": 85
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.65,
+     "cadence": 90,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.75,
+     "cadence": 75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.65,
+     "cadence": 90,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.75,
+     "cadence": 75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.75,
+     "cadence": 90,
+     "label": "Distans"
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 5 × 10 min (88–93 %).",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.5,
+     "to": 0.8,
+     "cadence": 85
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.88,
+     "cadence": 90,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.9,
+     "cadence": 90,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.93,
+     "cadence": 90,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.9,
+     "cadence": 90,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.88,
+     "cadence": 90,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "ramp",
+     "duration": 120,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 10 × 15 s (110 %) och nio set med 2 × 10 s (110 %), plus fler block.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 420,
+     "from": 0.35,
+     "to": 0.55
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.0,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 1.3,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 10,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 2.0,
+     "label": "Spurt"
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Klätterpass",
+   "category": "climbing",
+   "description": "Jämnt, mest runt 50 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.5,
+     "to": 0.8,
+     "cadence": 85
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 9,
+     "on": {
+      "type": "steady",
+      "duration": 210,
+      "power": 0.7,
+      "cadence": 90,
+      "label": "Distans"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 90,
+      "power": 0.85,
+      "cadence": 65,
+      "label": "Klättring"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 180,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 6 × 1 min (110 %) och 3 × 1 min (120 %), plus fler block.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 420,
+     "from": 0.35,
+     "to": 0.55
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "cadence": 110,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "cadence": 85,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 1.5,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 45,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 45,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 45,
+     "power": 1.2,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 15,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 30,
+     "power": 1.4,
+     "label": "Hårt"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.95,
+     "label": "Tröskel"
+    },
+    {
+     "type": "steady",
+     "duration": 20,
+     "power": 2.0,
+     "label": "Spurt"
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 3 min (110 %) och 1 min (115 %), plus fler block. Hög kadens i jobbet.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 240,
+     "from": 0.4,
+     "to": 0.5,
+     "cadence": 80
+    },
+    {
+     "type": "ramp",
+     "duration": 240,
+     "from": 0.5,
+     "to": 0.6,
+     "cadence": 90
+    },
+    {
+     "type": "ramp",
+     "duration": 240,
+     "from": 0.6,
+     "to": 0.7,
+     "cadence": 95
+    },
+    {
+     "type": "ramp",
+     "duration": 240,
+     "from": 0.7,
+     "to": 0.8,
+     "cadence": 100
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 1.1,
+     "cadence": 100,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.15,
+     "cadence": 110,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "cadence": 85,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.22,
+      "cadence": 110,
+      "label": "Hårt"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.55,
+      "cadence": 85,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 120,
+     "from": 0.55,
+     "to": 0.25
+    }
+   ]
+  }
+ ]
+}

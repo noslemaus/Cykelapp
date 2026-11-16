@@ -1,0 +1,831 @@
+{
+ "id": "klattra-battre",
+ "order": 9,
+ "name": "Klättra bättre",
+ "goal": "Förbered dig för en lång backe: tröskel, tempo och tålamod i uppförslut.",
+ "color": "2e9e4f",
+ "sessions": [
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 75 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.3,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Lugnt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 130,
+      "power": 0.8,
+      "label": "Tempo"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 20,
+      "power": 1.25,
+      "label": "Hårt"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 125,
+      "power": 0.75,
+      "label": "Distans"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.2,
+      "label": "VO2max"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 120,
+      "power": 0.7,
+      "label": "Distans"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.15,
+      "label": "VO2max"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 180,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 30 s (120 %) och 4 × 6 min (90 %).",
+   "steps": [
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 300,
+      "power": 0.45,
+      "label": "Vila"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 300,
+      "power": 0.6,
+      "label": "Distans"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.2,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 360,
+      "power": 0.9,
+      "label": "Sweet spot"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 240,
+      "power": 0.55,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 75 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 1200,
+     "from": 0.3,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 3600,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "Klätterpass",
+   "category": "climbing",
+   "description": "Huvuddel: 4 × 8 min (85 %). Låg kadens i jobbet.",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.7,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.8,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 4,
+     "on": {
+      "type": "steady",
+      "duration": 480,
+      "power": 0.85,
+      "cadence": 50,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 240,
+      "power": 0.6,
+      "cadence": 85,
+      "label": "Vila"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 30 s (120 %) och 3 × 10 min (90 %). Låg kadens i jobbet.",
+   "steps": [
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 300,
+      "power": 0.45,
+      "label": "Vila"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 300,
+      "power": 0.6,
+      "label": "Distans"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.2,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 3,
+     "on": {
+      "type": "steady",
+      "duration": 600,
+      "power": 0.9,
+      "cadence": 75,
+      "label": "Sweet spot"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 240,
+      "power": 0.55,
+      "cadence": 90,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 180,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 75 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 300,
+     "from": 0.3,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Lugnt"
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 130,
+      "power": 0.8,
+      "label": "Tempo"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 20,
+      "power": 1.25,
+      "label": "Hårt"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 125,
+      "power": 0.75,
+      "label": "Distans"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 15,
+      "power": 1.2,
+      "label": "VO2max"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 6,
+     "on": {
+      "type": "steady",
+      "duration": 120,
+      "power": 0.7,
+      "label": "Distans"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 10,
+      "power": 1.15,
+      "label": "VO2max"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 180,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Klätterpass",
+   "category": "climbing",
+   "description": "Jämnt, mest runt 50 % av FTP.",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.7,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.8,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 540,
+      "power": 0.8,
+      "cadence": 50,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 180,
+      "power": 0.65,
+      "cadence": 65,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 3,
+     "on": {
+      "type": "steady",
+      "duration": 120,
+      "power": 0.8,
+      "cadence": 50,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 60,
+      "power": 0.8,
+      "cadence": 50,
+      "label": "Klättring"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "intervals",
+     "repeat": 3,
+     "on": {
+      "type": "steady",
+      "duration": 90,
+      "power": 0.8,
+      "cadence": 50,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 90,
+      "power": 0.8,
+      "cadence": 50,
+      "label": "Klättring"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "intervals",
+     "repeat": 3,
+     "on": {
+      "type": "steady",
+      "duration": 60,
+      "power": 0.8,
+      "cadence": 50,
+      "label": "Klättring"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 120,
+      "power": 0.8,
+      "cadence": 50,
+      "label": "Klättring"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 180,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 75 % av FTP.",
+   "steps": [
+    {
+     "type": "ramp",
+     "duration": 1200,
+     "from": 0.3,
+     "to": 0.5
+    },
+    {
+     "type": "steady",
+     "duration": 7200,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "ramp",
+     "duration": 600,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  },
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 4 × 5 min (93 %) och 4 × 4 min (88 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.65,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.8,
+     "label": "Tempo"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.93,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.88,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.93,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.88,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.93,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.88,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.93,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 240,
+     "power": 0.88,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.75,
+     "label": "Distans"
+    },
+    {
+     "type": "ramp",
+     "duration": 120,
+     "from": 0.55,
+     "to": 0.35
+    }
+   ]
+  },
+  {
+   "name": "Tempo och sweet spot",
+   "category": "sweetspot",
+   "description": "Huvuddel: 2 × 20 min (90 %).",
+   "steps": [
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 180,
+      "power": 0.45,
+      "label": "Vila"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 240,
+      "power": 0.6,
+      "label": "Distans"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.0,
+      "label": "Tröskel"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.1,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "intervals",
+     "repeat": 1,
+     "on": {
+      "type": "steady",
+      "duration": 30,
+      "power": 1.2,
+      "label": "VO2max"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 30,
+      "power": 0.5,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "intervals",
+     "repeat": 2,
+     "on": {
+      "type": "steady",
+      "duration": 1200,
+      "power": 0.9,
+      "label": "Sweet spot"
+     },
+     "off": {
+      "type": "steady",
+      "duration": 180,
+      "power": 0.55,
+      "label": "Vila"
+     }
+    },
+    {
+     "type": "ramp",
+     "duration": 120,
+     "from": 0.5,
+     "to": 0.3
+    }
+   ]
+  }
+ ]
+}

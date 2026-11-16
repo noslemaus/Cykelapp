@@ -1,0 +1,61 @@
+{
+ "model": "tvattlina",
+ "name": "tvattlina",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "tra_gra": {
+   "recipe": "tra",
+   "color": [
+    0.2664,
+    0.2346,
+    0.1912
+   ],
+   "m_per_uv": 1.909,
+   "res": 512
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 4.012,
+   "res": 1024
+  },
+  "tvatt_bla": {
+   "recipe": "tyg",
+   "color": [
+    0.0782,
+    0.2122,
+    0.5271
+   ],
+   "m_per_uv": 1.082,
+   "res": 256
+  },
+  "tvatt_rod": {
+   "recipe": "tyg",
+   "color": [
+    0.6308,
+    0.0802,
+    0.0452
+   ],
+   "m_per_uv": 0.906,
+   "res": 256
+  },
+  "tvatt_gul": {
+   "recipe": "tyg",
+   "color": [
+    0.807,
+    0.552,
+    0.0685
+   ],
+   "m_per_uv": 1.005,
+   "res": 256
+  }
+ },
+ "parts": [
+  "tvattlina"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "model": "pelare_pompejus",
+ "name": "pelare_pompejus",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "granit_rosa": {
+   "recipe": "grund",
+   "color": [
+    0.4564,
+    0.2307,
+    0.1746
+   ],
+   "m_per_uv": 25.08,
+   "res": 2048
+  },
+  "kalksten_mork": {
+   "recipe": "sten_kalk",
+   "color": [
+    0.552,
+    0.3712,
+    0.1779
+   ],
+   "m_per_uv": 14.079,
+   "res": 2048
+  },
+  "granit": {
+   "recipe": "grund",
+   "color": [
+    0.2542,
+    0.1274,
+    0.1022
+   ],
+   "m_per_uv": 16.453,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "pelare_pompejus"
+ ]
+}

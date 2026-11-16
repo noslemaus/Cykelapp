@@ -1,0 +1,76 @@
+{
+ "name": "Genom Halland",
+ "category": "endurance",
+ "description": "Mest runt 75 % av FTP och delar upp till 95 %. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.44,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.75,
+   "cadence": 95,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "label": "Lugnt"
+  }
+ ]
+}

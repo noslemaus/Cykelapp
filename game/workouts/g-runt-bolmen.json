@@ -1,0 +1,401 @@
+{
+ "name": "Runt Bolmen",
+ "category": "endurance",
+ "description": "Mest runt 55 % av FTP och delar upp till 80 %. Prata-tempo hela vägen.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.6,
+   "cadence": 90,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "cadence": 100,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "cadence": 110,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.55,
+   "to": 0.45
+  }
+ ]
+}

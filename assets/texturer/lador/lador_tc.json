@@ -1,0 +1,29 @@
+{
+ "model": "lador",
+ "kind": "other",
+ "sets": {
+  "militar_gron": {
+   "recipe": "farg",
+   "color": [
+    0.1022,
+    0.147,
+    0.0648
+   ],
+   "m_per_uv": 3.529,
+   "res": 1024
+  },
+  "varning_gul": {
+   "recipe": "farg",
+   "color": [
+    0.8148,
+    0.5457,
+    0.0242
+   ],
+   "m_per_uv": 2.564,
+   "res": 512
+  }
+ },
+ "parts": [
+  "lador"
+ ]
+}

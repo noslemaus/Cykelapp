@@ -1,0 +1,39 @@
+{
+ "model": "helipad",
+ "kind": "other",
+ "sets": {
+  "betong": {
+   "recipe": "puts",
+   "color": [
+    0.4233,
+    0.4125,
+    0.3763
+   ],
+   "m_per_uv": 32.13,
+   "res": 2048
+  },
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 5.841,
+   "res": 2048
+  },
+  "varning_gul": {
+   "recipe": "farg",
+   "color": [
+    0.8148,
+    0.5457,
+    0.0242
+   ],
+   "m_per_uv": 6.731,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "helipad"
+ ]
+}

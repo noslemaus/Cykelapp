@@ -1,0 +1,56 @@
+{
+ "name": "Embla",
+ "category": "vo2max",
+ "description": "Huvuddel: 5 × 3 min (123 %). Gudomligt jobbigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 1200,
+   "from": 0.56,
+   "to": 0.74
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.92,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 120,
+    "power": 0.67,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "type": "steady",
+    "duration": 180,
+    "power": 1.23,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 180,
+    "power": 0.55,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.7,
+   "to": 0.55
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  }
+ ]
+}

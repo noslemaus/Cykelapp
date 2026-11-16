@@ -1,0 +1,139 @@
+{
+ "name": "Tornfalken",
+ "category": "sprint",
+ "description": "Huvuddel: 10 × 40 s (85–300 %). Korta, explosiva spurter med gott om vila.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.25,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.81,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "ramp",
+   "duration": 40,
+   "from": 0.85,
+   "to": 3.0
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

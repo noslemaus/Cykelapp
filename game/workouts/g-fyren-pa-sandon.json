@@ -1,0 +1,74 @@
+{
+ "name": "Fyren på Sandön",
+ "category": "threshold",
+ "description": "Huvuddel: 2 min (100 %) och 2 × 2 min (95 %), plus fler block. Hög kadens i jobbet. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.25,
+   "to": 0.75,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.25,
+   "cadence": 110,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.0,
+   "cadence": 100,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 1.15,
+   "cadence": 105,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.98,
+   "cadence": 95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.08,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.95,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.92,
+   "cadence": 95,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "free",
+   "duration": 30,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.5,
+   "to": 0.25
+  }
+ ]
+}

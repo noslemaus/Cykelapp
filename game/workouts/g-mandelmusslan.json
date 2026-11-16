@@ -1,0 +1,109 @@
+{
+ "name": "Mandelmusslan",
+ "category": "sweetspot",
+ "description": "Huvuddel: tre set med 3 × 5 min (76–89 %) och 3 × 10 s (150 %). Söt punkt: precis lagom jobbigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.35,
+   "to": 0.95
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.45,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.4,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.76,
+   "to": 0.89
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.5,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.6,
+   "to": 0.35
+  }
+ ]
+}

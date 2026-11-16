@@ -1,0 +1,51 @@
+{
+ "model": "man_galabeya",
+ "name": "man_galabeya",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "galabeya_gra": {
+   "recipe": "tyg",
+   "color": [
+    0.3231,
+    0.3005,
+    0.2542
+   ],
+   "m_per_uv": 2.013,
+   "res": 512
+  },
+  "sko": {
+   "recipe": "lack",
+   "color": [
+    0.0423,
+    0.0273,
+    0.0194
+   ],
+   "m_per_uv": 0.444,
+   "res": 256
+  },
+  "hud_eg": {
+   "recipe": "hud",
+   "color": [
+    0.3916,
+    0.1779,
+    0.0762
+   ],
+   "m_per_uv": 0.757,
+   "res": 256
+  },
+  "galabeya_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8388,
+    0.7835,
+    0.6584
+   ],
+   "m_per_uv": 0.372,
+   "res": 256
+  }
+ },
+ "parts": [
+  "man_galabeya"
+ ]
+}

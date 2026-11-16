@@ -1,0 +1,9 @@
+{
+ "model": "gatlykta",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {},
+ "parts": [
+  "gatlykta"
+ ]
+}

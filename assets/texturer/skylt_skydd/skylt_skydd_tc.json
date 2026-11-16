@@ -1,0 +1,41 @@
+{
+ "model": "skylt_skydd",
+ "name": "skylt_skydd",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "stal": {
+   "recipe": "metall",
+   "color": [
+    0.1981,
+    0.227,
+    0.2582
+   ],
+   "m_per_uv": 2.206,
+   "res": 512
+  },
+  "varning_gul": {
+   "recipe": "farg",
+   "color": [
+    0.8148,
+    0.5457,
+    0.0242
+   ],
+   "m_per_uv": 2.115,
+   "res": 512
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 1.664,
+   "res": 512
+  }
+ },
+ "parts": [
+  "skylt_skydd"
+ ]
+}

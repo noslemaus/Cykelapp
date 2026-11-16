@@ -1,0 +1,104 @@
+{
+ "name": "Fyren på Vrångö",
+ "category": "threshold",
+ "description": "Huvuddel: 3 × 3 min (100 %) och 3 × 3 min (108 %), plus fler block. Vid tröskeln: jobbigt, jämnt och fokuserat.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.48,
+   "to": 0.95,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 110,
+   "power": 0.54,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.08,
+   "cadence": 95,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "cadence": 85,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.08,
+   "cadence": 95,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "cadence": 85,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.0,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.08,
+   "cadence": 95,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.9,
+   "cadence": 85,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

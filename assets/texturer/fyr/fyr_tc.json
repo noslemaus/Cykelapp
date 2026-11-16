@@ -1,0 +1,61 @@
+{
+ "model": "fyr",
+ "name": "fyr",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "fyr_vit": {
+   "recipe": "farg",
+   "color": [
+    0.9047,
+    0.8796,
+    0.8228
+   ],
+   "m_per_uv": 7.98,
+   "res": 2048
+  },
+  "grund": {
+   "recipe": "grund",
+   "color": [
+    0.2623,
+    0.2542,
+    0.2747
+   ],
+   "m_per_uv": 6.16,
+   "res": 2048
+  },
+  "fyr_rod": {
+   "recipe": "farg",
+   "color": [
+    0.5776,
+    0.0296,
+    0.0252
+   ],
+   "m_per_uv": 9.27,
+   "res": 2048
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 7.036,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.108,
+   "res": 512
+  }
+ },
+ "parts": [
+  "fyr"
+ ]
+}

@@ -1,0 +1,191 @@
+{
+  "egypten": {
+    "dubbelvarvet": {
+      "hm": 307,
+      "km": 24.7,
+      "segments": [
+        "Promenadspurten",
+        "Upp till Giza",
+        "Platåspurten",
+        "Dynbacken",
+        "Kritspurten",
+        "Kungadalen",
+        "Kataraktbron",
+        "Basarspurten"
+      ]
+    },
+    "nilen": {
+      "hm": 58,
+      "km": 4.0,
+      "segments": [
+        "Kataraktbron",
+        "Basarspurten"
+      ]
+    },
+    "oknen": {
+      "hm": 54,
+      "km": 3.9,
+      "segments": [
+        "Dynbacken",
+        "Kritspurten",
+        "Kungadalen"
+      ]
+    },
+    "pyramiderna": {
+      "hm": 40,
+      "km": 3.7,
+      "segments": [
+        "Promenadspurten",
+        "Upp till Giza",
+        "Platåspurten"
+      ]
+    },
+    "varvet": {
+      "hm": 154,
+      "km": 12.3,
+      "segments": [
+        "Promenadspurten",
+        "Upp till Giza",
+        "Platåspurten",
+        "Dynbacken",
+        "Kritspurten",
+        "Kungadalen",
+        "Kataraktbron",
+        "Basarspurten"
+      ]
+    }
+  },
+  "japan": {
+    "dubbelvarvet": {
+      "hm": 206,
+      "km": 24.6,
+      "segments": [
+        "Odaibaspurten",
+        "Tempelbacken",
+        "Sjöspurten",
+        "Irohabacken",
+        "Slottsspurten",
+        "Gasshobacken",
+        "Kustspurten",
+        "Neonspurten"
+      ]
+    },
+    "irohabackarna": {
+      "hm": 70,
+      "km": 2.5,
+      "segments": [
+        "Tempelbacken",
+        "Sjöspurten",
+        "Irohabacken"
+      ]
+    },
+    "landsbygden": {
+      "hm": 15,
+      "km": 2.8,
+      "segments": [
+        "Slottsspurten",
+        "Gasshobacken"
+      ]
+    },
+    "neonstaden": {
+      "hm": 2,
+      "km": 2.6,
+      "segments": [
+        "Odaibaspurten",
+        "Kustspurten",
+        "Neonspurten"
+      ]
+    },
+    "varvet": {
+      "hm": 103,
+      "km": 12.3,
+      "segments": [
+        "Odaibaspurten",
+        "Tempelbacken",
+        "Sjöspurten",
+        "Irohabacken",
+        "Slottsspurten",
+        "Gasshobacken",
+        "Kustspurten",
+        "Neonspurten"
+      ]
+    }
+  },
+  "skargarden": {
+    "dubbelvarvet": {
+      "hm": 356,
+      "km": 24.3,
+      "segments": [
+        "Klipporna",
+        "Fiskelägesbacken",
+        "Kyrkbacken",
+        "Kyrkbyspurten",
+        "Fyrberget",
+        "Storberget",
+        "Storöspurten",
+        "Långöbron",
+        "Strandspurten"
+      ]
+    },
+    "kustvagen": {
+      "hm": 82,
+      "km": 5.5,
+      "segments": [
+        "Klipporna",
+        "Fiskelägesbacken",
+        "Kyrkbacken",
+        "Kyrkbyspurten",
+        "Fyrberget"
+      ]
+    },
+    "sprintarna": {
+      "hm": 52,
+      "km": 3.9,
+      "segments": [
+        "Storöspurten",
+        "Långöbron",
+        "Strandspurten"
+      ]
+    },
+    "stora_turen": {
+      "hm": 534,
+      "km": 36.5,
+      "segments": [
+        "Klipporna",
+        "Fiskelägesbacken",
+        "Kyrkbacken",
+        "Kyrkbyspurten",
+        "Fyrberget",
+        "Storberget",
+        "Storöspurten",
+        "Långöbron",
+        "Strandspurten"
+      ]
+    },
+    "tre_berg": {
+      "hm": 67,
+      "km": 3.4,
+      "segments": [
+        "Kyrkbacken",
+        "Kyrkbyspurten",
+        "Fyrberget",
+        "Storberget"
+      ]
+    },
+    "varvet": {
+      "hm": 178,
+      "km": 12.2,
+      "segments": [
+        "Klipporna",
+        "Fiskelägesbacken",
+        "Kyrkbacken",
+        "Kyrkbyspurten",
+        "Fyrberget",
+        "Storberget",
+        "Storöspurten",
+        "Långöbron",
+        "Strandspurten"
+      ]
+    }
+  }
+}

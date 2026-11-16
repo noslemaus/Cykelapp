@@ -1,0 +1,45 @@
+{
+ "name": "Halvtimmen",
+ "category": "ftptest",
+ "description": "30 min så jämnt och hårt du orkar. Snittet från de sista 20 min ligger nära din FTP.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 720,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Väck benen"
+   },
+   "off": {
+    "duration": 60,
+    "power": 0.55,
+    "label": "Lugnt"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "free",
+   "duration": 1800,
+   "label": "Allt du har"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "name": "Trädgården",
+ "category": "recovery",
+ "description": "Mest runt 90 % av FTP, med elva korta ryck. Ingen stress, bara tramp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.65,
+   "to": 0.8
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.75,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.74,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.86,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.73,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.72,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.71,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.92,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.94,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.69,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.7,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.94,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.72,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.92,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.74,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.9,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.76,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.92,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.96,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.84,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.04,
+   "label": "Tröskel"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.74,
+   "to": 0.65
+  }
+ ]
+}

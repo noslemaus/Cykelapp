@@ -1,0 +1,89 @@
+{
+ "name": "Marängen",
+ "category": "sweetspot",
+ "description": "Huvuddel: 4 × 3 min 45 s (88 %) och 4 × 15 s (120 %). Hög kadens i jobbet. Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "steady",
+   "duration": 225,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.2,
+   "cadence": 105,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 225,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.2,
+   "cadence": 105,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 225,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.2,
+   "cadence": 105,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 90,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 225,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.2,
+   "cadence": 105,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "Kungsfiskaren",
+ "category": "sprint",
+ "description": "Huvuddel: 12 × 10 s (141 %). Snabbt och explosivt, inte segt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 900,
+   "from": 0.58,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 12,
+   "on": {
+    "type": "steady",
+    "duration": 10,
+    "power": 1.41,
+    "label": "Hårt"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 170,
+    "power": 0.82,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "free",
+   "duration": 240,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.87,
+   "to": 0.95
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

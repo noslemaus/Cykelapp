@@ -1,0 +1,61 @@
+{
+ "name": "Brasan",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP, med två korta ryck. Lugnt och mjukt, för dagen efter ett hårt pass.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.48,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.58,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.98,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.18,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}

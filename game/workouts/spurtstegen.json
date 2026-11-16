@@ -1,0 +1,47 @@
+{
+  "name": "Spurtstegen",
+  "category": "sprint",
+  "custom": true,
+  "description": "Åtta korta spurter med gott om vila emellan. Snabbt och explosivt, inte segt.",
+  "steps": [
+    {
+      "type": "ramp",
+      "duration": 420,
+      "from": 0.45,
+      "to": 0.7
+    },
+    {
+      "type": "steady",
+      "duration": 60,
+      "power": 0.9,
+      "label": "Väck benen"
+    },
+    {
+      "type": "steady",
+      "duration": 120,
+      "power": 0.55,
+      "label": "Vila"
+    },
+    {
+      "type": "intervals",
+      "repeat": 8,
+      "on": {
+        "duration": 15,
+        "power": 1.5,
+        "cadence": 110,
+        "label": "Spurt"
+      },
+      "off": {
+        "duration": 105,
+        "power": 0.5,
+        "label": "Vila"
+      }
+    },
+    {
+      "type": "ramp",
+      "duration": 240,
+      "from": 0.55,
+      "to": 0.4
+    }
+  ]
+}

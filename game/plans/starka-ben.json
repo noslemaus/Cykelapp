@@ -1,0 +1,973 @@
+{
+ "id": "starka-ben",
+ "order": 8,
+ "name": "Starka ben",
+ "goal": "Kraft i benen: låg kadens och tunga block i backar, som styrketräning på cykeln.",
+ "color": "3cb371",
+ "sessions": [
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 20 × 1 min (110 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 1200,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 1200,
+     "power": 0.4,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 4 × 5 min (110 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 1200,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 1200,
+     "power": 0.5,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 15 × 1 min (110 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 900,
+     "power": 0.5,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 60,
+     "power": 0.9,
+     "label": "Sweet spot"
+    },
+    {
+     "type": "steady",
+     "duration": 900,
+     "power": 0.5,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 60 % av FTP.",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.4,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.4,
+     "label": "Lugnt"
+    }
+   ]
+  },
+  {
+   "name": "Distanspass",
+   "category": "endurance",
+   "description": "Mest runt 60 % av FTP.",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.6,
+     "label": "Distans"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.5,
+     "label": "Lugnt"
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 6 × 2 min (110 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 900,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 900,
+     "power": 0.4,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "VO2max-pass",
+   "category": "vo2max",
+   "description": "Huvuddel: 6 × 3 min (110 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 900,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 180,
+     "power": 1.1,
+     "label": "VO2max"
+    },
+    {
+     "type": "steady",
+     "duration": 120,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 900,
+     "power": 0.4,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "Klätterpass",
+   "category": "climbing",
+   "description": "Huvuddel: 30 min (85 %) och 10 min (93 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 1800,
+     "power": 0.85,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.93,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.4,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "Klätterpass",
+   "category": "climbing",
+   "description": "Huvuddel: 30 min (85 %) och 10 min (100 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 1800,
+     "power": 0.85,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 1.0,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.4,
+     "label": "Vila"
+    }
+   ]
+  },
+  {
+   "name": "Klätterpass",
+   "category": "climbing",
+   "description": "Huvuddel: 30 min (85 %) och 10 min (110 %).",
+   "steps": [
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 0.4,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 1800,
+     "power": 0.85,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 600,
+     "power": 1.1,
+     "label": "Klättring"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.55,
+     "label": "Vila"
+    },
+    {
+     "type": "steady",
+     "duration": 300,
+     "power": 0.4,
+     "label": "Vila"
+    }
+   ]
+  }
+ ]
+}

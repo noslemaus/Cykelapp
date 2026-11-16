@@ -1,0 +1,39 @@
+{
+ "model": "livbojsstall",
+ "kind": "other",
+ "sets": {
+  "vit": {
+   "recipe": "farg",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 1.608,
+   "res": 512
+  },
+  "fyr_rod": {
+   "recipe": "farg",
+   "color": [
+    0.5776,
+    0.0296,
+    0.0252
+   ],
+   "m_per_uv": 0.549,
+   "res": 256
+  },
+  "livboj": {
+   "recipe": "farg",
+   "color": [
+    0.807,
+    0.0999,
+    0.0232
+   ],
+   "m_per_uv": 1.124,
+   "res": 256
+  }
+ },
+ "parts": [
+  "livbojsstall"
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "name": "Upp på Fulufjället",
+ "category": "climbing",
+ "description": "Huvuddel: 2 × 1 min (95 %) och 15 × 10 s (121 %), plus fler block. Sitt still, tryck på och ta toppen.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.95,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 1.09,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.78,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.21,
+   "label": "Klättring"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.5
+  }
+ ]
+}

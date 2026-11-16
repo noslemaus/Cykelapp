@@ -1,0 +1,161 @@
+{
+ "name": "Genom Medelpad",
+ "category": "endurance",
+ "description": "Mest runt 70 % av FTP och delar upp till 85 %. Grunden i all träning: lång, jämn och uthållig.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.95,
+   "to": 1.01
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.75,
+   "to": 0.8
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.45,
+   "to": 0.65
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 60,
+   "power": 0.85,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 900,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "free",
+   "duration": 300,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 0.79,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.68,
+   "label": "Distans"
+  },
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.65,
+   "to": 0.45
+  }
+ ]
+}

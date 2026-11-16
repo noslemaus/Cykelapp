@@ -1,0 +1,72 @@
+{
+ "original": {
+  "name": "Klassikern",
+  "en": "The Classic",
+  "world": "",
+  "bpm": 120,
+  "folder": ""
+ },
+ "nilen": {
+  "name": "Nilen",
+  "en": "The Nile",
+  "world": "egypten",
+  "bpm": 108,
+  "folder": "nilen"
+ },
+ "midsommarnatt": {
+  "name": "Midsommarnatt",
+  "en": "Midsummer Night",
+  "world": "skargarden",
+  "bpm": 118,
+  "folder": "midsommarnatt"
+ },
+ "kustvagen": {
+  "name": "Kustvägen",
+  "en": "Coast Road",
+  "world": "skargarden",
+  "bpm": 124,
+  "folder": "kustvagen"
+ },
+ "fyrljus": {
+  "name": "Fyrljus",
+  "en": "Beacon",
+  "world": "skargarden",
+  "bpm": 96,
+  "folder": "fyrljus"
+ },
+ "basaren": {
+  "name": "Basaren",
+  "en": "The Bazaar",
+  "world": "egypten",
+  "bpm": 126,
+  "folder": "basaren"
+ },
+ "pyramiderna": {
+  "name": "Pyramiderna",
+  "en": "The Pyramids",
+  "world": "egypten",
+  "bpm": 92,
+  "folder": "pyramiderna"
+ },
+ "neongatan": {
+  "name": "Neongatan",
+  "en": "Neon Street",
+  "world": "japan",
+  "bpm": 116,
+  "folder": "neongatan"
+ },
+ "sakura": {
+  "name": "Sakura",
+  "en": "Sakura",
+  "world": "japan",
+  "bpm": 100,
+  "folder": "sakura"
+ },
+ "shinkansen": {
+  "name": "Shinkansen",
+  "en": "Shinkansen",
+  "world": "japan",
+  "bpm": 128,
+  "folder": "shinkansen"
+ }
+}

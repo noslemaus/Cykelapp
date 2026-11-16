@@ -1,0 +1,41 @@
+{
+ "model": "ejdrar",
+ "name": "ejdrar",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "ejder_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.8879,
+    0.8632,
+    0.7913
+   ],
+   "m_per_uv": 1.833,
+   "res": 512
+  },
+  "ejder_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0232,
+    0.0252,
+    0.0284
+   ],
+   "m_per_uv": 1.746,
+   "res": 512
+  },
+  "ejder_brun": {
+   "recipe": "tyg",
+   "color": [
+    0.2051,
+    0.117,
+    0.0595
+   ],
+   "m_per_uv": 1.878,
+   "res": 512
+  }
+ },
+ "parts": [
+  "ejdrar"
+ ]
+}

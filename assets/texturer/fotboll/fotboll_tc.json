@@ -1,0 +1,10 @@
+{
+ "model": "fotboll",
+ "name": "fotboll",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {},
+ "parts": [
+  "fotboll"
+ ]
+}

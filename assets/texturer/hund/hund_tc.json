@@ -1,0 +1,31 @@
+{
+ "model": "hund",
+ "name": "hund",
+ "kind": "other",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 0.147,
+   "res": 256
+  },
+  "hund_guld": {
+   "recipe": "hud",
+   "color": [
+    0.6867,
+    0.3515,
+    0.0802
+   ],
+   "m_per_uv": 1.286,
+   "res": 256
+  }
+ },
+ "parts": [
+  "hund"
+ ]
+}

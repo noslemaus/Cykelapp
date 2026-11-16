@@ -1,0 +1,71 @@
+{
+ "model": "flodpram",
+ "name": "flodpram",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "rost": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.0685,
+    0.0232
+   ],
+   "m_per_uv": 9.792,
+   "res": 2048
+  },
+  "pram_skrov": {
+   "recipe": "metall",
+   "color": [
+    0.0437,
+    0.0423,
+    0.0452
+   ],
+   "m_per_uv": 25.386,
+   "res": 2048
+  },
+  "sockerror": {
+   "recipe": "tra",
+   "color": [
+    0.3916,
+    0.4564,
+    0.1022
+   ],
+   "m_per_uv": 20.315,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 16.985,
+   "res": 2048
+  },
+  "kryss_vit": {
+   "recipe": "batfarg",
+   "color": [
+    0.8879,
+    0.8714,
+    0.8228
+   ],
+   "m_per_uv": 9.5,
+   "res": 2048
+  },
+  "metall_mork": {
+   "recipe": "metall",
+   "color": [
+    0.0742,
+    0.0887,
+    0.1046
+   ],
+   "m_per_uv": 7.659,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "flodpram"
+ ]
+}

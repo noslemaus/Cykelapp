@@ -1,0 +1,40 @@
+{
+ "model": "skarabe",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "skarabe": {
+   "recipe": "lack",
+   "color": [
+    0.0137,
+    0.1144,
+    0.1441
+   ],
+   "m_per_uv": 2.156,
+   "res": 512
+  },
+  "skarabe_ljus": {
+   "recipe": "lack",
+   "color": [
+    0.0284,
+    0.2747,
+    0.2542
+   ],
+   "m_per_uv": 0.741,
+   "res": 256
+  },
+  "svart": {
+   "recipe": "gummi",
+   "color": [
+    0.0137,
+    0.0152,
+    0.0176
+   ],
+   "m_per_uv": 0.811,
+   "res": 256
+  }
+ },
+ "parts": [
+  "skarabe"
+ ]
+}

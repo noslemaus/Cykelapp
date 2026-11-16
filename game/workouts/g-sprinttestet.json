@@ -1,0 +1,67 @@
+{
+ "name": "Sprinttestet",
+ "category": "ftptest",
+ "description": "Tre spurter på 10 s så hårt du kan, med 5 min vila. Mäter toppeffekten.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 720,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "duration": 30,
+    "power": 1.05,
+    "cadence": 100,
+    "label": "Väck benen"
+   },
+   "off": {
+    "duration": 60,
+    "power": 0.55,
+    "label": "Lugnt"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.55,
+   "label": "Lugnt"
+  },
+  {
+   "type": "free",
+   "duration": 10,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 10,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 10,
+   "label": "Spurt"
+  },
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

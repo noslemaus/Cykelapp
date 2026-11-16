@@ -1,0 +1,177 @@
+{
+ "name": "Vale",
+ "category": "vo2max",
+ "description": "Huvuddel: 6 × 30 s (130 %) och 6 × 2 min (121–150 %). Gudomligt jobbigt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.75
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.8,
+    "label": "Tempo"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "intervals",
+   "repeat": 2,
+   "on": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.98,
+    "label": "Tröskel"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.5,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "cadence": 85,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 1.21,
+   "to": 1.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "cadence": 85,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 1.21,
+   "to": 1.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "cadence": 85,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 1.21,
+   "to": 1.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "cadence": 85,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 1.21,
+   "to": 1.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "cadence": 85,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 1.21,
+   "to": 1.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.3,
+   "cadence": 85,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 1.21,
+   "to": 1.5
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 360,
+   "from": 0.75,
+   "to": 0.25
+  }
+ ]
+}

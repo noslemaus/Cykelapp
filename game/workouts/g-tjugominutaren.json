@@ -1,0 +1,66 @@
+{
+ "name": "Tjugominutaren",
+ "category": "ftptest",
+ "description": "Klassiskt FTP-test: uppvärmning med korta ryck, sedan 20 min så hårt du orkar i fritt läge. FTP blir 95 % av snittet.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.3,
+   "to": 0.7
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 0.8,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.0,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 20,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 1.1,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.2,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "free",
+   "duration": 1200,
+   "label": "Allt du har"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "model": "vakttorn",
+ "name": "vakttorn",
+ "kind": "building",
+ "dir": "world/skargarden/models",
+ "sets": {
+  "takgra": {
+   "recipe": "tak_plat",
+   "color": [
+    0.0685,
+    0.0762,
+    0.0953
+   ],
+   "m_per_uv": 7.421,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 9.962,
+   "res": 2048
+  },
+  "tra": {
+   "recipe": "tra",
+   "color": [
+    0.3231,
+    0.1441,
+    0.0561
+   ],
+   "m_per_uv": 6.491,
+   "res": 2048
+  },
+  "militar_gron": {
+   "recipe": "vagg",
+   "color": [
+    0.1022,
+    0.147,
+    0.0648
+   ],
+   "m_per_uv": 6.642,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "vakttorn"
+ ]
+}

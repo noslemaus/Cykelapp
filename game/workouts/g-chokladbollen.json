@@ -1,0 +1,83 @@
+{
+ "name": "Chokladbollen",
+ "category": "sweetspot",
+ "description": "Huvuddel: 3 × 2 min (117 %). Mycket träning för pengarna, strax under tröskeln.",
+ "steps": [
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.5,
+   "label": "Vila"
+  },
+  {
+   "type": "intervals",
+   "repeat": 3,
+   "on": {
+    "type": "steady",
+    "duration": 30,
+    "power": 0.9,
+    "label": "Sweet spot"
+   },
+   "off": {
+    "type": "steady",
+    "duration": 60,
+    "power": 0.6,
+    "label": "Vila"
+   }
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 0.72,
+   "label": "Distans"
+  },
+  {
+   "type": "steady",
+   "duration": 1800,
+   "power": 0.82,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.17,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.17,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.17,
+   "label": "VO2max"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.75,
+   "to": 0.5
+  }
+ ]
+}

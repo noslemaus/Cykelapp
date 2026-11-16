@@ -1,0 +1,66 @@
+{
+ "name": "Daggigt gräs",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP, med två korta ryck. Lugnt och mjukt, för dagen efter ett hårt pass.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.75
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.85,
+   "cadence": 95,
+   "label": "Tempo"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.95,
+   "cadence": 105,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "steady",
+   "duration": 30,
+   "power": 1.05,
+   "cadence": 110,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Lugnt"
+  },
+  {
+   "type": "free",
+   "duration": 600,
+   "label": "Fritt – kör som du vill"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.25
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "name": "Bryggan",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP. Ingen stress, bara tramp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.25,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.5,
+   "to": 0.6,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.6,
+   "to": 0.7,
+   "cadence": 110
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.5,
+   "to": 0.6,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.6,
+   "to": 0.7,
+   "cadence": 110
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.5,
+   "to": 0.6,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.6,
+   "to": 0.7,
+   "cadence": 110
+  },
+  {
+   "type": "steady",
+   "duration": 300,
+   "power": 0.5,
+   "cadence": 95,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 60,
+   "from": 0.5,
+   "to": 0.6,
+   "cadence": 100
+  },
+  {
+   "type": "ramp",
+   "duration": 30,
+   "from": 0.6,
+   "to": 0.7,
+   "cadence": 110
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.5,
+   "to": 0.25
+  }
+ ]
+}

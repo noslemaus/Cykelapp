@@ -1,0 +1,71 @@
+{
+ "model": "hus_kairo_1",
+ "name": "hus_kairo_1",
+ "kind": "building",
+ "dir": "world/egypten/models",
+ "sets": {
+  "puts_sand": {
+   "recipe": "puts",
+   "color": [
+    0.6867,
+    0.4851,
+    0.2542
+   ],
+   "m_per_uv": 24.671,
+   "res": 2048
+  },
+  "puts_vit": {
+   "recipe": "puts",
+   "color": [
+    0.8148,
+    0.7379,
+    0.6038
+   ],
+   "m_per_uv": 26.359,
+   "res": 2048
+  },
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 8.667,
+   "res": 2048
+  },
+  "vit": {
+   "recipe": "vitt",
+   "color": [
+    0.8796,
+    0.8388,
+    0.7605
+   ],
+   "m_per_uv": 3.372,
+   "res": 1024
+  },
+  "metall": {
+   "recipe": "metall",
+   "color": [
+    0.2542,
+    0.2789,
+    0.3185
+   ],
+   "m_per_uv": 3.251,
+   "res": 1024
+  },
+  "mashrabiya": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0578,
+    0.0194
+   ],
+   "m_per_uv": 4.835,
+   "res": 1024
+  }
+ },
+ "parts": [
+  "hus_kairo_1"
+ ]
+}

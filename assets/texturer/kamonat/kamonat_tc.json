@@ -1,0 +1,59 @@
+{
+ "model": "kamonat",
+ "kind": "other",
+ "sets": {
+  "tra_mork": {
+   "recipe": "tra",
+   "color": [
+    0.1559,
+    0.0685,
+    0.0273
+   ],
+   "m_per_uv": 2.612,
+   "res": 512
+  },
+  "kamo_gron": {
+   "recipe": "farg",
+   "color": [
+    0.0908,
+    0.1329,
+    0.0497
+   ],
+   "m_per_uv": 8.178,
+   "res": 2048
+  },
+  "kamo_mork": {
+   "recipe": "farg",
+   "color": [
+    0.0369,
+    0.0578,
+    0.0252
+   ],
+   "m_per_uv": 7.497,
+   "res": 2048
+  },
+  "kamo_brun": {
+   "recipe": "farg",
+   "color": [
+    0.1559,
+    0.1046,
+    0.0452
+   ],
+   "m_per_uv": 8.869,
+   "res": 2048
+  },
+  "kamo_svart": {
+   "recipe": "farg",
+   "color": [
+    0.0242,
+    0.0273,
+    0.0203
+   ],
+   "m_per_uv": 6.472,
+   "res": 2048
+  }
+ },
+ "parts": [
+  "kamonat"
+ ]
+}

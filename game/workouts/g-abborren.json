@@ -1,0 +1,77 @@
+{
+ "name": "Abborren",
+ "category": "sprint",
+ "description": "Huvuddel: 4 × 15 s (150 %). Hög kadens i jobbet. Ett snabbt pass på en halvtimme.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 480,
+   "from": 0.5,
+   "to": 0.75,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.5,
+   "cadence": 110,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.88,
+   "to": 0.95,
+   "cadence": 90
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.5,
+   "cadence": 110,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.88,
+   "to": 0.95,
+   "cadence": 90
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.5,
+   "cadence": 110,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.88,
+   "to": 0.95,
+   "cadence": 90
+  },
+  {
+   "type": "steady",
+   "duration": 15,
+   "power": 1.5,
+   "cadence": 110,
+   "label": "Hårt"
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.88,
+   "to": 0.95,
+   "cadence": 90
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  }
+ ]
+}

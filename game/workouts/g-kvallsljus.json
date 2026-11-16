@@ -1,0 +1,26 @@
+{
+ "name": "Kvällsljus",
+ "category": "recovery",
+ "description": "Mest runt 50 % av FTP. Ingen stress, bara tramp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.3,
+   "to": 0.5
+  },
+  {
+   "type": "steady",
+   "duration": 600,
+   "power": 0.5,
+   "cadence": 90,
+   "label": "Lugnt"
+  },
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.5,
+   "to": 0.3
+  }
+ ]
+}

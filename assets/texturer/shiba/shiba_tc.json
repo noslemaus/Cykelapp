@@ -1,0 +1,31 @@
+{
+ "model": "shiba",
+ "name": "shiba",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "shiba": {
+   "recipe": "hud",
+   "color": [
+    0.5776,
+    0.2159,
+    0.0423
+   ],
+   "m_per_uv": 1.497,
+   "res": 512
+  },
+  "shiba_ljus": {
+   "recipe": "hud",
+   "color": [
+    0.8714,
+    0.7758,
+    0.6308
+   ],
+   "m_per_uv": 0.483,
+   "res": 256
+  }
+ },
+ "parts": [
+  "shiba"
+ ]
+}

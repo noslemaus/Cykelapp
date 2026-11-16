@@ -1,0 +1,35 @@
+{
+ "name": "Upp på Romeleklint",
+ "category": "climbing",
+ "description": "Huvuddel: 5 × 2 min (85 %). Låg kadens i jobbet. Kort och effektivt när tiden är knapp.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 300,
+   "from": 0.45,
+   "to": 0.72
+  },
+  {
+   "type": "intervals",
+   "repeat": 5,
+   "on": {
+    "duration": 120,
+    "power": 0.85,
+    "cadence": 75,
+    "label": "Klättring"
+   },
+   "off": {
+    "duration": 120,
+    "power": 1.0,
+    "cadence": 60,
+    "label": "Klättring"
+   }
+  },
+  {
+   "type": "ramp",
+   "duration": 240,
+   "from": 0.62,
+   "to": 0.4
+  }
+ ]
+}

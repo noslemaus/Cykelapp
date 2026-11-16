@@ -1,0 +1,51 @@
+{
+ "model": "taxi_japan",
+ "name": "taxi",
+ "kind": "other",
+ "dir": "world/japan/models",
+ "sets": {
+  "taxi_svart": {
+   "recipe": "lack",
+   "color": [
+    0.0116,
+    0.0116,
+    0.016
+   ],
+   "m_per_uv": 6.258,
+   "res": 2048
+  },
+  "taxi_gul": {
+   "recipe": "lack",
+   "color": [
+    0.807,
+    0.4793,
+    0.0296
+   ],
+   "m_per_uv": 4.421,
+   "res": 1024
+  },
+  "tofs_vit": {
+   "recipe": "tyg",
+   "color": [
+    0.9047,
+    0.9047,
+    0.8714
+   ],
+   "m_per_uv": 2.994,
+   "res": 1024
+  },
+  "tofs_svart": {
+   "recipe": "tyg",
+   "color": [
+    0.0103,
+    0.0103,
+    0.013
+   ],
+   "m_per_uv": 2.523,
+   "res": 512
+  }
+ },
+ "parts": [
+  "taxi"
+ ]
+}

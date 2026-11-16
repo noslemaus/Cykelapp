@@ -1,0 +1,91 @@
+{
+ "name": "Fyren på Måseskär",
+ "category": "threshold",
+ "description": "Huvuddel: 8 min (95 %) och 6 min (100 %), plus fler block. Hög kadens i jobbet. Lyfter din FTP. Håll watten jämn hela blocket.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 600,
+   "from": 0.4,
+   "to": 0.96,
+   "cadence": 85
+  },
+  {
+   "type": "steady",
+   "duration": 110,
+   "power": 0.5,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 1.25,
+   "cadence": 100,
+   "label": "Hårt"
+  },
+  {
+   "type": "steady",
+   "duration": 180,
+   "power": 0.4,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 480,
+   "power": 0.95,
+   "cadence": 90,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.45,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 360,
+   "power": 1.0,
+   "cadence": 95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.45,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 240,
+   "power": 1.05,
+   "cadence": 95,
+   "label": "Tröskel"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 0.45,
+   "cadence": 85,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 120,
+   "power": 1.1,
+   "cadence": 100,
+   "label": "VO2max"
+  },
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.45,
+   "to": 0.3,
+   "cadence": 85
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "model": "vattenbuffel",
+ "name": "vattenbuffel",
+ "kind": "other",
+ "dir": "world/egypten/models",
+ "sets": {
+  "buffel": {
+   "recipe": "hud",
+   "color": [
+    0.0423,
+    0.0343,
+    0.0319
+   ],
+   "m_per_uv": 3.422,
+   "res": 1024
+  },
+  "horn": {
+   "recipe": "lack",
+   "color": [
+    0.5776,
+    0.4793,
+    0.3231
+   ],
+   "m_per_uv": 0.688,
+   "res": 256
+  }
+ },
+ "parts": [
+  "vattenbuffel"
+ ]
+}

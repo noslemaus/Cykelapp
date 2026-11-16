@@ -1,0 +1,109 @@
+{
+ "name": "Vildsvinet",
+ "category": "sprint",
+ "description": "Huvuddel: 8 × 10 s (225 %). Snabbhet och kraft. Gå all in i varje spurt.",
+ "steps": [
+  {
+   "type": "ramp",
+   "duration": 180,
+   "from": 0.35,
+   "to": 0.55
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 160,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 160,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 160,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 150,
+   "power": 0.55,
+   "label": "Vila"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "steady",
+   "duration": 160,
+   "power": 0.88,
+   "label": "Sweet spot"
+  },
+  {
+   "type": "steady",
+   "duration": 10,
+   "power": 2.25,
+   "label": "Spurt"
+  },
+  {
+   "type": "ramp",
+   "duration": 120,
+   "from": 0.55,
+   "to": 0.35
+  }
+ ]
+}
